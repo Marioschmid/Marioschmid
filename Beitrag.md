@@ -28,8 +28,6 @@ Ob für einen Kaffee zwischen den Ablösungen, ein feines Mittagessen oder einen
 
 Besonders erfreulich: Der gesamte Erlös kommt ausschliesslich dem Unterverband Berner Oberland zugute und fliesst damit direkt in die Förderung des Kegelsports.
 
-Die aktuellen Menüangebote und Verpflegungsmöglichkeiten werden laufend auf der Homepage und vor Ort im Kegelcenter kommuniziert.
-
 ## Heimberg freut sich auf euch
 
 Ob als Teilnehmerin oder Teilnehmer, als Vereinskollege, Fan oder interessierter Zuschauer – ein Besuch im Kegelcenter Heimberg lohnt sich in den kommenden Wochen ganz besonders.
