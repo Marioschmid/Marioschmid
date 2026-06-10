@@ -2,7 +2,7 @@
 
 Nach dem erfolgreichen Auftakt der Schweizer Meisterschaften folgt ab nächster Woche der zweite grosse Wettkampfblock im Kegelcenter Heimberg. Das Rahmenprogramm bietet allen Keglerinnen und Keglern die ideale Gelegenheit, Wettkampfatmosphäre zu erleben, wertvolle Erfahrungen zu sammeln und sich optimal auf die Titelwettkämpfe im Herbst vorzubereiten.
 
-Auf Bahn 3 wird der Wettbewerb **Sport**, auf Bahn 4 der Wettbewerb **Americaine** ausgetragen. Gleichzeitig führt der Unterverband Berner Oberland auf den Bahnen 1 und 2 seine Meisterschaft durch. Damit herrscht während der gesamten Woche reger Wettkampfbetrieb auf allen vier Bahnen.
+Auf Bahn 3 wird der Wettbewerb **Sport**, auf Bahn 4 der Wettbewerb **Americaine** ausgetragen. Gleichzeitig führt der Unterverband Berner Oberland auf den Bahnen 1 und 2 seine Meisterschaft durch. Damit herrscht reger Wettkampfbetrieb auf allen vier Bahnen.
 
 Für die Teilnehmerinnen und Teilnehmer bietet sich die seltene Gelegenheit, unter echten Wettkampfbedingungen auf den Meisterschaftsbahnen zu spielen. Wer seine aktuelle Form testen, wichtige Erkenntnisse für die Saison gewinnen oder einfach zusätzliche Wettkampfpraxis sammeln möchte, findet in Heimberg ideale Voraussetzungen.
 
