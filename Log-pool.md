@@ -3,6 +3,13 @@
 Poolvolumen: 10 Kubikmeter. 
 Filterbetrieb: permanent
 
+
+#Poolchemie
+
+- PH Minus: 1 Dosierlöffel reduziert 10 Kubikmeter un 0.1  
+- Chlortabs 5g: 2 tabs pro kubikmeter (erstdosierung)
+- Chlortabs 20g: 5 tabs pro wochw
+
 # Logdaten
 ## 18.6.2026 17:00
 
