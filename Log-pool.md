@@ -1,58 +1,34 @@
 # Pooldaten
 
-Poolvolumen: 10 Kubikmeter. 
-Filterbetrieb: permanent
+ - Poolvolumen: 10 Kubikmeter
+ - Filterbetrieb: permanent
 
 
-#Poolchemie
+# Poolchemie
 
 - PH Minus: 1 Dosierlöffel reduziert 10 Kubikmeter un 0.1  
 - Chlortabs 5g: 2 tabs pro kubikmeter (erstdosierung)
 - Chlortabs 20g: 5 tabs pro wochw
 
 # Logdaten
-## 18.6.2026 17:00
 
-### Messungen
+| Datum     | Zeit  | PH  | ClF   | Tab 5g | Tab 20g | PH - | PH + | Bemerkung            |
+|------------|--------|-----|--------|---------|----------|------|------|----------------------|
+| 18.06.2026 | 17:00  | 7.3 | nicht messbar | 0       | 0        | 0    | 0    | keine               |
+| 19.06.2026 | 12:30  | —   | nicht messbar | 12      | 0        | 0    | 0    | Chlortabletten 5g (schnellauflösend) |
+| 19.06.2026 | 16:00  | 8.2 | 0.03  | 0       | 0        | 7    | 0    | PH stark erhöht, Behandlung mit PH- |
+| 20.06.2026 | 10:00  | 7.2 | nicht messbar | 12      | 0        | 0    | 0    | Chlortabletten 5g (schnellauflösend) |
+| 20.06.2026 | 17:00  | 7.3 | 0.18  | 0       | 0        | 0    | 0    | Schwimmer leer       |
 
-- PH: 7.3
-- ClF: nicht messbar 
+# Legende
 
-### Aktion
+- **PH** = gemessener pH-Wert (Messwert)
+- **ClF** = freies Chlor (Messwert)
 
-keine
+- **Tab 5g** = Anzahl eingesetzter 5g-Chlortabletten  
+- **Tab 20g** = Anzahl eingesetzter 20g-Chlortabletten  
 
-## 19.6.2026 12:30
+- **PH -** = Anzahl eingesetzter Messlöffel pH-Senker  
+- **PH +** = Anzahl eingesetzter Messlöffel pH-Heber  
 
-### Messungen
-
-- PH: nicht gemessen. 
-- ClF: nicht messbar
-
-### Aktion
-
-12 Chlortabletten 5g (schnelauflösend)
-
-## 19.6.2026 16:00
-
-### Messungen
-
-- PH: 8.2  
-- ClF: 0.03
-
-### Aktion
-
-7 Messbecher PH minus
-
-## 20.6.2026 10:00
-
-### Messungen
-
-- PH: 7.2  
-- ClF: nicht messbar
-
-### Aktion
-
-12 Chlortabletten 5g (scnellauflösend
-
-
+- **Bemerkung** = zusätzliche Hinweise zur Messung oder Aktion
