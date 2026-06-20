@@ -37,7 +37,7 @@ keine
 
 7 Messbecher PH minus
 
-## 20.6.2026 09:00
+## 20.6.2026 10:00
 
 ### Messungen
 
