@@ -18,9 +18,9 @@
 | 19.06.2026 | 16:00 | 8.2 | 0.03 | —   | 0      | 0        | 7    | 0    | PH stark erhöht, Behandlung mit PH-  |
 | 20.06.2026 | 10:00 | 7.2 | —    | —   | 12     | 0        | 0    | 0    | Chlortabletten 5g (schnellauflösend) |
 | 20.06.2026 | 17:00 | 7.3 | 0.18 | 167 | 0      | 0        | 0    | 0    | Schwimmer leer                       |
-| XX.XX.XXXX | XX:XX | —   | —   | —    | 0      | 0        | 0    | 0    | ???                                  |
-| XX.XX.XXXX | XX:XX | —   | —   | —    | 0      | 0        | 0    | 0    | ???                                  |
-| XX.XX.XXXX | XX:XX | —   | —   | —    | 0      | 0        | 0    | 0    | ???                                  |
+| 21.06.2026 | 11:00 | 7.2 | 0.00 | —   | 0      | 0        | 0    | 0    | ???                                  |
+| XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
+| XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 
 # Legende
 
