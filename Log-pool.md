@@ -22,8 +22,9 @@
 | 23.06.2026 | 10:00 | 7.1 | 0.00 | —   | 0      | 3        | 0    | 0    | Chlor nachgelegt                     |
 | 24.06.2026 | 12:00 | 7.6 | 0.21 | —   | 0      | 0        | 2.5  | 0    | Das Wasser ist wunderbar klar        |
 | 24.06.2026 | 19:00 | —   | —    | —   | 0      | 0        | 0    | 0    | Wurde intensiv genutzt. Temp=27°C    |
-| 25.06.2026 | 19:00 | 7.3 | 0.00 | 175 | 0      | 0        | 0    | 0    | Wurde nicht genutzt                  |
-| XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 2        | 0    | 0    | ???                                  |
+| 25.06.2026 | 19:00 | 7.3 | 0.00 | 175 | 0      | 2        | 0    | 0    | Wurde nicht genutzt                  |
+| 28.06.2026 | 13:00 | 7.6 | 0.00 | —   | 0      | 2        | 2.0  | 0    | Wurde 2 Tage kur genutzt, letzte Nacht Gewitter |
+| XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 
 # Legende
 
