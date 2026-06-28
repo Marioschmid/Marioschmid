@@ -26,6 +26,7 @@
 | 28.06.2026 | 13:00 | 7.6 | 0.00 | —   | 0      | 2        | 2.0  | 0    | Wurde 2 Tage kur genutzt, letzte Nacht Gewitter |
 | XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 
+
 # Legende
 
 - **PH** = gemessener pH-Wert (Zielwert: **7.2 – 7.4**)
