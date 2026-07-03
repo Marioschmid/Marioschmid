@@ -13,6 +13,12 @@
 
 - Planet Pool: Aqua Inspector 2.0
 
+## Regagenztabletten
+
+- ClF (freies Chlor): DPD no. 1
+- ClT (Toal Chlor): DPD no. 1 + DPD no. 3 EVO
+- PH: Phenol red
+
 # Logdaten
 
 | Datum      | Zeit  | PH  | ClF  | TA  | Tab 5g | Tab 20g | PH - | PH + | Bemerkung                             |
