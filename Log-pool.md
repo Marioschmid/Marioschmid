@@ -24,6 +24,8 @@
 | 24.06.2026 | 19:00 | —   | —    | —   | 0      | 0        | 0    | 0    | Wurde intensiv genutzt. Temp=27°C    |
 | 25.06.2026 | 19:00 | 7.3 | 0.00 | 175 | 0      | 2        | 0    | 0    | Wurde nicht genutzt                  |
 | 28.06.2026 | 13:00 | 7.6 | 0.00 | —   | 0      | 2        | 2.0  | 0    | Wurde 2 Tage kur genutzt, letzte Nacht Gewitter |
+| 01.07.2026 | 20:00 | 7.2 | 0.01 | —   | 0      | 2        | 0    | 0    | ein teil der alten tabs war aufgebraucht                                  |
+| XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 | XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 
 
