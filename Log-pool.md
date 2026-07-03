@@ -9,6 +9,10 @@
 - Chlortabs 5g: 2 tabs pro Kubikmeter (Erstdosierung)
 - Chlortabs 20g: 5 tabs pro Woche
 
+# Messgerät
+
+- Planet Pool: Aqua Inspector 2.0
+
 # Logdaten
 
 | Datum      | Zeit  | PH  | ClF  | TA  | Tab 5g | Tab 20g | PH - | PH + | Bemerkung                             |
@@ -25,7 +29,7 @@
 | 25.06.2026 | 19:00 | 7.3 | 0.00 | 175 | 0      | 2        | 0    | 0    | Wurde nicht genutzt                  |
 | 28.06.2026 | 13:00 | 7.6 | 0.00 | —   | 0      | 2        | 2.0  | 0    | Wurde 2 Tage kur genutzt, letzte Nacht Gewitter |
 | 01.07.2026 | 20:00 | 7.2 | 0.01 | —   | 0      | 2        | 0    | 0    | ein teil der alten tabs war aufgebraucht                                  |
-| XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
+| 03.07.2026 | 11:00 | 7.7 | 0.00 | —   | 0      | 0        | 0    | 0    | total chlor gemessen: 0.49 mg/l      |
 | XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 
 
