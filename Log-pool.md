@@ -36,7 +36,7 @@
 | 28.06.2026 | 13:00 | 7.6 | 0.00 | —   | 0      | 2        | 2.0  | 0    | Wurde 2 Tage kur genutzt, letzte Nacht Gewitter |
 | 01.07.2026 | 20:00 | 7.2 | 0.01 | —   | 0      | 2        | 0    | 0    | ein teil der alten tabs war aufgebraucht                                  |
 | 03.07.2026 | 11:00 | 7.7 | 0.00 | —   | 0      | 0        | 4.0  | 0    | total chlor gemessen: 0.49 mg/l      |
-| 05.07.2026 | 15:30 | 7.1 | 0.00 | 115 | 0      | 0        | 0    | 0    | total chlor gemessen: 0.00 mg/l      |
+| 05.07.2026 | 15:30 | 7.1 | 0.00 | 115 | 4      | 0        | 0    | 0    | total chlor gemessen: 0.00 mg/l      |
 | XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 
 # Legende
