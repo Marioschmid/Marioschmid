@@ -41,7 +41,8 @@
 | 06.07.2026 | 20:00 | 7.3 | 0.73 | —   | 0      | 0        | 0    | 0    | stark genutzt                        |
 | 07.07.2026 | 21:00 | 7.6 | 0.69 | —   | 0      | 0        | 0    | 0    | stark genutzt                        |
 | 09.07.2026 | 19:30 | 7.3 | 0.78 | —   | 0      | 0        | 0    | 0    | wenig genutzt; vereinzelte braune Flecken am Boden |
-| 11.07.2026 | 09:00 | 7.5 | 0.77 | —   | 0      | 0        | 0    | 0    | wenig genutzt - Ablagerungen am Boden (ev. Algen) - wenig Reste im Schwimmer |
+| 11.07.2026 | 09:00 | 7.5 | 0.77 | —   | 0      | 2        | 0    | 0    | wenig genutzt - Ablagerungen am Boden (ev. Algen) - wenig Reste im Schwimmer |
+| 14.07.2026 | 10:30 | 7.8 | 0.75 | —   | 0      | 0        | 4.0  | 0    | teilweise leichte algen, die sich mechanisch entfernen lassen |
 | XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 
 # Legende
