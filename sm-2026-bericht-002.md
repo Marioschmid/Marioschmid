@@ -1,0 +1,23 @@
+# Schweizer Meisterschaft 2026: Die entscheidende Phase beginnt
+
+Mit dem **erfolgreichen Abschluss der Vormeisterschaft und des abwechslungsreichen Rahmenprogramms** ist ein wichtiger Meilenstein der Schweizer Meisterschaft 2026 erreicht. In den vergangenen Wochen standen bereits zahlreiche Wettkämpfe, sportliche Höchstleistungen und kameradschaftliche Begegnungen im Mittelpunkt.
+
+Eine besondere Neuerung bei der Schweizer Meisterschaft 2026 war die erstmalige Durchführung des **Rahmenprogramms vor den eigentlichen Titelkämpfen**. Während in der Vergangenheit die Rahmenwettkämpfe zeitlich parallel zu den Meisterschaftswettkämpfen ausgetragen wurden, hat sich das Organisationskomitee für einen neuen Weg entschieden. Mit diesem Schritt übernimmt die Schweizer Meisterschaft 2026 eine Vorreiterrolle und zeigt neue Möglichkeiten für die zukünftige Durchführung solcher Grossanlässe auf.
+
+Der Entscheid wurde insbesondere durch die unterschiedlichen infrastrukturellen Voraussetzungen der Veranstalter beeinflusst. Nicht jeder Austragungsort verfügt über genügend Kegelbahnen, um Rahmenprogramm und Meisterschaftswettkämpfe gleichzeitig durchführen zu können. Durch die zeitliche Trennung erhalten die verschiedenen Wettkämpfe die notwendige Aufmerksamkeit und können unter optimaleren Bedingungen organisiert werden.
+
+Ein weiterer wichtiger Bestandteil der Organisation ist die Gastronomie während der gesamten Meisterschaft. Diese wird durch das Organisationskomitee selbst betrieben. Unsere Köchin **Nelly Zimmermann** investiert viel Herzblut und Engagement in die Vorbereitung und Gestaltung einer abwechslungsreichen Speisekarte. Die Besucherinnen und Besucher dürfen sich auf ein attraktives kulinarisches Angebot freuen, das zum Verweilen und zu geselligen Begegnungen neben den Wettkämpfen einlädt.
+
+Sämtliche daraus erwirtschafteten Erlöse fliessen dem **Unterverband Berner Oberland** zu und stehen damit langfristig für die Förderung und Erhaltung des Kegelsports zur Verfügung. Auf diese Weise leistet die Schweizer Meisterschaft nicht nur einen sportlichen Beitrag, sondern schafft auch eine wertvolle finanzielle Grundlage für die Zukunft unseres Sports.
+
+Eine zusätzliche Herausforderung stellte das aussergewöhnlich heisse Sommerwetter dar. Während des Rahmenprogramms mit den Sport- und Américaine-Wettkämpfen verlangten die hohen Temperaturen sowohl den Athletinnen und Athleten als auch dem Organisationsteam einiges ab. Es war eine anspruchsvolle Aufgabe, die Kegelbahnen trotz der Hitze jederzeit in einem optimalen Zustand zu halten. Gleichzeitig mussten auch die Sportlerinnen und Sportler den hohen Temperaturen trotzen, was die Wettkämpfe zusätzlich erschwerte.
+
+Gerade aus diesem Grund hatte sich das Organisationskomitee bereits lange im Voraus entschlossen, das Rahmenprogramm in den Juni zu legen. Man hoffte, damit den oft sehr heissen Hochsommertagen auszuweichen und sowohl für die Teilnehmenden als auch für die Infrastruktur möglichst ideale Bedingungen zu schaffen. Der Wettergott hatte jedoch andere Pläne und bescherte ausgerechnet während des Rahmenprogramms hochsommerliche Temperaturen. Dank des grossen Einsatzes aller Beteiligten konnten dennoch sämtliche Wettkämpfe planmässig und erfolgreich durchgeführt werden.
+
+Der offizielle Start der Schweizer Meisterschaft erfolgt nun am **29. August 2026** mit dem traditionellen **Kantonewettkampf**. Dabei treten die Mannschaften der Schweizer Kantone gegeneinander an und kämpfen um den Titel des stärksten Kantons. Dieser Wettkampf bildet den feierlichen Auftakt zur entscheidenden Meisterschaftsphase.
+
+Ab **30. August** stehen die Einzel- und Klubwettkämpfe im Mittelpunkt. Bis zum **26. September 2026** absolvieren Keglerinnen und Kegler aller Kategorien ihre Meisterschaftswettkämpfe. Für die **Kategorien B und C** entscheiden diese Resultate direkt über die Vergabe der Schweizer Meistertitel. Für die **Kategorie A** dienen sie als Qualifikation für den Finaltag.
+
+Am **4. Oktober 2026** treffen schliesslich die besten Damen und Herren der **Kategorie A** nochmals aufeinander. In diesem Finalwettkampf werden die Titel der **Schweizer Meisterin Kategorie A** und des **Schweizer Meisters Kategorie A** vergeben und die Schweizer Meisterschaft findet ihren würdigen Abschluss.
+
+Das Organisationskomitee bedankt sich bereits heute bei allen Athletinnen und Athleten, den zahlreichen Helferinnen und Helfern sowie den Zuschauerinnen und Zuschauern für ihre Unterstützung und freut sich auf die bevorstehenden Wettkämpfe. Gemeinsam blicken wir einer spannenden Schlussphase der Schweizer Meisterschaft 2026 entgegen.
