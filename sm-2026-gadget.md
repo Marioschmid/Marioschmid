@@ -7,7 +7,7 @@ Das OK der SM 2026 hat sich deshalb entschieden, einen neuen Weg zu gehen: Anste
 Damit möchten wir nicht nur ein Zeichen gegen die Wegwerfmentalität setzen, sondern auch einen Beitrag leisten, der über den Sport hinaus Wirkung zeigt. Die Teilnehmerinnen und Teilnehmer erhalten so zwar keinen Gegenstand, dürfen aber mit dem Wissen an der Schweizermeisterschaft teilnehmen, dass ihr Anlass gleichzeitig Menschen unterstützt, die auf Hilfe angewiesen sind.
 
 **Wir sind auf der Suche nach einer geeigneten gemeinnützigen Organisation, welche mit unserer Spende unterstützt werden soll.**  
-Falls Sie eine Organisation kennen, die zu diesem Gedanken passt und einen wertvollen Beitrag für die Gesellschaft leistet, freuen wir uns über entsprechende Hinweise und Vorschläge.
+Falls Du eine Organisation kennst, die zu diesem Gedanken passt und einen wertvollen Beitrag für die Gesellschaft leistet, freuen wir uns über entsprechende Hinweise und Vorschläge.
 
 Welche Organisation schliesslich mit der Spende unterstützt wird, werden wir im Rahmen der Schweizermeisterschaft bekannt geben.
 
