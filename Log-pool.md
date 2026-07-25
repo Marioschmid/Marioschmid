@@ -54,7 +54,7 @@
 
 - **PH** = gemessener pH-Wert (Zielwert: **7.2 – 7.4**)
 
-- **ClF** = freies Chlor (Zielwert: **0.1 – 0.3 mg/L (ppm)**)
+- **ClF** = freies Chlor (Zielwert: **0.5 – 0.8 mg/L (ppm)**)
 
 - **TA** = Alkalinität / Säurekapazität (Zielwert: **80 – 120 ppm**)
 
