@@ -44,6 +44,10 @@
 | 09.07.2026 | 19:30 | 7.3 | 0.78 | —   | 0      | 0        | 0    | 0    | wenig genutzt; vereinzelte braune Flecken am Boden |
 | 11.07.2026 | 09:00 | 7.5 | 0.77 | —   | 0      | 2        | 0    | 0    | wenig genutzt - Ablagerungen am Boden (ev. Algen) - wenig Reste im Schwimmer |
 | 14.07.2026 | 10:30 | 7.8 | 0.75 | —   | 0      | 0        | 4.0  | 0    | teilweise leichte algen, die sich mechanisch entfernen lassen |
+| 23.07.2026 | 12:00 | —   | —    | —   | 0      | 0        | 0    | 0    | Es hatsich eine extreme Algenblüte entwickelt. Rücksplung vorgenommen. Alles Wasser abgelassen |
+| 24.07.2026 | 17:00 | —   | —    | —   | 0      | 8        | 0    | 0    | Pool trocken gelegt und mechanisch gereinigt. Neu befüllung gestartet |
+| 25.07.2026 | 17:00 | 7.8 | 0.78 | —   | 0      | 0        | 4    | 0    | Befüllung abgeschlossen. Rückspülung gemacht |
+| XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 | XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 
 # Legende
