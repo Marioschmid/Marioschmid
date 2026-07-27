@@ -46,8 +46,8 @@
 | 14.07.2026 | 10:30 | 7.8 | 0.75 | —   | 0      | 0        | 4.0  | 0    | teilweise leichte algen, die sich mechanisch entfernen lassen |
 | 23.07.2026 | 12:00 | —   | —    | —   | 0      | 0        | 0    | 0    | Es hatsich eine extreme Algenblüte entwickelt. Rücksplung vorgenommen. Alles Wasser abgelassen |
 | 24.07.2026 | 17:00 | —   | —    | —   | 0      | 8        | 0    | 0    | Pool trocken gelegt und mechanisch gereinigt. Neu befüllung gestartet |
-| 25.07.2026 | 17:00 | 7.8 | 0.78 | —   | 0      | 0        | 4    | 0    | Befüllung abgeschlossen. Rückspülung gemacht. 100 ml Antialgen zugegeben |
-| XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
+| 25.07.2026 | 17:00 | 7.8 | 0.78 | —   | 0      | 0        | 4    | 0    | Befüllung abgeschlossen. Rückspülung gemacht. 100 ml Antialgen zugegeben. Pool zugedeckt |
+| 27.07.2026 | 14:00 | 7.6 | 1.15 | —   | 0      | 0        | 3    | 0    | Poolabdeckung entfernt. Wasser sehr klar |
 | XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 
 # Legende
