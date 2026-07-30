@@ -49,6 +49,8 @@
 | 25.07.2026 | 17:00 | 7.8 | 0.78 | —   | 0      | 0        | 4    | 0    | Befüllung abgeschlossen. Rückspülung gemacht. 100 ml Antialgen zugegeben. Pool zugedeckt |
 | 27.07.2026 | 14:00 | 7.6 | 1.15 | —   | 0      | 0        | 3    | 0    | Poolabdeckung entfernt. Wasser sehr klar |
 | 28.07.2026 | 11:00 | 7.3 | 0.97 | —   | 0      | 0        | 0    | 0    | TA gemessen 161. Wasser klar         |
+| 30.07.2026 | 21:00 | 7.6 | 0.71 | —   | 0      | 0        | 3    | 0    | Temperatur 28                        |
+| XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 | XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 
 # Legende
