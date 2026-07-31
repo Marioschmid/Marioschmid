@@ -50,7 +50,7 @@
 | 27.07.2026 | 14:00 | 7.6 | 1.15 | —   | 0      | 0        | 3    | 0    | Poolabdeckung entfernt. Wasser sehr klar |
 | 28.07.2026 | 11:00 | 7.3 | 0.97 | —   | 0      | 0        | 0    | 0    | TA gemessen 161. Wasser klar         |
 | 30.07.2026 | 21:00 | 7.6 | 0.71 | —   | 0      | 0        | 3    | 0    | Temperatur 28                        |
-| XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
+| 31.07.2026 | 09:00 | —   | —    | —   | 15      | 0        | 0    | 0    |  Meldung, dass ein Poolbenutzer einen Infekt hatte. Empfehlung des Arztes |
 | XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 
 # Legende
