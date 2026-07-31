@@ -8,7 +8,7 @@
 - PH Minus: 1 Dosierlöffel reduziert 10 Kubikmeter um 0.1
 - Chlortabs 5g: 2 tabs pro Kubikmeter (Erstdosierung)
 - Chlortabs 20g: 5 tabs pro Woche
-- Antialgen 100ml/10 Kubikmeter (Benzyl Alky dimethyl Ammonium Chlorid quarternäre Ammoniumverbindung)
+- Marina Anti Algues: Benzyl-Alkyl-Dimethyl-Ammoniumchlorid (BAC), quaternäre Ammoniumverbindung, algizider Wirkstoff, kein Kupfer.
 
 # Messgerät
 
