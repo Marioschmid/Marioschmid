@@ -52,6 +52,7 @@
 | 30.07.2026 | 21:00 | 7.6 | 0.71 | —   | 0      | 0        | 3    | 0    | Temperatur 28                        |
 | 31.07.2026 | 09:00 | —   | —    | —   | 15     | 0        | 0    | 0    |  Meldung, dass ein Poolbenutzer einen Infekt hatte. Empfehlung des Arztes |
 | 31.07.2026 | 16:00 | 7.3 | 2.15 | —   | 0      | 0        | 0    | 0    | ClT gemessen: 2.02                                 |
+| 02.08.2026 | 09:00 | 7.5 | 1.46 | —   | 0      | 0        | 0    | 0    | Der pool war die ganze Zeit gedeckt. ClT gemessen: 2.39  |
 | XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 
 # Legende
