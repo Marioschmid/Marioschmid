@@ -54,7 +54,7 @@
 | 31.07.2026 | 16:00 | 7.3 | 2.15 | —   | 0      | 0        | 0    | 0    | ClT gemessen: 2.02                                 |
 | 02.08.2026 | 09:00 | 7.5 | 1.46 | —   | 0      | 0        | 0    | 0    | Der pool war die ganze Zeit gedeckt. ClT gemessen: 2.39  |
 | 04.08.2026 | 12:30 | 7.5 | 0.85 | —   | 0      | 0        | 0    | 0    | Der pool war die ganze Zeit gedeckt. ClT gemessen: 1.27  |
-| 06.08.2026 | 19:00 | 7.4 | 0.76 | —   | 0      | 0        | 0    | 0    | Der pool wurde am 4. intensiv genutzt. Sonst war er gedeckt. ClT gemessen: 1.27  |
+| 06.08.2026 | 19:00 | 7.4 | 0.76 | —   | 0      | 0        | 0    | 0    | Der pool wurde am 4. intensiv genutzt. Sonst war er gedeckt. ClT gemessen: 0.6  |
 | XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 
 # Legende
