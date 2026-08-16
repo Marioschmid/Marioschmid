@@ -56,6 +56,9 @@
 | 04.08.2026 | 12:30 | 7.5 | 0.85 | —   | 0      | 0        | 0    | 0    | Der pool war die ganze Zeit gedeckt. ClT gemessen: 1.27  |
 | 06.08.2026 | 19:00 | 7.4 | 0.76 | —   | 0      | 0        | 0    | 0    | Der pool wurde am 4. intensiv genutzt. Sonst war er gedeckt. ClT gemessen: 0.6  |
 | 09.08.2026 | 14:30 | 7.4 | 0.76 | —   | 0      | 5        | 2    | 0    | Der Pool war die ganze Zeit gedeckt. Der Schwimmwe war leer. 100 ml Anti Algen zugegeben  |
+| 11.08.2026 | 09:00 | 7.4 | 0.79 | —   | 0      | 0        | 0    | 0    | Der Pool war tagsüber offen          |
+| 13.08.2026 | 13:00 | 7.5 | 0.78 | —   | 0      | 3        | 0    | 0    | Der pool war immer offen             |
+| 16.08.2026 | 12:00 | 7.3 | 0.75 | —   | 0      | 0        | 0    | 0    | TA: 125, ClT: 0.52                   |
 | XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 
 # Legende
