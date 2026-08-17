@@ -59,7 +59,7 @@
 | 11.08.2026 | 09:00 | 7.4 | 0.79 | —   | 0      | 0        | 0    | 0    | Der Pool war tagsüber offen          |
 | 13.08.2026 | 13:00 | 7.5 | 0.78 | —   | 0      | 3        | 0    | 0    | Der pool war immer offen             |
 | 16.08.2026 | 12:00 | 7.3 | 0.75 | —   | 0      | 0        | 0    | 0    | TA: 125, ClT: 0.52                   |
-| 17.08.2026 | 13:00 | 7.5  | 0.71| —   | 0      | 3        | 0    | 0    | Pool war offen. es hat stark geregnet. Anti algen zugegeben  |
+| 17.08.2026 | 13:00 | 7.5  | 0.71| —   | 0      | 0        | 3    | 0    | Pool war offen. es hat stark geregnet. Anti algen zugegeben  |
 | XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 
 # Legende
