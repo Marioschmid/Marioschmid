@@ -4,7 +4,7 @@
 
 ### 1.1 Was ist K-Tool?
 
-K-Tool ist eine Sammlung von Werkzeugen für den Kegelsport der **SFKV**.
+K-Tool ist eine Sammlung von Werkzeugen für den **Kegelsport der SFKV**.
 
 Die einzelnen Tools unterstützen unterschiedliche Aufgaben rund um den Kegelsport. Je nach Aufgabe und Berechtigung stehen einem Benutzer unterschiedliche Funktionen zur Verfügung.
 
@@ -19,53 +19,59 @@ Weitere Tools können künftig ergänzt werden.
 
 ---
 
-## 2. Auth
+# 2. Auth
 
 Das Tool **Auth** verwaltet die Benutzerkonten und den persönlichen Zugang zu K-Tool.
 
-### 2.1 Anmelden
+## 2.1 Anmeldung
 
+**Tool:** Auth  
+**Menü:** Login  
 **Anmeldung:** nicht erforderlich  
 **Erforderliche Rolle:** keine
 
-Mit der Anmeldung erhält der Benutzer Zugriff auf die für ihn freigegebenen Funktionen.
+Mit der Anmeldung erhalten Sie Zugriff auf die für Sie freigegebenen Funktionen.
 
-Zur Anmeldung werden E-Mail-Adresse und Passwort eingegeben.
+Geben Sie dazu Ihre E-Mail-Adresse und Ihr Passwort ein.
 
-Nach erfolgreicher Anmeldung stehen abhängig von den persönlichen Berechtigungen weitere Funktionen zur Verfügung.
+Nach erfolgreicher Anmeldung stehen abhängig von Ihren Berechtigungen weitere Funktionen zur Verfügung.
 
 ---
 
-### 2.2 Abmelden
+## 2.2 Registrierung
 
+**Tool:** Auth  
+**Menü:** Registrieren  
 **Anmeldung:** nicht erforderlich  
 **Erforderliche Rolle:** keine
 
-Mit der Funktion **Abmelden** wird die aktuelle Sitzung beendet.
+Wenn Sie noch kein Benutzerkonto besitzen, können Sie sich bei K-Tool registrieren.
 
-Nach dem Abmelden müssen Sie sich erneut anmelden, wenn Sie Funktionen verwenden möchten, für die eine Anmeldung erforderlich ist.
+Geben Sie die erforderlichen persönlichen Angaben ein und senden Sie die Registrierungsanfrage ab.
 
 ---
 
-### 2.3 Registrieren
+## 2.3 Abmelden
 
-**Anmeldung:** nicht erforderlich  
+**Tool:** Auth  
+**Menü:** Abmelden  
+**Anmeldung:** erforderlich  
 **Erforderliche Rolle:** keine
 
-Benutzer, die noch kein K-Tool-Konto besitzen, können eine Registrierungsanfrage stellen.
+Mit **Abmelden** beenden Sie Ihre aktuelle Sitzung.
 
-Dazu werden die erforderlichen persönlichen Angaben eingegeben.
-
-Die Anfrage wird anschließend von der zuständigen Stelle bearbeitet.
+Wenn Sie anschließend wieder auf Funktionen zugreifen möchten, für die eine Anmeldung erforderlich ist, müssen Sie sich erneut anmelden.
 
 ---
 
-### 2.4 Eigenes Profil bearbeiten
+## 2.4 Profil bearbeiten
 
+**Tool:** Auth  
+**Menü:** Profil  
 **Anmeldung:** erforderlich  
 **Erforderliche Rolle:** keine besondere Rolle
 
-Angemeldete Benutzer können ihre persönlichen Angaben bearbeiten.
+Sie können Ihre persönlichen Angaben bearbeiten.
 
 Dazu gehören insbesondere:
 
@@ -78,25 +84,29 @@ Nach der Änderung werden die neuen Angaben gespeichert.
 
 ---
 
-### 2.5 Passwort ändern
+## 2.5 Passwort ändern
 
+**Tool:** Auth  
+**Menü:** Passwort ändern  
 **Anmeldung:** erforderlich  
 **Erforderliche Rolle:** keine besondere Rolle
 
-Über die Funktion **Passwort ändern** kann das persönliche Passwort geändert werden.
+Mit dieser Funktion können Sie Ihr persönliches Passwort ändern.
 
-> **Hinweis:** Diese Funktion ist derzeit noch nicht verfügbar.
+> **Hinweis:** Die Funktion ist derzeit noch nicht verfügbar.
 
 ---
 
-### 2.6 Benutzer anlegen
+## 2.6 Benutzer anlegen
 
+**Tool:** Auth  
+**Menü:** Benutzer → Benutzer anlegen  
 **Anmeldung:** erforderlich  
 **Erforderliche Rolle:** **Administrator**
 
 Administratoren können neue Benutzer für K-Tool anlegen.
 
-Bei der Anlage eines Benutzers können unter anderem folgende Angaben erfasst werden:
+Bei der Anlage eines Benutzers werden unter anderem folgende Angaben erfasst:
 
 - E-Mail-Adresse
 - Passwort
@@ -104,20 +114,22 @@ Bei der Anlage eines Benutzers können unter anderem folgende Angaben erfasst we
 - Vorname
 - MAP-Mitgliedernummer
 
-Nach dem Anlegen kann der Benutzer mit den erforderlichen Rollen und Berechtigungen ausgestattet werden.
+Nach dem Anlegen können dem Benutzer die erforderlichen Berechtigungen zugewiesen werden.
 
 ---
 
-### 2.7 Benutzerrollen verwalten
+## 2.7 Benutzerrollen verwalten
 
+**Tool:** Auth  
+**Menü:** Benutzer → Benutzer Rollen  
 **Anmeldung:** erforderlich  
 **Erforderliche Rolle:** **Administrator**
 
 Administratoren können die Rollen eines Benutzers verwalten.
 
-Dabei kann festgelegt werden, welche Aufgaben ein Benutzer innerhalb der einzelnen K-Tool-Tools übernehmen darf.
+Dabei wird festgelegt, welche Aufgaben ein Benutzer innerhalb der einzelnen K-Tool-Tools übernehmen darf.
 
-Zu den verfügbaren Rollen gehören:
+Zur Verfügung stehen insbesondere die Rollen:
 
 - **Administrator**
 - **Veranstalter**
@@ -144,8 +156,29 @@ Der typische Ablauf einer Veranstaltung ist:
 
 ---
 
-## 3.1 Veranstaltung anlegen
+## 3.1 Home
 
+**Tool:** Starthefte  
+**Menü:** Home  
+**Anmeldung:** nicht erforderlich  
+**Erforderliche Rolle:** keine
+
+Die Startseite des Tools **Starthefte** bietet den Einstieg in die Funktionen des Tools.
+
+Von hier aus können Sie die verfügbaren Funktionen aufrufen.
+
+---
+
+# 4. Veranstaltung
+
+Die Menügruppe **Veranstaltung** enthält alle Funktionen, die für die Vorbereitung einer Veranstaltung benötigt werden.
+
+---
+
+## 4.1 Veranstaltung anlegen
+
+**Tool:** Starthefte  
+**Menü:** Veranstaltung → Veranstaltung anlegen  
 **Anmeldung:** erforderlich  
 **Erforderliche Rolle:** **Administrator**
 
@@ -161,20 +194,22 @@ Für eine Veranstaltung werden folgende Angaben erfasst:
 
 ### Vorgehen
 
-1. Öffnen Sie **Starthefte → Veranstaltung anlegen**.
+1. Öffnen Sie **Veranstaltung → Veranstaltung anlegen**.
 2. Wählen Sie den zuständigen Verband.
 3. Geben Sie den Namen der Veranstaltung ein.
 4. Geben Sie das Startdatum ein.
 5. Geben Sie das Enddatum ein.
-6. Wählen Sie bei Bedarf eine Kegelbahn.
+6. Wählen Sie die Kegelbahn.
 7. Speichern Sie die Veranstaltung.
 
 Nach dem Speichern kann die Veranstaltung weiter bearbeitet werden.
 
 ---
 
-## 3.2 Veranstalter zuordnen
+## 4.2 Veranstalter zuordnen
 
+**Tool:** Starthefte  
+**Menü:** Veranstaltung → Veranstalter zuordnen  
 **Anmeldung:** erforderlich  
 **Erforderliche Rolle:** **Administrator**
 
@@ -182,7 +217,7 @@ Mit dieser Funktion wird festgelegt, welcher Veranstalter für eine Veranstaltun
 
 ### Vorgehen
 
-1. Öffnen Sie **Starthefte → Veranstalter zuordnen**.
+1. Öffnen Sie **Veranstaltung → Veranstalter zuordnen**.
 2. Wählen Sie die gewünschte Veranstaltung.
 3. Wählen Sie einen Veranstalter aus.
 4. Speichern Sie die Zuordnung.
@@ -191,12 +226,14 @@ Bereits bestehende Zuordnungen werden angezeigt.
 
 Eine Zuordnung kann bei Bedarf wieder entfernt werden.
 
-> **Hinweis:** Als Veranstalter können Benutzer ausgewählt werden, die im Bereich Starthefte über die entsprechende Veranstalter-Berechtigung verfügen.
+> **Hinweis:** Als Veranstalter können Benutzer ausgewählt werden, die über die entsprechende Veranstalter-Berechtigung für das Tool Starthefte verfügen.
 
 ---
 
-## 3.3 Programme bearbeiten
+## 4.3 Programme bearbeiten
 
+**Tool:** Starthefte  
+**Menü:** Veranstaltung → Programme bearbeiten  
 **Anmeldung:** erforderlich  
 **Erforderliche Rolle:** **Veranstalter**
 
@@ -211,7 +248,7 @@ Ein Programm beschreibt unter anderem:
 
 ### Vorgehen
 
-1. Öffnen Sie **Starthefte → Programme bearbeiten**.
+1. Öffnen Sie **Veranstaltung → Programme bearbeiten**.
 2. Wählen Sie die gewünschte Veranstaltung.
 3. Prüfen Sie die bereits vorhandenen Programme.
 4. Erfassen Sie bei Bedarf ein neues Programm.
@@ -232,8 +269,10 @@ Beispiel:
 
 ---
 
-## 3.4 Spielzeiten bearbeiten
+## 4.4 Spielzeiten bearbeiten
 
+**Tool:** Starthefte  
+**Menü:** Veranstaltung → Spielzeiten bearbeiten  
 **Anmeldung:** erforderlich  
 **Erforderliche Rolle:** **Veranstalter**
 
@@ -248,7 +287,7 @@ Eine Spielzeit besteht aus:
 
 ### Vorgehen
 
-1. Öffnen Sie **Starthefte → Spielzeiten bearbeiten**.
+1. Öffnen Sie **Veranstaltung → Spielzeiten bearbeiten**.
 2. Wählen Sie die gewünschte Veranstaltung.
 3. Geben Sie das Datum ein.
 4. Geben Sie die Startzeit ein.
@@ -262,12 +301,12 @@ Eine bestehende Spielzeit kann gelöscht werden.
 
 Bei Veranstaltungen mit mehreren Spieltagen können die Spielzeiten nacheinander erfasst werden.
 
-Die Anwendung unterstützt dabei die wiederholte Eingabe ähnlicher Spielzeiten.
-
 ---
 
-## 3.5 Startzeiten erzeugen
+## 4.5 Startzeiten erzeugen
 
+**Tool:** Starthefte  
+**Menü:** Veranstaltung → Startzeiten erzeugen  
 **Anmeldung:** erforderlich  
 **Erforderliche Rolle:** **Veranstalter**
 
@@ -283,7 +322,7 @@ Vor dem Erzeugen der Startzeiten sollten:
 
 ### Vorgehen
 
-1. Öffnen Sie **Starthefte → Startzeiten erzeugen**.
+1. Öffnen Sie **Veranstaltung → Startzeiten erzeugen**.
 2. Wählen Sie die gewünschte Veranstaltung.
 3. Kontrollieren Sie die vorhandenen Programme und Spielzeiten.
 4. Starten Sie die Erzeugung der Startzeiten.
@@ -304,8 +343,12 @@ werden entsprechend Startzeiten in diesem Zeitabstand erzeugt.
 
 ---
 
-## 3.6 Startheft anzeigen
+# 5. Starthefte
 
+## 5.1 Startheft anzeigen
+
+**Tool:** Starthefte  
+**Menü:** Starthefte  
 **Anmeldung:** nicht erforderlich  
 **Erforderliche Rolle:** keine
 
@@ -315,7 +358,7 @@ Das Startheft kann auch von Personen aufgerufen werden, die nicht bei K-Tool ang
 
 ### Vorgehen
 
-1. Öffnen Sie **Starthefte → Starthefte**.
+1. Öffnen Sie **Starthefte**.
 2. Wählen Sie die gewünschte Veranstaltung.
 3. Das Startheft wird angezeigt.
 
@@ -323,8 +366,12 @@ Diese Funktion eignet sich insbesondere für die öffentliche Anzeige eines Star
 
 ---
 
-## 3.7 Startzeiten buchen
+# 6. Buchen
 
+## 6.1 Startzeiten buchen
+
+**Tool:** Starthefte  
+**Menü:** Buchen  
 **Anmeldung:** erforderlich  
 **Erforderliche Rolle:** keine besondere Rolle
 
@@ -332,7 +379,7 @@ Mit dieser Funktion können Startzeiten für Teilnehmer gebucht werden.
 
 ### Vorgehen
 
-1. Öffnen Sie **Starthefte → Buchen**.
+1. Öffnen Sie **Buchen**.
 2. Wählen Sie die gewünschte Veranstaltung.
 3. Suchen Sie die gewünschte Startzeit.
 4. Wählen Sie einen freien Startplatz.
@@ -343,12 +390,18 @@ Die gebuchte Startzeit wird anschließend als belegt angezeigt.
 
 ### Mehrere Buchungen
 
-Bei mehreren Buchungen hintereinander können bereits eingegebene Angaben erneut verwendet werden. Dies erleichtert die Erfassung mehrerer Startzeiten.
+Bei mehreren Buchungen hintereinander können bereits eingegebene Angaben erneut verwendet werden.
+
+Dies erleichtert die Erfassung mehrerer Startzeiten.
 
 ---
 
-## 3.8 Startzeiten stornieren
+# 7. Stornieren
 
+## 7.1 Startzeiten stornieren
+
+**Tool:** Starthefte  
+**Menü:** Stornieren  
 **Anmeldung:** erforderlich  
 **Erforderliche Rolle:** keine besondere Rolle
 
@@ -356,7 +409,7 @@ Mit dieser Funktion kann eine bestehende Buchung wieder aufgehoben werden.
 
 ### Vorgehen
 
-1. Öffnen Sie **Starthefte → Stornieren**.
+1. Öffnen Sie **Stornieren**.
 2. Wählen Sie die gewünschte Veranstaltung.
 3. Suchen Sie die betreffende Startzeit.
 4. Wählen Sie die bestehende Buchung.
@@ -368,14 +421,14 @@ Die Startzeit steht anschließend wieder für eine neue Buchung zur Verfügung.
 
 ---
 
-# 4. Rollen und Berechtigungen
+# 8. Rollen und Berechtigungen
 
-Die folgenden Rollen werden in K-Tool verwendet:
+K-Tool verwendet verschiedene Rollen. Die Rolle bestimmt, welche Aufgaben ein Benutzer übernehmen darf.
 
 | Rolle | Bedeutung |
 |---|---|
-| **Administrator** | Verwaltet Benutzer und übernimmt übergeordnete Aufgaben innerhalb der Tools. |
-| **Veranstalter** | Verwaltet Veranstaltungen und deren Vorbereitung im Rahmen der vorgesehenen Aufgaben. |
+| **Administrator** | Darf administrative Aufgaben und übergeordnete Funktionen ausführen. |
+| **Veranstalter** | Darf Veranstaltungen im Rahmen seiner Aufgaben vorbereiten und bearbeiten. |
 | **Gast** | Verfügt über eingeschränkte Berechtigungen. |
 
 Nicht jede Funktion benötigt eine bestimmte Rolle.
@@ -388,37 +441,41 @@ Einige Funktionen:
 
 ---
 
-# 5. Berechtigungsübersicht
+# 9. Berechtigungsübersicht
 
-| Funktion | Anmeldung | Erforderliche Rolle |
-|---|---|---|
-| Anmelden | Nein | Keine |
-| Abmelden | Nein | Keine |
-| Registrieren | Nein | Keine |
-| Eigenes Profil bearbeiten | Ja | Keine besondere Rolle |
-| Passwort ändern | Ja | Keine besondere Rolle* |
-| Benutzer anlegen | Ja | **Administrator** |
-| Benutzerrollen verwalten | Ja | **Administrator** |
-| Veranstaltung anlegen | Ja | **Administrator** |
-| Veranstalter zuordnen | Ja | **Administrator** |
-| Programme bearbeiten | Ja | **Veranstalter** |
-| Spielzeiten bearbeiten | Ja | **Veranstalter** |
-| Startzeiten erzeugen | Ja | **Veranstalter** |
-| Startheft anzeigen | Nein | Keine |
-| Startzeiten buchen | Ja | Keine besondere Rolle |
-| Startzeiten stornieren | Ja | Keine besondere Rolle |
+| Tool | Menü | Funktion | Anmeldung | Erforderliche Rolle |
+|---|---|---|---|---|
+| Auth | Login | Anmeldung | Nein | Keine |
+| Auth | Registrieren | Registrierung | Nein | Keine |
+| Auth | Abmelden | Abmelden | Ja | Keine |
+| Auth | Profil | Profil bearbeiten | Ja | Keine besondere Rolle |
+| Auth | Passwort ändern | Passwort ändern | Ja | Keine besondere Rolle* |
+| Auth | Benutzer → Benutzer anlegen | Benutzer anlegen | Ja | **Administrator** |
+| Auth | Benutzer → Benutzer Rollen | Benutzerrollen verwalten | Ja | **Administrator** |
+| Starthefte | Home | Startseite | Nein | Keine |
+| Starthefte | Veranstaltung → Veranstaltung anlegen | Veranstaltung anlegen | Ja | **Administrator** |
+| Starthefte | Veranstaltung → Veranstalter zuordnen | Veranstalter zuordnen | Ja | **Administrator** |
+| Starthefte | Veranstaltung → Programme bearbeiten | Programme bearbeiten | Ja | **Veranstalter** |
+| Starthefte | Veranstaltung → Spielzeiten bearbeiten | Spielzeiten bearbeiten | Ja | **Veranstalter** |
+| Starthefte | Veranstaltung → Startzeiten erzeugen | Startzeiten erzeugen | Ja | **Veranstalter** |
+| Starthefte | Starthefte | Startheft anzeigen | Nein | Keine |
+| Starthefte | Buchen | Startzeiten buchen | Ja | Keine besondere Rolle |
+| Starthefte | Stornieren | Startzeiten stornieren | Ja | Keine besondere Rolle |
 
 \* Die Funktion „Passwort ändern“ ist vorgesehen, aber derzeit noch nicht verfügbar.
 
 ---
 
-# 6. Typischer Ablauf einer Veranstaltung
+# 10. Typischer Ablauf einer Veranstaltung
 
 Die Vorbereitung einer Veranstaltung erfolgt normalerweise in dieser Reihenfolge:
 
 ### 1. Veranstaltung anlegen
 
 **Administrator**
+
+**Tool:** Starthefte  
+**Menü:** Veranstaltung → Veranstaltung anlegen
 
 Die grundlegenden Daten der Veranstaltung werden erfasst.
 
@@ -428,6 +485,9 @@ Die grundlegenden Daten der Veranstaltung werden erfasst.
 
 **Administrator**
 
+**Tool:** Starthefte  
+**Menü:** Veranstaltung → Veranstalter zuordnen
+
 Der zuständige Veranstalter wird der Veranstaltung zugeordnet.
 
 ↓
@@ -435,6 +495,9 @@ Der zuständige Veranstalter wird der Veranstaltung zugeordnet.
 ### 3. Programme bearbeiten
 
 **Veranstalter**
+
+**Tool:** Starthefte  
+**Menü:** Veranstaltung → Programme bearbeiten
 
 Die Programme und Startintervalle werden festgelegt.
 
@@ -444,6 +507,9 @@ Die Programme und Startintervalle werden festgelegt.
 
 **Veranstalter**
 
+**Tool:** Starthefte  
+**Menü:** Veranstaltung → Spielzeiten bearbeiten
+
 Die Spieltage sowie Beginn und Ende der Spielzeiten werden festgelegt.
 
 ↓
@@ -451,6 +517,9 @@ Die Spieltage sowie Beginn und Ende der Spielzeiten werden festgelegt.
 ### 5. Startzeiten erzeugen
 
 **Veranstalter**
+
+**Tool:** Starthefte  
+**Menü:** Veranstaltung → Startzeiten erzeugen
 
 Aus Programmen und Spielzeiten werden die konkreten Startzeiten erzeugt.
 
@@ -460,6 +529,9 @@ Aus Programmen und Spielzeiten werden die konkreten Startzeiten erzeugt.
 
 **Alle**
 
+**Tool:** Starthefte  
+**Menü:** Starthefte
+
 Das fertige Startheft kann angezeigt werden.
 
 ↓
@@ -467,6 +539,9 @@ Das fertige Startheft kann angezeigt werden.
 ### 7. Startzeiten buchen
 
 **Angemeldete Benutzer**
+
+**Tool:** Starthefte  
+**Menü:** Buchen
 
 Freie Startzeiten können gebucht werden.
 
@@ -476,11 +551,14 @@ Freie Startzeiten können gebucht werden.
 
 **Angemeldete Benutzer**
 
+**Tool:** Starthefte  
+**Menü:** Stornieren
+
 Bestehende Buchungen können bei Bedarf wieder aufgehoben werden.
 
 ---
 
-# 7. Kurzüberblick für Benutzer
+# 11. Kurzüberblick für Benutzer
 
 ## Administrator
 
@@ -515,7 +593,7 @@ Auch ohne Anmeldung kann:
 
 ---
 
-# 8. Hinweise zur Arbeit mit Startheften
+# 12. Hinweise zur Arbeit mit Startheften
 
 Für eine reibungslose Vorbereitung empfiehlt sich folgende Reihenfolge:
 
