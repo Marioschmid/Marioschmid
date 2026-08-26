@@ -62,6 +62,7 @@
 | 17.08.2026 | 13:00 | 7.5 | 0.71 | —   | 0      | 0        | 3    | 0    | Pool war offen. es hat stark geregnet. Anti algen zugegeben  |
 | 19.08.2026 | 11:00 | 7.2 | 0.8  | —   | 0      | 5        | 0    | 0    | Der Pool war die ganze zeit gedeckt  |
 | 23.08.2026 | 13:00 | 7.4 | 0.83 | —   | 0      | 0        | 0    | 0    | TA: 115, ClT: 1.78 der Pool war die ganze Zeit gedeckt, das Wetter war regnerisch             |
+| 26.08.2026 | 15:30 | 7.4 | 1.24 | —   | 0      | 0        | 0    | 0    | ClT: 1.86; der Pool war die ganze zeit gedeckt.  |
 | XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 
 # Legende
