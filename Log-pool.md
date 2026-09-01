@@ -64,6 +64,7 @@
 | 23.08.2026 | 13:00 | 7.4 | 0.83 | —   | 0      | 0        | 0    | 0    | TA: 115, ClT: 1.78 der Pool war die ganze Zeit gedeckt, das Wetter war regnerisch             |
 | 26.08.2026 | 15:30 | 7.4 | 1.24 | —   | 0      | 0        | 0    | 0    | ClT: 1.86; der Pool war die ganze zeit gedeckt.  |
 | 28.08.2026 | 10:00 | 7.4 | 0.73 | —   | 0      | 0        | 0    | 0    | ClT: 1.16; Der Pool war die letzten 48 Stunden offen |
+| 01.09.2026 | 10:00 | 7.5 | 1.01 | —   | 0      | 0        | 0    | 0    | Pool war immer gedeckt; Es sind noch kleine Reste der Chlortabletten im schwimmer |
 | XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 
 # Legende
