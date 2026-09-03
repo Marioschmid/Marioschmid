@@ -65,6 +65,7 @@
 | 26.08.2026 | 15:30 | 7.4 | 1.24 | —   | 0      | 0        | 0    | 0    | ClT: 1.86; der Pool war die ganze zeit gedeckt.  |
 | 28.08.2026 | 10:00 | 7.4 | 0.73 | —   | 0      | 0        | 0    | 0    | ClT: 1.16; Der Pool war die letzten 48 Stunden offen |
 | 01.09.2026 | 10:00 | 7.5 | 1.01 | —   | 0      | 0        | 0    | 0    | Pool war immer gedeckt; Es sind noch kleine Reste der Chlortabletten im schwimmer |
+| 03.09.2026 | 20:00 | 7.6 | 0.89 | —   | 0      | 0        | 4    | 0    | Pool war die ganze Zeit offen; Anti Algen zugegeben   |
 | XX.XX.XXXX | XX:XX | —   | —    | —   | 0      | 0        | 0    | 0    | ???                                  |
 
 # Legende
