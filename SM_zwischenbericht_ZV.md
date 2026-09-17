@@ -1,3 +1,5 @@
+# Zwischenbericht SM2026 an ZV
+
 ## Ausgangslage
 
 Die Schweizer Meisterschaft 2026 in Heimberg ist inzwischen weit fortgeschritten. Als Mitglied des Organisationskomitees und gleichzeitig als Mitglied des Zentralvorstandes möchte ich einen Zwischenstand geben und dabei sowohl auf den bisherigen Verlauf als auch auf einige Erkenntnisse für zukünftige Schweizer Meisterschaften eingehen.
