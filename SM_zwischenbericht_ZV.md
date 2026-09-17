@@ -12,7 +12,7 @@ Das vorgezogene Rahmenprogramm mit den Wettbewerben Sport und Américaine verlie
 
 Die im Vorfeld teilweise geäusserte Kritik an der zeitlichen Vorverlegung des Rahmenprogramms hat sich in der Praxis weitgehend nicht bestätigt. Positiv war insbesondere, dass nicht sämtliche Wettbewerbe gleichzeitig durchgeführt werden mussten. Dadurch konnte der Betrieb entzerrt werden.
 
-Als Nachteil hat sich allerdings die längere Präsenzzeit für die Beteiligten gezeigt. Diese Erfahrung sollte bei der Planung zukünftiger Meisterschaften berücksichtigt werden.
+Als Nachteil hat sich allerdings die längere Präsenzzeit für die Beteiligten gezeigt. Diese Erfahrung sollte bei der Planung zukünftiger Schweizer Meisterschaften berücksichtigt werden.
 
 Insgesamt hat das Modell jedoch gezeigt, dass eine zeitliche Trennung von Rahmenprogramm und eigentlichen Meisterschaftswettkämpfen funktionieren kann und insbesondere für Veranstaltungsorte mit begrenzter Bahnenzahl interessante Möglichkeiten bietet.
 
@@ -56,13 +56,11 @@ Hier wäre mehr Verbindlichkeit und Verantwortungsbewusstsein seitens der Kegler
 
 ## Gastronomie
 
-Die Gastronomie wird einen geringeren Ertrag als ursprünglich erhofft erwirtschaften. Trotzdem wird sie voraussichtlich positiv abschliessen.
+Auf Bitte der Gastrofamilie Thomi/Stucki hat der Unterverband Berner Oberland die Restauration während der Schweizer Meisterschaft zu seinen Gunsten übernommen. Damit wurde dem Unterverband gleichzeitig die Möglichkeit gegeben, mit der Gastronomie einen finanziellen Beitrag zugunsten des Verbandes zu erwirtschaften.
 
-Das Angebot wurde teilweise sehr gut aufgenommen. Gleichzeitig ist es bedauerlich, wenn von Kegelklubs zu hören ist, dass sie nach dem Wettkampf auf dem Heimweg auswärts essen gehen.
+Zu Beginn der Meisterschaft lagen die Umsätze allerdings deutlich unter unseren Erwartungen. Dies führte zunächst zu einer gewissen Sorge, ob mit der Gastronomie tatsächlich ein nennenswerter Ertrag erzielt werden kann. Durch gezielte Werbung, insbesondere auch direkt unter den teilnehmenden Keglerinnen und Keglern, konnte die Situation im Verlauf der Meisterschaft deutlich verbessert werden. Aufgrund der bisherigen Entwicklung sind wir heute überzeugt, dass die Gastronomie mit einem positiven Ergebnis abschliessen und damit einen finanziellen Beitrag zugunsten des Unterverbandes leisten wird.
 
-Gerade angesichts des grossen ehrenamtlichen Einsatzes der Mitglieder des Unterverbandes Berner Oberland ist dies für die Helferinnen und Helfer verständlicherweise frustrierend. Die Gastronomie ist ein wichtiger Bestandteil einer solchen Veranstaltung und bietet gleichzeitig die Möglichkeit, den gastgebenden Unterverband finanziell zu unterstützen.
-
-Hier fehlt aus meiner Sicht teilweise noch das Bewusstsein dafür, dass die Unterstützung der Gastronomie auch eine Form der Wertschätzung gegenüber den freiwillig engagierten Helferinnen und Helfern darstellt.
+Das gastronomische Angebot kommt bei den Keglerinnen und Keglern gut an. Die Rückmeldungen sind erfreulich und zeigen, dass die Restauration von den Teilnehmerinnen und Teilnehmern gerne genutzt wird.
 
 ## Medien und Öffentlichkeitsarbeit
 
