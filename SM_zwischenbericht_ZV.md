@@ -98,4 +98,30 @@ Dafür gebührt allen Beteiligten ein grosser Dank.
 
 ## Finanzielle Situation
 
-Nach aktuellem Stand wird die Schweizer Meisterschaft 2026 mit einem Gewinn abschli
+Nach aktuellem Stand wird die Schweizer Meisterschaft 2026 mit einem Gewinn abschliessen. Die definitive Höhe kann derzeit noch nicht genannt werden, da verschiedene Beiträge noch nicht abschliessend geklärt sind.
+
+Die detaillierten Kennzahlen sollen deshalb bewusst erst nach Abschluss der gesamten Veranstaltung kommuniziert werden.
+
+## Erkenntnisse für zukünftige Schweizer Meisterschaften
+
+Die bisherigen Erfahrungen zeigen, dass die Organisation einer Schweizer Meisterschaft mit erheblichem Aufwand verbunden ist. Gleichzeitig entwickeln sich die Teilnehmerzahlen langfristig rückläufig. Umso wichtiger wird es sein, bei zukünftigen Veranstaltungen konsequent nach Vereinfachungen und Möglichkeiten für Kosteneinsparungen zu suchen.
+
+Die Erfahrungen mit dem vorgezogenen Rahmenprogramm zeigen, dass neue Organisationsformen funktionieren können. Gleichzeitig müssen dabei auch die zusätzliche Präsenzzeit und der personelle Aufwand berücksichtigt werden.
+
+Beim Kantonewettkampf sollte der Modus beziehungsweise der zeitliche Ablauf überprüft werden, insbesondere im Hinblick auf eine frühere Feststellung der Resultate und damit bessere Möglichkeiten für die mediale Berichterstattung.
+
+Auch im Bereich Medienarbeit und Sponsoring besteht Verbesserungspotenzial. Beide Bereiche benötigen eine klarere und professionellere Abstimmung auf Ebene des Verbandes und der jeweiligen Veranstaltung.
+
+## Zwischenfazit
+
+Die Schweizer Meisterschaft 2026 ist bisher insgesamt positiv verlaufen. Das OK hat gemeinsam mit seinen Helferinnen und Helfern mehrfach bewiesen, dass auch unerwartete Herausforderungen bewältigt werden können.
+
+Besonders die Ereignisse rund um den Brandschaden im Rössli haben eindrücklich gezeigt, was möglich ist, wenn viele Menschen bereit sind, Verantwortung zu übernehmen und gemeinsam anzupacken.
+
+Neben den positiven Erfahrungen gibt es auch Punkte, die für kommende Veranstaltungen diskutiert und weiterentwickelt werden sollten. Dazu gehören der Modus des Kantonewettkampfs, der Umgang mit nicht wahrgenommenen Startzeiten, die Gastronomie, die Medienarbeit, das Sponsoring sowie die grundsätzliche Frage nach Vereinfachungen und Kosteneinsparungen.
+
+Die abschliessende Beurteilung der Schweizer Meisterschaft 2026 wird nach deren Ende erfolgen. Erst dann können auch die vollständigen Kennzahlen und das finanzielle Ergebnis präsentiert werden.
+
+Bis dahin gilt vor allem: Die bisherige Durchführung ist ein Erfolg, der zu einem grossen Teil auf dem aussergewöhnlichen ehrenamtlichen Engagement des Organisationskomitees und seiner Helferinnen und Helfer beruht.
+
+Dafür gebührt allen Beteiligten ein herzliches Dankeschön.
