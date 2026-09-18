@@ -56,11 +56,19 @@ Hier wäre mehr Verbindlichkeit und Verantwortungsbewusstsein seitens der Kegler
 
 ## Gastronomie
 
-Auf Bitte der Gastrofamilie Thomi/Stucki hat der Unterverband Berner Oberland die Restauration während der Schweizer Meisterschaft zu seinen Gunsten übernommen. Damit wurde dem Unterverband die Möglichkeit gegeben, mit der Gastronomie einen finanziellen Beitrag zugunsten des Verbandes zu erwirtschaften.
+Auf Bitte der Gastrofamilie Thomi/Stucki hat der Unterverband Berner Oberland die Restauration während der Schweizer Meisterschaft zu seinen Gunsten übernommen. Damit wurde dem Unterverband gleichzeitig die Möglichkeit gegeben, mit der Gastronomie einen finanziellen Beitrag zugunsten des Verbandes zu erwirtschaften.
 
 Zu Beginn der Meisterschaft lagen die Umsätze allerdings deutlich unter unseren Erwartungen. Dies führte zunächst zu einer gewissen Sorge, ob mit der Gastronomie tatsächlich ein nennenswerter Ertrag erzielt werden kann. Durch gezielte Werbung, insbesondere auch direkt unter den teilnehmenden Keglerinnen und Keglern, konnte die Situation im Verlauf der Meisterschaft deutlich verbessert werden. Aufgrund der bisherigen Entwicklung sind wir heute überzeugt, dass die Gastronomie mit einem positiven Ergebnis abschliessen und damit einen finanziellen Beitrag zugunsten des Unterverbandes leisten wird.
 
 Das gastronomische Angebot kommt bei den Keglerinnen und Keglern gut an. Die Rückmeldungen sind erfreulich und zeigen, dass die Restauration von den Teilnehmerinnen und Teilnehmern gerne genutzt wird.
+
+## Tombola
+
+Ein besonderer Beitrag zugunsten des Unterverbandes ist die Tombola. Diese wurde von Doris Schmid im Alleingang organisiert und zusammengestellt. Sie hat in der ganzen Schweiz persönlich zahlreiche Preise akquiriert und dabei Sachpreise im Gesamtwert von rund CHF 7'000.– zusammengetragen.
+
+Der Erlös aus dem Verkauf der Tombolalose wird – abgesehen von den Kosten für den Loskauf sowie einzelnen kleineren Gadgets, die zur Ergänzung der Preise angeschafft wurden – dem Unterverband Berner Oberland zufliessen.
+
+Damit leistet die Tombola nicht nur einen attraktiven Beitrag zum Rahmen der Schweizer Meisterschaft, sondern generiert gleichzeitig einen direkten finanziellen Nutzen für den gastgebenden Unterverband. Der grosse persönliche Einsatz von Doris Schmid bei der Beschaffung der Preise verdient an dieser Stelle eine besondere Erwähnung und einen herzlichen Dank.
 
 ## Medien und Öffentlichkeitsarbeit
 
