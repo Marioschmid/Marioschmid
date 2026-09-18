@@ -56,7 +56,7 @@ Hier wäre mehr Verbindlichkeit und Verantwortungsbewusstsein seitens der Kegler
 
 ## Gastronomie
 
-Auf Bitte der Gastrofamilie Thomi/Stucki hat der Unterverband Berner Oberland die Restauration während der Schweizer Meisterschaft zu seinen Gunsten übernommen. Damit wurde dem Unterverband gleichzeitig die Möglichkeit gegeben, mit der Gastronomie einen finanziellen Beitrag zugunsten des Verbandes zu erwirtschaften.
+Auf Bitte der Gastrofamilie Thomi/Stucki hat der Unterverband Berner Oberland die Restauration während der Schweizer Meisterschaft zu seinen Gunsten übernommen. Damit wurde dem Unterverband die Möglichkeit gegeben, mit der Gastronomie einen finanziellen Beitrag zugunsten des Verbandes zu erwirtschaften.
 
 Zu Beginn der Meisterschaft lagen die Umsätze allerdings deutlich unter unseren Erwartungen. Dies führte zunächst zu einer gewissen Sorge, ob mit der Gastronomie tatsächlich ein nennenswerter Ertrag erzielt werden kann. Durch gezielte Werbung, insbesondere auch direkt unter den teilnehmenden Keglerinnen und Keglern, konnte die Situation im Verlauf der Meisterschaft deutlich verbessert werden. Aufgrund der bisherigen Entwicklung sind wir heute überzeugt, dass die Gastronomie mit einem positiven Ergebnis abschliessen und damit einen finanziellen Beitrag zugunsten des Unterverbandes leisten wird.
 
