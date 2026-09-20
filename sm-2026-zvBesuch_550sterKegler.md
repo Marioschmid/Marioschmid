@@ -32,8 +32,6 @@ Der Zentralpräsident war am Freitag also rechtzeitig in Heimberg eingetroffen, 
 
 Für den KK Siesta war dies natürlich trotzdem ein besonderer Moment. Eigentlich hätte der Klubname an diesem Tag fast besser **KK Fiesta** gelautet.
 
-500. Teilnehmerin aus den eigenen Reihen, Geschenk, Erinnerungsfotos – und der eigene Zentralpräsident gleich noch als Nummer 501 hinterher. Viel mehr lässt sich aus einer solchen Zahlenspielerei kaum herausholen.
-
 ## Die 700 sind das nächste Ziel
 
 Die Schweizermeisterschaft ist damit allerdings noch lange nicht abgeschlossen. Die Wettkämpfe laufen noch bis zum **26. September 2026**.
