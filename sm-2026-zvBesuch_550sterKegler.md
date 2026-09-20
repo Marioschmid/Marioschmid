@@ -1,37 +1,21 @@
-# Ein besonderer Tag in Heimberg: Der 500. Teilnehmer und Besuch des Zentralvorstandes
+# 500. Start – und der Präsident kommt zu spät
 
-Heute war im Kegelcenter Rössli in Heimberg ein besonderer Tag. Die Schweizer Meisterschaft 2026 hat einen wichtigen Meilenstein erreicht: **Der 500. Teilnehmer** absolvierte heute seinen Meisterschaftswettkampf.
+Am Freitag besuchte der Zentralvorstand der SFKV die Schweizermeisterschaft 2026 in Heimberg. Der Besuch dient traditionell dazu, sich vor Ort über den Verlauf der Meisterschaft zu informieren und sich ein Bild von den Wettkämpfen und dem Umfeld zu machen.
 
-Gleichzeitig durfte das Organisationskomitee den Zentralvorstand des Schweizerischen Freien Keglerverbandes zum traditionellen Besuch an der Schweizer Meisterschaft begrüssen.
+Zu diesem Zeitpunkt ahnte noch niemand, dass der Besuch bereits am nächsten Tag ein kleines, durchaus amüsantes Nachspiel haben würde.
 
-## Der 500. Teilnehmer ist erreicht
+Am Samstag war es so weit: **Trudy Leupp vom KK Siesta absolvierte als 500. Teilnehmerin ihren Meisterschaftswettkampf.** Damit war eine besondere Marke erreicht.
 
-Seit dem Beginn der Meisterschaftswettkämpfe am 30. August haben bereits Hunderte Keglerinnen und Kegler den Weg nach Heimberg gefunden. Heute war es dann soweit: **[Vorname Name]**, **[Verein / Unterverband]**, wurde als 500. Teilnehmer der Schweizer Meisterschaft 2026 erreicht.
+OK-Präsident Ueli Stucki und Zentralpräsident Jaime Iglesias liessen es sich nicht nehmen, Trudy persönlich zu gratulieren. Sie überreichten ihr ein Geschenk und stellten sich gemeinsam mit ihr für einige Erinnerungsfotos auf.
 
-Dieser besondere Moment wurde selbstverständlich gebührend gewürdigt. **Zentralpräsident Jaime Iglesias** und **OK-Präsident Ueli Stucki** begrüssten **[Vorname Name]** persönlich und überreichten ihm ein kleines Präsent.
+Dass ausgerechnet eine Keglerin des **KK Siesta** die 500er-Marke erreichte, sorgte dabei für eine zusätzliche Pointe.
 
-Auch ein gemeinsames Erinnerungsfoto durfte natürlich nicht fehlen.
+Denn Trudy Leupp und Jaime Iglesias gehören demselben Klub an. Und Jaime Iglesias? Er war am Samstag **der 501. Teilnehmer**.
 
-Damit wurde aus einem normalen Meisterschaftswettkampf ein besonderer Moment für die Schweizer Meisterschaft 2026.
+Der Zentralpräsident war also am Freitag rechtzeitig in Heimberg, um sich über die Meisterschaft zu informieren. Am Samstag hätte es dann beinahe noch zum persönlichen Jubiläum gereicht – doch er kam genau **einen Start zu spät**.
 
-## Der Zentralvorstand zu Besuch in Heimberg
+Für den **KK Siesta** war der Samstag damit ohnehin ein besonderer Tag. Und eigentlich hätte der Klubname für einmal besser **KK Fiesta** gelautet.
 
-Am heutigen Abend stand zudem der traditionelle Besuch des Zentralvorstandes auf dem Programm.
+Die 500. Teilnehmerin aus den eigenen Reihen, ein Geschenk, Fotos – und der eigene Zentralpräsident gleich noch als Nummer 501 hinterher. Viel mehr lässt sich aus einer kleinen Zahlenspielerei wohl kaum herausholen.
 
-Die Mitglieder des Zentralvorstandes nutzten die Gelegenheit, den laufenden Meisterschaftsbetrieb vor Ort mitzuerleben und sich ein Bild davon zu machen, wie die Schweizer Meisterschaft in Heimberg bisher verläuft.
-
-Für das Organisationskomitee ist dieser persönliche Austausch eine wertvolle Gelegenheit, über die Erfahrungen der vergangenen Wochen zu berichten und gleichzeitig den Mitgliedern des Zentralvorstandes einen direkten Einblick in den Meisterschaftsbetrieb zu ermöglichen.
-
-Die Begegnungen neben und auf den Kegelbahnen gehören dabei genauso zu einer Schweizer Meisterschaft wie die sportlichen Leistungen.
-
-## Eine Meisterschaft, die weiterläuft
-
-Mit dem Erreichen der Marke von 500 Teilnehmern ist ein schöner Zwischenmeilenstein erreicht. Die Schweizer Meisterschaft 2026 ist damit aber noch lange nicht abgeschlossen.
-
-Bis zum **26. September** stehen weiterhin zahlreiche Meisterschaftswettkämpfe auf dem Programm. Danach richtet sich der Blick auf den **Final der Kategorie A am 4. Oktober**, an dem die besten Damen und Herren nochmals um die Schweizer Meistertitel kämpfen werden.
-
-Der heutige Tag hat damit gleich zwei schöne Zeichen gesetzt: **500 Teilnehmer haben bisher den Weg nach Heimberg gefunden – und die Schweizer Meisterschaft bringt weiterhin Keglerinnen und Kegler, Funktionäre, Helferinnen und Helfer sowie den Zentralvorstand zusammen.**
-
-Das Organisationskomitee bedankt sich bei allen, die zum bisherigen Erfolg der Meisterschaft beitragen, und freut sich auf die kommenden Wettkampftage.
-
-**Gut Holz!**
+So bleibt vom Besuch des Zentralvorstandes nicht nur die Information über den Stand der Schweizermeisterschaft, sondern auch eine kleine Geschichte, die man sich in Heimberg und beim KK Siesta wohl noch eine Weile erzählen wird.
