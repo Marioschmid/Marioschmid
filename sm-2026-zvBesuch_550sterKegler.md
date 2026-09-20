@@ -2,7 +2,13 @@
 
 Am Freitag besuchte der Zentralvorstand der SFKV die Schweizermeisterschaft 2026 in Heimberg. Der Besuch dient traditionell dazu, sich vor Ort über den Verlauf der Meisterschaft zu informieren und sich ein Bild von den Wettkämpfen und dem Umfeld zu machen.
 
-Zu diesem Zeitpunkt ahnte noch niemand, dass der Besuch bereits am nächsten Tag ein kleines, durchaus amüsantes Nachspiel haben würde.
+Die bisherigen Erfahrungen zeigen ein erfreuliches Bild. Die Meisterschaft konnte trotz verschiedener Herausforderungen planmässig durchgeführt werden. Besonders eindrücklich war dabei der grosse Einsatz des Organisationskomitees und der zahlreichen freiwilligen Helferinnen und Helfer.
+
+Bereits im Vorfeld hatte das OK mit besonderen Situationen zu kämpfen. Der Ausfall der Lichtschranke auf Bahn 1 konnte dank improvisierter Handarbeit überbrückt werden. Noch weit grösser war die Herausforderung nach der Explosion in der Kühlanlage des Rössli kurz vor Beginn der Meisterschaft. Dank dem raschen und grossen Einsatz von Elektrikern, Reinigungskräften, Helferinnen und Helfern sowie den Verantwortlichen vor Ort konnte der Betrieb rechtzeitig wiederhergestellt werden. Die Schweizermeisterschaft konnte wie geplant beginnen.
+
+Auch der bisherige Meisterschaftsverlauf ist erfreulich. Die Teilnehmerzahl entwickelte sich positiv und bereits am Samstag konnte ein besonderer Meilenstein gefeiert werden.
+
+## Trudy Leupp ist die 500. Teilnehmerin
 
 Am Samstag war es so weit: **Trudy Leupp vom KK Siesta absolvierte als 500. Teilnehmerin ihren Meisterschaftswettkampf.** Damit war eine besondere Marke erreicht.
 
