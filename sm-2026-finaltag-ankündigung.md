@@ -28,6 +28,16 @@ Die Übertragung wird auch 2026 wieder als **Livestream auf YouTube** zu sehen s
 
 **Stay tuned!**
 
+## Auch Telebärn berichtet über den Finaltag
+
+**Meldung in letzter Sekunde: Auch Telebärn wird über den Finaltag der SFKV Schweizer Meisterschaft 2026 berichten.**
+
+Damit erhält der Kegelsport am Finaltag zusätzliche Medienpräsenz. Das Interesse von Telebärn zeigt, dass der Finaltag auch über die Kegelsportgemeinschaft hinaus auf Aufmerksamkeit stösst.
+
+Für die Schweizer Meisterschaft und den Kegelsport ist dies eine erfreuliche Nachricht: **Neben dem Livestream auf YouTube wird der Finaltag auch durch Telebärn medial begleitet.**
+
+Wir freuen uns sehr über diese zusätzliche Berichterstattung und sind gespannt, welche Eindrücke vom Finaltag ihren Weg ins Fernsehen finden werden.
+
 ## Der Abschluss einer ereignisreichen Meisterschaft
 
 Mit dem Finaltag geht eine intensive und abwechslungsreiche Schweizer Meisterschaft zu Ende. Seit Ende August wurde im Kegelzentrum Rössli in Heimberg um Punkte, Rangierungen und Titel gekämpft. Zahlreiche Keglerinnen und Kegler aus der ganzen Schweiz haben für spannende Wettkämpfe und starke Leistungen gesorgt.
