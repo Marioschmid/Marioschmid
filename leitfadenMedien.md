@@ -190,11 +190,139 @@ sondern ebenso:
 
 **„Welche Geschichten können wir daraus machen?“**
 
+## 4. Zeitplan für die Medienarbeit
+
+Medienarbeit sollte nicht erst wenige Wochen vor der Schweizermeisterschaft beginnen. Ein grosser Teil der Wirkung entsteht dadurch, dass Kontakte früh aufgebaut, Geschichten rechtzeitig erkannt und die Medien über längere Zeit mit neuen Anknüpfungspunkten versorgt werden.
+
+Der folgende Zeitplan ist als **praktische Orientierung** gedacht. Die Zeitangaben sind keine festen Vorgaben, sondern leiten sich aus den Erfahrungen der SM 2026 ab und können je nach Grösse und Rahmenbedingungen der jeweiligen Schweizermeisterschaft angepasst werden.
+
+### 4.1 12–18 Monate vor der Schweizermeisterschaft
+
+In dieser frühen Phase sollten die organisatorischen Voraussetzungen geschaffen werden.
+
+- Verantwortliche Person für die Medienarbeit bestimmen
+- Stellvertretung bestimmen
+- vorhandene Medienkontakte und Erfahrungen früherer Schweizermeisterschaften zusammentragen
+- prüfen, welche zentralen Informationen durch den SFKV bereitgestellt werden können
+- regionale Medien und mögliche Mediengebiete grob erfassen
+- besondere Merkmale und mögliche Geschichten der eigenen Schweizermeisterschaft sammeln
+- Aufbau bzw. Struktur der elektronischen Medienmappe festlegen
+
+Ziel dieser Phase ist noch nicht eine intensive Medienansprache. Entscheidend ist, dass die Medienarbeit **von Anfang an eingeplant und organisatorisch verankert** ist.
+
+### 4.2 9–12 Monate vor der Schweizermeisterschaft
+
+Jetzt kann die konkrete Vorbereitung beginnen.
+
+- Medienkontaktliste aufbauen bzw. aktualisieren
+- relevante regionale und lokale Medien identifizieren
+- regionale Zuordnung der voraussichtlich teilnehmenden Keglerinnen und Kegler vorbereiten
+- besondere lokale Teilnehmer und mögliche Geschichten sammeln
+- Informationen und Bildmaterial für die elektronische Medienmappe zusammentragen
+- erste Kontakte zu besonders wichtigen Medien herstellen
+- klären, welche Personen im OK und im SFKV für Medienanfragen zur Verfügung stehen
+
+In dieser Phase sollte insbesondere die Zusammenarbeit zwischen **Zentralverband und Organisationskomitee** funktionieren. Das OK sollte nicht erst kurz vor der Veranstaltung damit beginnen, die für regionale Medien wichtigen Teilnehmer zu suchen.
+
+### 4.3 6–9 Monate vor der Schweizermeisterschaft
+
+Nun beginnt die eigentliche kontinuierliche Medienarbeit.
+
+- erste konkrete regionale Geschichten an geeignete Medien herantragen
+- lokale Teilnehmer mit interessanten Erfolgen oder Geschichten vorstellen
+- besondere Programmpunkte oder Neuerungen ankündigen
+- Medienmappe weiter ausbauen
+- Kontakte und Reaktionen der Redaktionen dokumentieren
+- mögliche Interviewpartner und Persönlichkeiten identifizieren
+- bei wichtigen Medien den persönlichen Kontakt pflegen
+
+Dabei sollte nicht versucht werden, bereits sämtliche Informationen auf einmal zu verschicken. **Besser sind einzelne, konkrete und für das jeweilige Medium interessante Geschichten.**
+
+### 4.4 3–6 Monate vor der Schweizermeisterschaft
+
+Jetzt wird die Medienarbeit intensiver und konkreter.
+
+- regelmässige Medieninformationen mit neuen Geschichten und Anlässen versenden
+- regionale Teilnehmer und Favoriten gezielt vorstellen
+- Programm und wichtige Termine kommunizieren
+- elektronische Medienmappe mit aktuellen Informationen, Fotos und Hintergrundmaterial ergänzen
+- mögliche Radio- und Fernsehthemen identifizieren
+- konkrete Medienkontakte zu Radio und Fernsehen aufnehmen
+- mögliche Interviewpartner und geeignete Schauplätze vorbereiten
+- Foto- und Videomöglichkeiten während der Veranstaltung planen
+
+Spätestens in dieser Phase sollte klar sein, **welche Geschichten die Schweizermeisterschaft erzählen kann und welche Medien dafür besonders geeignet sind**.
+
+### 4.5 1–2 Monate vor der Schweizermeisterschaft
+
+In der Schlussphase geht es um die konkrete Vorbereitung der Berichterstattung.
+
+- aktuelle Medieninformation zur bevorstehenden Schweizermeisterschaft versenden
+- relevante Redaktionen individuell kontaktieren
+- auf passende Inhalte der Medienmappe hinweisen
+- Medienbesuche und Interviews koordinieren
+- Radio- und Fernsehteams gezielt mit konkreten Geschichten ansprechen
+- Ansprechpartner vor Ort festlegen
+- Foto- und Videokonzept überprüfen
+- aktuelle Teilnehmerinformationen und mögliche lokale Aufhänger nochmals prüfen
+- sicherstellen, dass Resultate und Informationen während der Veranstaltung schnell bereitgestellt werden können
+
+Für Medien, die Interesse an einer Berichterstattung zeigen, sollte jetzt bereits möglichst konkret geklärt werden, **wann, wo und mit wem eine Berichterstattung möglich ist**.
+
+### 4.6 Während der Schweizermeisterschaft
+
+Während der Veranstaltung wechselt der Schwerpunkt von der Vorbereitung zur laufenden Betreuung.
+
+- aktuelle Ereignisse und Geschichten erkennen
+- Medien zeitnah über besondere Ereignisse informieren
+- Resultate und Zwischenresultate bereitstellen
+- Interviews und Medienbesuche begleiten
+- Foto- und Videomaterial bereitstellen
+- regionale Erfolge gezielt an die entsprechenden Medien melden
+- besondere Leistungen, Rekorde, Pannen oder andere ungewöhnliche Ereignisse als mögliche Geschichten erkennen
+- bei Radio und Fernsehen kurzfristig auf interessante Entwicklungen hinweisen
+- Medienkontakte und zugesagte Nachbearbeitungen dokumentieren
+
+Gerade während der Meisterschaft sollte die Medienarbeit **schnell reagieren können**. Eine interessante Geschichte ist oft nur dann für ein Medium interessant, wenn die Information rechtzeitig kommt.
+
+### 4.7 Nach der Schweizermeisterschaft
+
+Mit dem letzten Wettkampf endet die Medienarbeit nicht.
+
+- Schlussresultate und Schweizermeister zeitnah kommunizieren
+- geeignete Fotos und weitere Medienunterlagen bereitstellen
+- besondere Geschichten oder Leistungen nochmals aufgreifen
+- interessierten Medien gegebenenfalls ergänzende Informationen liefern
+- Medien für ihre Berichterstattung danken
+- veröffentlichte Berichte und Beiträge dokumentieren
+- Medienkontakte und Erfahrungen für die nächste Schweizermeisterschaft festhalten
+- elektronische Medienmappe gegebenenfalls noch eine Zeit lang verfügbar halten
+- Erfahrungen auswerten: Was hat funktioniert? Was hat nicht funktioniert? Was sollte das nächste OK anders machen?
+
+Gerade die letzte Aufgabe ist wichtig. **Die gemachten Erfahrungen sollten nicht mit der Auflösung des OK verloren gehen.** Sie gehören in die Wissensbasis des SFKV und können dem nächsten Organisationskomitee viel Arbeit ersparen.
+
+### 4.8 Der Zeitplan als einfache Orientierung
+
+Zusammengefasst ergibt sich daraus:
+
+**12–18 Monate:** Organisation und Grundlagen schaffen  
+**9–12 Monate:** Medien und regionale Geschichten identifizieren  
+**6–9 Monate:** erste gezielte Medienkontakte und Geschichten  
+**3–6 Monate:** Medienarbeit intensivieren und TV/Radio vorbereiten  
+**1–2 Monate:** konkrete Berichterstattung und Medienbesuche organisieren  
+**Während der SM:** aktuell informieren, begleiten und reagieren  
+**Nach der SM:** Ergebnisse kommunizieren, auswerten und Wissen sichern
+
+Der wichtigste Grundsatz dabei lautet:
+
+> **Nicht möglichst viel Information möglichst früh versenden, sondern über einen langen Zeitraum immer wieder einen guten Grund für die Medien liefern, über die Schweizermeisterschaft zu berichten.**
+
+
 ## 4. Medien frühzeitig identifizieren
 
 Die Medienarbeit sollte möglichst früh beginnen. Dabei geht es zunächst nicht darum, möglichst viele Medien gleichzeitig anzuschreiben, sondern die **erreichbaren und für die Schweizermeisterschaft relevanten Medien gezielt zu bearbeiten**.
 
-### 3.1 Regionale und lokale Medien zuerst
+### 4.1 Regionale und lokale Medien zuerst
 
 Besonders wichtig sind regionale und lokale Printmedien. Sie berichten über Personen und Ereignisse aus ihrem Erscheinungsgebiet und haben deshalb einen direkten Bezug zu den Keglerinnen und Keglern, die an der Schweizermeisterschaft teilnehmen.
 
@@ -208,7 +336,7 @@ Für jedes Mediengebiet sollte geprüft werden:
 
 Diese Medien sollten in einer zentralen Kontaktliste erfasst werden.
 
-### 3.2 Lokale Kegler als Aufhänger
+### 4.2 Lokale Kegler als Aufhänger
 
 Ein besonders wirkungsvoller Zugang zu regionalen Medien sind **Keglerinnen und Kegler aus dem jeweiligen Erscheinungsgebiet, die bereits bekannte Erfolge vorweisen können**.
 
@@ -233,7 +361,7 @@ Geeignet sind beispielsweise:
 
 Dabei sollte nicht nur der sportliche Erfolg betrachtet werden. Eine persönliche oder regionale Geschichte kann für die Medien ebenso interessant sein.
 
-### 3.3 Vom lokalen Aufhänger zur Schweizermeisterschaft
+### 4.3 Vom lokalen Aufhänger zur Schweizermeisterschaft
 
 Der lokale Sportler ist der Einstieg. Die Schweizermeisterschaft bildet den grösseren Zusammenhang.
 
@@ -243,7 +371,7 @@ Beispielsweise kann aus einem einzelnen Medienkontakt schrittweise eine Berichte
 
 Damit erhält das Medium einen konkreten regionalen Bezug, während gleichzeitig die Schweizermeisterschaft als Ganzes bekannt gemacht wird.
 
-### 3.4 Nicht nur einmal Kontakt aufnehmen
+### 4.4 Nicht nur einmal Kontakt aufnehmen
 
 Ein einmaliger Hinweis reicht häufig nicht aus. Medienkontakte sollten über die gesamte Vorbereitungszeit gepflegt werden.
 
@@ -268,7 +396,7 @@ Die Erfahrung der Schweizermeisterschaft 2026 hat gezeigt, dass **Aufwand und er
 
 Aus meiner Sicht sollte deshalb nicht einfach nur die Medienorientierung abgeschafft werden. Entscheidend ist vielmehr, **den dafür eingesetzten Aufwand in eine andere, nachhaltigere Form der Medienarbeit zu investieren**.
 
-### 6.1 Elektronische Medienmappe statt einmaliger Medienorientierung
+### 5.1 Elektronische Medienmappe statt einmaliger Medienorientierung
 
 Eine sinnvolle Alternative ist der Aufbau einer **elektronischen Medienmappe**, die über einen längeren Zeitraum zur Verfügung steht und laufend aktualisiert werden kann.
 
@@ -295,7 +423,7 @@ Als technische und konzeptionelle Anregung kann dabei beispielsweise die bereits
 
 **URL:** https://pressemappe.k-tool.ch/index.php Für die Schweizermeisterschaft müsste eine solche Lösung natürlich auf die Bedürfnisse der Medienarbeit im Kegelsport angepasst werden.
 
-### 6.2 Die Medienmappe ersetzt den persönlichen Kontakt nicht
+### 5.2 Die Medienmappe ersetzt den persönlichen Kontakt nicht
 
 Eine elektronische Medienmappe allein führt noch nicht zu einer Berichterstattung. Sie ist ein **Werkzeug**, aber kein Ersatz für die persönliche Medienarbeit.
 
@@ -307,7 +435,7 @@ Beispielsweise:
 
 Damit wird aus einer allgemeinen Einladung ein **konkretes Angebot für eine mögliche Geschichte**.
 
-### 6.3 Das neue Vorgehen
+### 5.3 Das neue Vorgehen
 
 Aus den Erfahrungen der SM 2026 ergibt sich deshalb für zukünftige Organisatoren ein möglicher Ablauf:
 
