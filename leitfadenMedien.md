@@ -291,7 +291,7 @@ Die Medienmappe könnte beispielsweise enthalten:
 
 Die Inhalte müssen dabei nicht bereits zu Beginn vollständig vorhanden sein. Die Medienmappe kann **vor der Meisterschaft aufgebaut und während der gesamten Veranstaltung laufend erweitert und aktualisiert werden**.
 
-Als technische und konzeptionelle Anregung kann dabei beispielsweise die bereits bestehende elektronische Pressemappe von K-Tool dienen. Für die Schweizermeisterschaft müsste eine solche Lösung natürlich auf die Bedürfnisse der Medienarbeit im Kegelsport angepasst werden.
+Als technische und konzeptionelle Anregung kann dabei beispielsweise die bereits bestehende [elektronische Pressemappe der Schweizermeisterschaft 2026](https://pressemappe.k-tool.ch/index.php) dienen. Für die Schweizermeisterschaft müsste eine solche Lösung natürlich auf die Bedürfnisse der Medienarbeit im Kegelsport angepasst werden.
 
 ### 6.2 Die Medienmappe ersetzt den persönlichen Kontakt nicht
 
