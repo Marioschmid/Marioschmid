@@ -216,7 +216,7 @@ Jetzt kann die konkrete Vorbereitung beginnen.
 
 - Medienkontaktliste aufbauen bzw. aktualisieren
 - relevante regionale und lokale Medien identifizieren
-- regionale Zuordnung der voraussichtlich teilnehmenden Keglerinnen und Kegler vorbereiten
+- vorhandene regionale Zuordnungen der voraussichtlich teilnehmenden Keglerinnen und Kegler aus den zentral verfügbaren Informationen übernehmen und bei Bedarf Ergänzungen anstossen
 - besondere lokale Teilnehmer und mögliche Geschichten sammeln
 - Informationen und Bildmaterial für die elektronische Medienmappe zusammentragen
 - erste Kontakte zu besonders wichtigen Medien herstellen
@@ -570,7 +570,7 @@ Eine der häufigsten Fragen von Medien war:
 
 Diese Frage ist für eine regionale Redaktion sehr interessant. Die dafür notwendigen Recherchen waren bei der SM 2026 jedoch ausserordentlich zeitaufwendig. Für jedes Medium musste zunächst ermittelt werden, welche Keglerinnen und Kegler aus dessen Erscheinungsgebiet teilnehmen und welche sportlichen Leistungen oder Erfolge diese Personen vorweisen können.
 
-Hier besteht eine Aufgabe, die sinnvollerweise **zentral durch den SFKV bzw. den Zentralverband vorbereitet und unterstützt werden sollte**.
+Hier besteht eine Aufgabe, bei der die **Informationen in den Regionen beschafft und anschliessend durch den SFKV bzw. den Zentralverband zentral erfasst, strukturiert und für zukünftige Organisationskomitees nutzbar gemacht werden sollten**.
 
 Dass ich diese Informationen für die Medienarbeit überhaupt in dieser Form zusammentragen konnte, war auch meiner damaligen **Doppelfunktion innerhalb des SFKV und des OK** zu verdanken: Als **Informatikverantwortlicher der SFKV, Mitglied des Zentralvorstandes und gleichzeitig Mitglied des Organisationskomitees** hatte ich Zugriff auf Informationen und Kontakte aus verschiedenen Bereichen. Dadurch war es mir möglich, die benötigten Angaben zusammenzuführen und für die Medienarbeit nutzbar zu machen.
 
