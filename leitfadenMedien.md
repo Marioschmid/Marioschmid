@@ -1,5 +1,29 @@
 # Leitfaden Medienarbeit für zukünftige Schweizermeisterschaften
 
+## Einleitung
+
+Dieser Leitfaden ist aus der praktischen Erfahrung der Schweizermeisterschaft 2026 entstanden.
+
+Die Medienarbeit war für mich eine besondere Herausforderung, denn ich verfügte über **keinerlei spezifische Vorkenntnisse oder Erfahrungen in der Medienarbeit**. Es gab deshalb kein bestehendes Konzept, auf das ich hätte zurückgreifen können. Vieles musste ich ausprobieren, Kontakte herstellen, Erfahrungen sammeln und daraus die nächsten Schritte ableiten.
+
+Trotz dieser Ausgangslage ist es gelungen, eine beachtliche Medienpräsenz für die Schweizermeisterschaft zu erreichen. Neben zahlreichen Printmedien konnten unter anderem das **Schweizer Fernsehen mit dem «Sportpanorama»** sowie **TeleBärn mit den News** für eine Berichterstattung gewonnen werden.
+
+Besonders wertvoll waren für mich dabei die Rückmeldungen aus dem Kegelsport. Der Dank und die lobenden Worte verschiedener Keglerinnen und Kegler aus der ganzen Schweiz haben bestätigt, dass diese Medienarbeit wahrgenommen und als wichtig empfunden wurde.
+
+Diese Erfahrung hat mich in einer Überzeugung bestärkt:
+
+> **Die Aussage „Wir sind halt eine Randsportart“ darf keine Ausrede dafür sein, dass über unseren Sport nicht berichtet wird.**
+
+Natürlich ist Kegeln keine Sportart mit der Medienpräsenz von Fussball, Eishockey oder Tennis. Aber auch eine kleinere Sportart kann interessante Geschichten erzählen, Persönlichkeiten hervorbringen und für Medien attraktiv sein.
+
+Entscheidend ist, dass man **etwas dafür tut**.
+
+Dieser Leitfaden soll deshalb keine theoretische Abhandlung über Medienarbeit sein. Er soll die Erfahrungen aus der Schweizermeisterschaft 2026 weitergeben und zukünftigen Organisatoren eine praktische Grundlage bieten.
+
+Dabei geht es insbesondere darum, **mit den vorhandenen Möglichkeiten zu beginnen, die erreichbaren Medien konsequent zu bearbeiten und Schritt für Schritt eine Präsenz aufzubauen**.
+
+Was 2026 ohne entsprechende Vorerfahrung möglich war, sollte für zukünftige Organisationskomitees mit diesem Wissen noch besser möglich sein.
+
 ## 1. Ziel und Bedeutung der Medienarbeit
 
 Medienarbeit gehört von Beginn an zur Planung einer Schweizermeisterschaft. Sie darf nicht erst kurz vor oder während der Veranstaltung beginnen.
