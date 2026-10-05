@@ -232,6 +232,10 @@ Diese Frage ist für eine regionale Redaktion sehr interessant. Die dafür notwe
 
 Hier besteht eine Aufgabe, die sinnvollerweise **zentral durch den SFKV bzw. den Zentralverband vorbereitet und unterstützt werden sollte**.
 
+Dass ich diese Informationen für die Medienarbeit überhaupt in dieser Form zusammentragen konnte, war auch meiner damaligen **Doppelfunktion innerhalb des SFKV und des OK** zu verdanken: Als **Informatikverantwortlicher der SFKV, Mitglied des Zentralvorstandes und gleichzeitig Mitglied des Organisationskomitees** hatte ich Zugriff auf Informationen und Kontakte aus verschiedenen Bereichen. Dadurch war es mir möglich, die benötigten Angaben zusammenzuführen und für die Medienarbeit nutzbar zu machen.
+
+Diese persönliche Ausgangslage darf jedoch nicht zur Voraussetzung für eine erfolgreiche Medienarbeit werden. Gerade deshalb zeigt die Erfahrung, dass die entsprechenden Informationen künftig **strukturiert und unabhängig von einzelnen Personen verfügbar** sein sollten.
+
 ### 5.1 Zentrale Medien- und Regionaldatenbank
 
 Der Zentralverband könnte eine zentrale Datenbank aufbauen, in der bekannte Medien mit ihrem regionalen Einzugsgebiet verknüpft werden.
