@@ -633,27 +633,42 @@ Beispielsweise könnte ein Veranstalter eines Anlasses in einer bestimmten Regio
 
 Damit müsste nicht jeder Veranstalter dieselbe Recherche erneut durchführen.
 
-### 8.4 Aufgabenteilung zwischen Zentralverband und Veranstalter
+### 8.4 Aufgabenteilung zwischen Zentralverband und Regionen
 
 Aus meiner Sicht sollte deshalb eine klare Aufgabenteilung angestrebt werden.
 
+**Aufgabe der Regionen:**
+
+- regionale Medien und deren Ansprechpartner identifizieren
+- regionale Zuordnung der Keglerinnen und Kegler erfassen
+- sportliche Erfolge und besondere Geschichten der regionalen Teilnehmer zusammentragen
+- die Informationen dem Zentralverband zur Verfügung stellen
+- die regionalen Angaben bei Bedarf aktualisieren
+
+Die Beschaffung der Informationen ist damit bewusst eine **regionale Aufgabe**. Sie kann nicht vollständig an den Zentralverband delegiert werden, weil das notwendige Wissen und die Kontakte vor allem in den Regionen vorhanden sind.
+
 **Aufgabe des Zentralverbands:**
 
-- zentrale Pflege der Medienkontakte
-- Zuordnung der Medien zu Regionen bzw. Postleitzahlen
-- Aufbau und Pflege der regionalen Teilnehmerinformationen
-- Bereitstellung von Grundlagen und Recherchemöglichkeiten
-- Pflege allgemeiner Informationen zum Kegelsport
-- Unterstützung der Organisatoren bei der Identifikation geeigneter Medien
+- die aus den Regionen gelieferten Informationen zentral erfassen und strukturieren
+- Medienkontakte und regionale Zuordnungen für die Nachwelt nutzbar machen
+- sportliche Hintergrundinformationen dauerhaft dokumentieren
+- die Daten über mehrere Schweizermeisterschaften hinweg pflegen und ergänzen
+- eine geeignete Grundlage schaffen, auf die zukünftige Organisationskomitees und regionale Verantwortliche zurückgreifen können
+- dafür sorgen, dass einmal beschafftes Wissen nicht mit dem Ende eines Organisationskomitees oder dem Wechsel einzelner Personen verloren geht
 
 **Aufgabe des Organisationskomitees:**
 
 - konkrete Informationen zur jeweiligen Veranstaltung
 - Identifikation besonderer Geschichten und lokaler Aufhänger
-- Kontaktaufnahme mit den aufgrund der zentralen Datenbasis relevanten Medien
+- Kontaktaufnahme mit den relevanten Medien
 - Organisation von Interviews und Medienbesuchen
 - Bereitstellung veranstaltungsspezifischer Informationen, Fotos und Resultate
 - laufende Pflege der persönlichen Medienkontakte während der Veranstaltung
+- bei Bedarf Ergänzung oder Aktualisierung der regionalen Informationen
+
+Damit entsteht ein Kreislauf:
+
+**Regionen beschaffen Informationen → Zentralverband erfasst und sichert das Wissen → zukünftige OKs nutzen die Informationen → neue Erkenntnisse fliessen wieder zurück.**
 
 Damit würde das Rad nicht bei jeder Schweizermeisterschaft neu erfunden.
 
@@ -682,7 +697,7 @@ Die folgenden Fragen sind jene, die sich ein Organisationskomitee bei der Planun
 | **Wie findet man interessante Geschichten?** | Nicht nur auf sportliche Resultate achten. Auch Persönlichkeiten, lokale Teilnehmer, besondere Situationen, technische Probleme, Helfereinsätze, Neuerungen oder Aktionen ausserhalb des Sports können gute Aufhänger sein. |
 | **Braucht es weiterhin eine klassische Medienorientierung?** | Die Erfahrungen 2026 sprechen eher für eine elektronische Medienmappe in Verbindung mit gezielten persönlichen Kontakten. Der Aufwand soll nachhaltig eingesetzt werden. |
 | **Ersetzt die Medienmappe den persönlichen Kontakt?** | Nein. Die Medienmappe ist ein Werkzeug. Entscheidend bleibt die individuelle Kontaktaufnahme mit einem konkreten Hinweis auf eine passende Geschichte und das dazugehörige Material. |
-| **Wer soll die regionalen Teilnehmer für die Medien recherchieren?** | Diese Grundlagen sollten möglichst zentral durch den SFKV vorbereitet werden. Das OK soll auf vorhandene Informationen zurückgreifen können und nicht jedes Mal dieselbe Recherche durchführen müssen. |
+| **Wer soll die regionalen Teilnehmer für die Medien recherchieren?** | Die Beschaffung dieser Informationen muss in den Regionen erfolgen. Der Zentralverband kann und soll die Informationen zentral erfassen, strukturieren und für spätere Schweizermeisterschaften und andere Veranstaltungen nutzbar machen. Das OK soll möglichst auf diesen vorhandenen Wissensbestand zurückgreifen können. |
 | **Welche Informationen über Keglerinnen und Kegler sind für Medien besonders nützlich?** | Wohnort bzw. regionale Zuordnung, Verein, Kategorie, bisherige Titel und Medaillen, aktuelle Resultate sowie besondere persönliche oder sportliche Geschichten. |
 | **Wann müssen Foto- und Videoaufnahmen geplant werden?** | Frühzeitig, nicht erst wenn ein Journalist oder Fernsehsender danach fragt. Bei der SM 2026 führte die zu späte Planung wiederholt zu unnötigem Stress. |
 | **Warum ist die Foto- und Videoplanung besonders wichtig?** | Teilnehmer können aufgrund der Wettkampfregeln nicht jederzeit für Aufnahmen zur Verfügung stehen. Personen, Zeitfenster und geeignete Situationen müssen deshalb im Voraus koordiniert werden. |
@@ -690,8 +705,8 @@ Die folgenden Fragen sind jene, die sich ein Organisationskomitee bei der Planun
 | **Wer stellt Fotos und Videos bereit?** | Das OK sollte dafür eine verantwortliche Person oder ein kleines Team bestimmen. Die Aufgabe besteht vor allem in Koordination, Sammlung, Aufbereitung und Bereitstellung des Materials. |
 | **Was soll während der Schweizermeisterschaft passieren?** | Aktuelle Geschichten erkennen, Medien zeitnah informieren, Resultate bereitstellen, Interviews begleiten und geeignetes Foto- und Videomaterial liefern. |
 | **Was passiert nach der Schweizermeisterschaft?** | Schlussresultate und Bilder verbreiten, Medienkontakte nachbearbeiten, Berichte dokumentieren und die gemachten Erfahrungen für das nächste OK sichern. |
-| **Was sollte der SFKV zentral bereitstellen?** | Möglichst eine gepflegte Medien- und Regionaldatenbank, sportliche Hintergrundinformationen, allgemeine Informationen zum Kegelsport sowie Unterstützung bei der Identifikation relevanter Medien und Teilnehmer. |
-| **Was bleibt Aufgabe des OK?** | Veranstaltungsspezifische Informationen, lokale Geschichten, persönliche Medienkontakte, Interviews, Medienbesuche sowie aktuelle Fotos, Videos und Resultate organisieren. |
+| **Was sollte der SFKV zentral bereitstellen?** | Der SFKV sollte die regional beschafften Informationen zentral erfassen, strukturieren, pflegen und für zukünftige Organisationskomitees nutzbar machen. Dazu gehören insbesondere Medienkontakte, regionale Zuordnungen und sportliche Hintergrundinformationen. Die eigentliche Beschaffung der regionalen Informationen muss jedoch in den Regionen erfolgen. |
+| **Was bleibt Aufgabe des OK?** | Veranstaltungsspezifische Informationen, lokale Geschichten, persönliche Medienkontakte, Interviews, Medienbesuche sowie aktuelle Fotos, Videos und Resultate organisieren. Für die regionale Recherche sollte das OK auf den vorhandenen Wissensbestand zurückgreifen können und diesen bei Bedarf ergänzen. |
 | **Was ist die wichtigste Lehre aus der SM 2026?** | Medienarbeit muss geplant, kontinuierlich betrieben und auf konkrete Geschichten ausgerichtet werden. Besonders Foto/Video und regionale Teilnehmerinformationen dürfen nicht erst im letzten Moment organisiert werden. |
 | **Woran sollte sich ein zukünftiges OK letztlich orientieren?** | Nicht daran, möglichst viele Informationen möglichst früh zu verschicken, sondern daran, den Medien über längere Zeit immer wieder einen guten Grund für eine Berichterstattung zu liefern. |
 
