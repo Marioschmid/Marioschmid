@@ -95,7 +95,102 @@ Damit wird verhindert, dass Medien verschiedene oder widersprüchliche Informati
 
 **Die Medienarbeit ist damit nicht die Aufgabe einer einzelnen Person allein. Die verantwortliche Person koordiniert sie, benötigt dafür aber die Unterstützung des gesamten OK.**
 
-## 3. Medien frühzeitig identifizieren
+
+## 3. Geschichten statt nur Informationen
+
+Eine Schweizermeisterschaft liefert automatisch viele Informationen: Daten, Startzeiten, Kategorien, Resultate und Ranglisten. Für Medien sind diese Informationen wichtig – allein daraus entsteht aber noch nicht zwingend eine interessante Berichterstattung.
+
+Entscheidend ist deshalb die Frage:
+
+> **„Was ist an dieser Schweizermeisterschaft eine Geschichte wert?“**
+
+Die Erfahrungen der SM 2026 zeigen, dass solche Geschichten sehr unterschiedliche Formen annehmen können.
+
+### 3.1 Was kann eine gute Geschichte sein?
+
+Mögliche Aufhänger sind beispielsweise:
+
+- eine aussergewöhnliche technische Panne und die Lösung dafür
+- ein besonderer Meilenstein, etwa die 500. Teilnehmerin oder der 700. Teilnehmer
+- eine interessante oder überraschende Persönlichkeit
+- ein ehemaliger Schweizermeister, der wieder antritt
+- eine Keglerin oder ein Kegler mit einer besonderen persönlichen Geschichte
+- ein lokaler Teilnehmer mit Chancen auf eine Spitzenklassierung
+- ein Duell zwischen Titelverteidiger und Herausforderer
+- eine ungewöhnliche Neuerung bei der Durchführung
+- ein besonderer Einsatz von Helferinnen und Helfern
+- eine aussergewöhnliche Situation rund um den Veranstaltungsort
+- eine Aktion, die über den Kegelsport hinausgeht
+- ein Jubiläum, Rekord oder anderer besonderer Anlass
+- eine Geschichte mit einem konkreten regionalen Bezug zu einer Redaktion
+
+Gerade für kleinere Sportarten kann dabei ein wichtiger Grundsatz gelten:
+
+> **Nicht nur fragen, was sportlich passiert – sondern auch, was rund um den Sport passiert.**
+
+Die SM 2026 hat dafür mehrere konkrete Beispiele geliefert. Der Ausfall der Lichtschranke auf Bahn 1 führte dazu, dass Wettkampfwürfe vorübergehend von Hand erfasst werden mussten. Die Explosion in der Kühlanlage des Rössli stellte die Durchführung der Schweizermeisterschaft kurzfristig infrage und führte anschliessend zu einem aussergewöhnlichen Einsatz vieler Helferinnen und Helfer. Mit der 500. Teilnehmerin Trudy Leupp entstand eine persönliche Geschichte, die durch den Umstand, dass Zentralpräsident Jaime Iglesias als Nummer 501 folgte, zusätzlich an Unterhaltungswert gewann. Auch der Verzicht auf ein klassisches Teilnehmer-Gadget zugunsten einer Spende bot einen Medienaufhänger, der über den eigentlichen Sport hinausging.
+
+Diese Beispiele zeigen: **Eine gute Mediengeschichte muss nicht zwingend ein sportlicher Rekord oder ein spektakuläres Resultat sein.** Sie braucht vor allem einen konkreten Aufhänger und möglichst eine Person, eine Handlung oder eine besondere Situation dahinter.
+
+### 3.2 Drei Fragen vor jeder Medieninformation
+
+Vor dem Versand einer Medieninformation sollte das OK deshalb kurz prüfen:
+
+1. **Was ist neu?**
+2. **Was ist besonders?**
+3. **Wer ist die Person oder Geschichte dahinter?**
+
+Wenn auf mindestens eine dieser Fragen eine interessante Antwort gefunden wird, besteht bereits ein möglicher Medienaufhänger.
+
+Damit wird aus einer reinen Information eine mögliche Geschichte.
+
+### 3.3 Geschichten gezielt sammeln
+
+Solche Geschichten sollten nicht erst dann gesucht werden, wenn eine Medienmitteilung geschrieben werden soll. Bereits während der Vorbereitung der Schweizermeisterschaft lohnt es sich, mögliche Themen laufend zu sammeln.
+
+Eine einfache interne Liste kann beispielsweise enthalten:
+
+- Thema / Geschichte
+- beteiligte Person(en)
+- regionaler Bezug
+- möglicher Zeitpunkt der Veröffentlichung
+- vorhandene Fotos oder Videos
+- zuständige Kontaktperson im OK
+- bereits kontaktierte Medien
+
+Damit entsteht im Verlauf der Meisterschaft ein **Pool von möglichen Mediengeschichten**, aus dem je nach Medium und Zeitpunkt passende Themen ausgewählt werden können.
+
+### 3.4 Die regionale Geschichte ist besonders wertvoll
+
+Für regionale Medien sollte möglichst geprüft werden, ob eine Geschichte einen konkreten Bezug zu ihrem Erscheinungsgebiet hat.
+
+Aus
+
+> „Die Schweizermeisterschaft findet am Sonntag in Heimberg statt.“
+
+kann beispielsweise werden:
+
+> „Eine Keglerin aus unserer Region kämpft am Sonntag in Heimberg um den Schweizermeistertitel.“
+
+Oder:
+
+> „Ein ehemaliger Schweizermeister aus unserer Region versucht, in Heimberg nochmals ganz nach vorne zu kommen.“
+
+Der sportliche Anlass bleibt derselbe. **Die Geschichte wird jedoch für das jeweilige Medium relevant.**
+
+### 3.5 Geschichten sind nicht nur für die Medienmitteilung wichtig
+
+Ein guter Aufhänger kann auf unterschiedliche Weise verwendet werden: als Medienmitteilung, als Hinweis bei einer persönlichen Kontaktaufnahme, als Thema für ein Interview, als Grundlage für einen Radio- oder Fernsehbeitrag oder als Inhalt der elektronischen Medienmappe.
+
+Die Medienarbeit sollte deshalb nicht nur fragen:
+
+**„Welche Informationen haben wir?“**
+
+sondern ebenso:
+
+**„Welche Geschichten können wir daraus machen?“**
+
+## 4. Medien frühzeitig identifizieren
 
 Die Medienarbeit sollte möglichst früh beginnen. Dabei geht es zunächst nicht darum, möglichst viele Medien gleichzeitig anzuschreiben, sondern die **erreichbaren und für die Schweizermeisterschaft relevanten Medien gezielt zu bearbeiten**.
 
@@ -165,7 +260,7 @@ Dabei ist darauf zu achten, dass nicht immer dieselbe allgemeine Information ver
 
 So entsteht Schritt für Schritt der **Teppich an Medienpräsenz**, auf dem später auch grössere Medien aufbauen können.
 
-## 4. Die klassische Medienorientierung kritisch hinterfragen
+## 5. Die klassische Medienorientierung kritisch hinterfragen
 
 Seit Jahren wird im Zusammenhang mit der SFKV-Schweizermeisterschaft eine Medienorientierung durchgeführt. Dabei werden Medienschaffende nach dem Giesskannenprinzip zu einem gemeinsamen Termin eingeladen – häufig zu einem Zeitpunkt, der noch weit vor der eigentlichen Veranstaltung liegt.
 
@@ -173,7 +268,7 @@ Die Erfahrung der Schweizermeisterschaft 2026 hat gezeigt, dass **Aufwand und er
 
 Aus meiner Sicht sollte deshalb nicht einfach nur die Medienorientierung abgeschafft werden. Entscheidend ist vielmehr, **den dafür eingesetzten Aufwand in eine andere, nachhaltigere Form der Medienarbeit zu investieren**.
 
-### 4.1 Elektronische Medienmappe statt einmaliger Medienorientierung
+### 6.1 Elektronische Medienmappe statt einmaliger Medienorientierung
 
 Eine sinnvolle Alternative ist der Aufbau einer **elektronischen Medienmappe**, die über einen längeren Zeitraum zur Verfügung steht und laufend aktualisiert werden kann.
 
@@ -198,7 +293,7 @@ Die Inhalte müssen dabei nicht bereits zu Beginn vollständig vorhanden sein. D
 
 Als technische und konzeptionelle Anregung kann dabei beispielsweise die bereits bestehende elektronische Pressemappe von K-Tool dienen. Für die Schweizermeisterschaft müsste eine solche Lösung natürlich auf die Bedürfnisse der Medienarbeit im Kegelsport angepasst werden.
 
-### 4.2 Die Medienmappe ersetzt den persönlichen Kontakt nicht
+### 6.2 Die Medienmappe ersetzt den persönlichen Kontakt nicht
 
 Eine elektronische Medienmappe allein führt noch nicht zu einer Berichterstattung. Sie ist ein **Werkzeug**, aber kein Ersatz für die persönliche Medienarbeit.
 
@@ -210,7 +305,7 @@ Beispielsweise:
 
 Damit wird aus einer allgemeinen Einladung ein **konkretes Angebot für eine mögliche Geschichte**.
 
-### 4.3 Das neue Vorgehen
+### 6.3 Das neue Vorgehen
 
 Aus den Erfahrungen der SM 2026 ergibt sich deshalb für zukünftige Organisatoren ein möglicher Ablauf:
 
@@ -220,7 +315,7 @@ Dieses Vorgehen passt auch zum Grundsatz des **„Teppichs an Medienpräsenz“*
 
 Die klassische Medienorientierung wird damit nicht einfach ersatzlos gestrichen. **Der Aufwand wird vielmehr von einem einmaligen Anlass in ein dauerhaft nutzbares Instrument und in gezielte persönliche Medienkontakte verlagert.**
 
-## 5. Medienarbeit ist nicht nur Aufgabe des Organisationskomitees
+## 6. Medienarbeit ist nicht nur Aufgabe des Organisationskomitees
 
 Die Erfahrungen an der Schweizermeisterschaft 2026 haben gezeigt, dass die Medienarbeit nicht vollständig durch das jeweilige Organisationskomitee geleistet werden kann und sollte.
 
@@ -236,7 +331,7 @@ Dass ich diese Informationen für die Medienarbeit überhaupt in dieser Form zus
 
 Diese persönliche Ausgangslage darf jedoch nicht zur Voraussetzung für eine erfolgreiche Medienarbeit werden. Gerade deshalb zeigt die Erfahrung, dass die entsprechenden Informationen künftig **strukturiert und unabhängig von einzelnen Personen verfügbar** sein sollten.
 
-### 5.1 Zentrale Medien- und Regionaldatenbank
+### 6.1 Zentrale Medien- und Regionaldatenbank
 
 Der Zentralverband könnte eine zentrale Datenbank aufbauen, in der bekannte Medien mit ihrem regionalen Einzugsgebiet verknüpft werden.
 
@@ -262,7 +357,7 @@ Oder umgekehrt:
 
 > **Welche Medien sind für diese Teilnehmerin oder diesen Teilnehmer aufgrund des Wohn- oder Vereinsorts interessant?**
 
-### 5.2 Ergänzung um sportliche Informationen
+### 6.2 Ergänzung um sportliche Informationen
 
 Für die Medienarbeit wäre es zusätzlich hilfreich, wenn bei den Sportlerinnen und Sportlern gewisse **medienrelevante sportliche Informationen** verfügbar wären.
 
@@ -278,7 +373,7 @@ Dazu könnten beispielsweise gehören:
 
 Dabei geht es nicht darum, eine umfangreiche öffentliche Datenbank aufzubauen. Entscheidend ist vielmehr, dass die für die Medienarbeit notwendigen Informationen **intern strukturiert und schnell auswertbar** sind.
 
-### 5.3 Nutzen über die Schweizermeisterschaft hinaus
+### 6.3 Nutzen über die Schweizermeisterschaft hinaus
 
 Eine solche zentrale Datenbasis wäre nicht nur für Schweizermeisterschaften wertvoll.
 
@@ -290,7 +385,7 @@ Beispielsweise könnte ein Veranstalter eines Anlasses in einer bestimmten Regio
 
 Damit müsste nicht jeder Veranstalter dieselbe Recherche erneut durchführen.
 
-### 5.4 Aufgabenteilung zwischen Zentralverband und Veranstalter
+### 6.4 Aufgabenteilung zwischen Zentralverband und Veranstalter
 
 Aus meiner Sicht sollte deshalb eine klare Aufgabenteilung angestrebt werden.
 
@@ -314,7 +409,7 @@ Aus meiner Sicht sollte deshalb eine klare Aufgabenteilung angestrebt werden.
 
 Damit würde das Rad nicht bei jeder Schweizermeisterschaft neu erfunden.
 
-### 5.5 Ein langfristiger Nutzen für den SFKV
+### 6.5 Ein langfristiger Nutzen für den SFKV
 
 Eine solche Lösung wäre eine Investition, die über eine einzelne Schweizermeisterschaft hinausgeht.
 
