@@ -472,6 +472,8 @@ Dabei sollte nicht nur an klassische Wettkampfbilder gedacht werden. Gerade für
 
 Ein wichtiger Punkt ist die Abstimmung mit den Wettkampfregeln.
 
+**Genau diesen Punkt haben wir bei der SM 2026 zu wenig beachtet. Das führte wiederholt zu unnötigem Stress, weil geeignete Personen oder Situationen für Foto- und Filmaufnahmen kurzfristig organisiert werden mussten.**
+
 Bei der SM 2026 konnten Teilnehmerinnen und Teilnehmer am Finaltag nicht beliebig vor ihrem eigenen Einsatz für Foto- oder Filmaufnahmen zur Verfügung stehen. Wer seinen Wettkampf noch vor sich hatte, durfte sich nicht einfach für Medienaufnahmen aus dem laufenden Geschehen herausnehmen lassen.
 
 Deshalb müssen geeignete Aufnahmen **im Voraus geplant** werden:
@@ -482,8 +484,11 @@ Deshalb müssen geeignete Aufnahmen **im Voraus geplant** werden:
 - Wo gibt es geeignete Fotopositionen?
 - Welche Situationen können während des Wettkampfs aufgenommen werden?
 - Welche Aufnahmen werden für eine bestimmte Mediengeschichte benötigt?
+- Wer organisiert die betreffende Person zum vereinbarten Zeitpunkt?
 
-Das Ziel sollte sein, dass ein Medieninteresse nicht daran scheitert, dass **die gewünschte Person oder das gewünschte Bild im entscheidenden Moment nicht verfügbar ist**.
+Gerade bei wichtigen Medienkontakten sollte bereits vor dem Veranstaltungstag feststehen, **welche Personen, Bilder und Situationen benötigt werden und wann sie zur Verfügung stehen**.
+
+Das Ziel sollte sein, dass ein Medieninteresse nicht daran scheitert, dass **die gewünschte Person oder das gewünschte Bild im entscheidenden Moment nicht verfügbar ist**. Eine frühzeitige Planung reduziert nicht nur das Risiko, dass Bildmaterial fehlt, sondern auch den Stress für das gesamte OK während der Veranstaltung.
 
 ### 6.3 Eine verantwortliche Person für Foto und Video
 
