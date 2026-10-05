@@ -219,3 +219,103 @@ Aus den Erfahrungen der SM 2026 ergibt sich deshalb für zukünftige Organisator
 Dieses Vorgehen passt auch zum Grundsatz des **„Teppichs an Medienpräsenz“**. Statt an einem einzigen Termin möglichst viele Medien gleichzeitig zu erreichen, wird die Medienarbeit über einen längeren Zeitraum gezielt und individuell betrieben.
 
 Die klassische Medienorientierung wird damit nicht einfach ersatzlos gestrichen. **Der Aufwand wird vielmehr von einem einmaligen Anlass in ein dauerhaft nutzbares Instrument und in gezielte persönliche Medienkontakte verlagert.**
+
+## 5. Medienarbeit ist nicht nur Aufgabe des Organisationskomitees
+
+Die Erfahrungen an der Schweizermeisterschaft 2026 haben gezeigt, dass die Medienarbeit nicht vollständig durch das jeweilige Organisationskomitee geleistet werden kann und sollte.
+
+Eine der häufigsten Fragen von Medien war:
+
+> **„Wer aus unserer Region nimmt an der Schweizermeisterschaft teil und wie gross sind deren Chancen?“**
+
+Diese Frage ist für eine regionale Redaktion sehr interessant. Die dafür notwendigen Recherchen waren bei der SM 2026 jedoch ausserordentlich zeitaufwendig. Für jedes Medium musste zunächst ermittelt werden, welche Keglerinnen und Kegler aus dessen Erscheinungsgebiet teilnehmen und welche sportlichen Leistungen oder Erfolge diese Personen vorweisen können.
+
+Hier besteht eine Aufgabe, die sinnvollerweise **zentral durch den SFKV bzw. den Zentralverband vorbereitet und unterstützt werden sollte**.
+
+### 5.1 Zentrale Medien- und Regionaldatenbank
+
+Der Zentralverband könnte eine zentrale Datenbank aufbauen, in der bekannte Medien mit ihrem regionalen Einzugsgebiet verknüpft werden.
+
+Denkbar wären beispielsweise folgende Angaben:
+
+- Name des Mediums
+- Erscheinungsgebiet
+- Ort / Region
+- Postleitzahlengebiet
+- Art des Mediums (Zeitung, Online-Medium, Radio, Fernsehen usw.)
+- Sportredaktion bzw. zuständige Kontaktperson
+- E-Mail-Adresse und weitere Kontaktdaten
+- bisherige Berichterstattung über Kegelsport
+- besondere regionale Schwerpunkte
+
+Diese Daten könnten mit den verfügbaren Angaben zu den Keglerinnen und Keglern verknüpft werden.
+
+Damit könnte beispielsweise eine Abfrage möglich werden:
+
+> **Welche Teilnehmerinnen und Teilnehmer einer Schweizermeisterschaft stammen aus dem Erscheinungsgebiet dieses Mediums?**
+
+Oder umgekehrt:
+
+> **Welche Medien sind für diese Teilnehmerin oder diesen Teilnehmer aufgrund des Wohn- oder Vereinsorts interessant?**
+
+### 5.2 Ergänzung um sportliche Informationen
+
+Für die Medienarbeit wäre es zusätzlich hilfreich, wenn bei den Sportlerinnen und Sportlern gewisse **medienrelevante sportliche Informationen** verfügbar wären.
+
+Dazu könnten beispielsweise gehören:
+
+- Wohnort bzw. regionale Zuordnung
+- Verein
+- Kategorie
+- bisherige Schweizermeistertitel
+- Medaillen oder andere bedeutende Erfolge
+- aktuelle Resultate
+- besondere persönliche oder sportliche Geschichten
+
+Dabei geht es nicht darum, eine umfangreiche öffentliche Datenbank aufzubauen. Entscheidend ist vielmehr, dass die für die Medienarbeit notwendigen Informationen **intern strukturiert und schnell auswertbar** sind.
+
+### 5.3 Nutzen über die Schweizermeisterschaft hinaus
+
+Eine solche zentrale Datenbasis wäre nicht nur für Schweizermeisterschaften wertvoll.
+
+Auch bei **kleineren regionalen oder nationalen Veranstaltungen** könnte damit sehr schnell ermittelt werden, welche Medien für die Berichterstattung besonders interessant sind.
+
+Beispielsweise könnte ein Veranstalter eines Anlasses in einer bestimmten Region feststellen:
+
+**Veranstaltungsort → relevante Region → passende Medien → teilnehmende lokale Keglerinnen und Kegler → mögliche lokale Geschichten**
+
+Damit müsste nicht jeder Veranstalter dieselbe Recherche erneut durchführen.
+
+### 5.4 Aufgabenteilung zwischen Zentralverband und Veranstalter
+
+Aus meiner Sicht sollte deshalb eine klare Aufgabenteilung angestrebt werden.
+
+**Aufgabe des Zentralverbands:**
+
+- zentrale Pflege der Medienkontakte
+- Zuordnung der Medien zu Regionen bzw. Postleitzahlen
+- Aufbau und Pflege der regionalen Teilnehmerinformationen
+- Bereitstellung von Grundlagen und Recherchemöglichkeiten
+- Pflege allgemeiner Informationen zum Kegelsport
+- Unterstützung der Organisatoren bei der Identifikation geeigneter Medien
+
+**Aufgabe des Organisationskomitees:**
+
+- konkrete Informationen zur jeweiligen Veranstaltung
+- Identifikation besonderer Geschichten und lokaler Aufhänger
+- Kontaktaufnahme mit den aufgrund der zentralen Datenbasis relevanten Medien
+- Organisation von Interviews und Medienbesuchen
+- Bereitstellung veranstaltungsspezifischer Informationen, Fotos und Resultate
+- laufende Pflege der persönlichen Medienkontakte während der Veranstaltung
+
+Damit würde das Rad nicht bei jeder Schweizermeisterschaft neu erfunden.
+
+### 5.5 Ein langfristiger Nutzen für den SFKV
+
+Eine solche Lösung wäre eine Investition, die über eine einzelne Schweizermeisterschaft hinausgeht.
+
+**Die Medienarbeit würde damit zu einem Wissen, das im Verband erhalten bleibt und von jedem zukünftigen Organisationskomitee genutzt werden kann.**
+
+Das Ziel sollte sein, dass ein neues Organisationskomitee nicht bei null beginnt, sondern auf bereits vorhandene Medienkontakte, regionale Zuordnungen und strukturierte Informationen zurückgreifen kann.
+
+Gerade für eine Randsportart ist dies wichtig: Wenn die personellen Ressourcen begrenzt sind, müssen vorhandenes Wissen und gemachte Erfahrungen **systematisch weitergegeben und wiederverwendbar gemacht werden**.
