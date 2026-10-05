@@ -164,3 +164,58 @@ Dabei ist darauf zu achten, dass nicht immer dieselbe allgemeine Information ver
 - Schlussresultate und Schweizermeister
 
 So entsteht Schritt für Schritt der **Teppich an Medienpräsenz**, auf dem später auch grössere Medien aufbauen können.
+
+## 4. Die klassische Medienorientierung kritisch hinterfragen
+
+Seit Jahren wird im Zusammenhang mit der SFKV-Schweizermeisterschaft eine Medienorientierung durchgeführt. Dabei werden Medienschaffende nach dem Giesskannenprinzip zu einem gemeinsamen Termin eingeladen – häufig zu einem Zeitpunkt, der noch weit vor der eigentlichen Veranstaltung liegt.
+
+Die Erfahrung der Schweizermeisterschaft 2026 hat gezeigt, dass **Aufwand und erzielte Wirkung in keinem angemessenen Verhältnis standen**. Die Resonanz war gering, während für Vorbereitung, Organisation und Durchführung erheblicher Aufwand betrieben werden musste.
+
+Aus meiner Sicht sollte deshalb nicht einfach nur die Medienorientierung abgeschafft werden. Entscheidend ist vielmehr, **den dafür eingesetzten Aufwand in eine andere, nachhaltigere Form der Medienarbeit zu investieren**.
+
+### 4.1 Elektronische Medienmappe statt einmaliger Medienorientierung
+
+Eine sinnvolle Alternative ist der Aufbau einer **elektronischen Medienmappe**, die über einen längeren Zeitraum zur Verfügung steht und laufend aktualisiert werden kann.
+
+Eine solche Medienmappe hat gegenüber einer einmaligen Medienorientierung einen wesentlichen Vorteil: Sie steht den Medienschaffenden dann zur Verfügung, **wenn sie tatsächlich Informationen oder Material benötigen**. Gleichzeitig kann sie unterschiedliche Bedürfnisse verschiedener Medien abdecken.
+
+Die Medienmappe könnte beispielsweise enthalten:
+
+- aktuelle Informationen zur Schweizermeisterschaft
+- wichtige Termine und Programmpunkte
+- Zahlen und Fakten zur Veranstaltung
+- Hintergrundinformationen zum Kegelsport und zum SFKV
+- interessante Teilnehmerinnen und Teilnehmer sowie mögliche lokale Aufhänger
+- aktuelle Medienmitteilungen
+- Kontaktpersonen für Medienanfragen
+- Fotos mit entsprechenden Angaben
+- verfügbares Video- oder weiteres Bildmaterial
+- Logos und weitere Dokumente zum Download
+- während der Meisterschaft aktuelle Resultate und Informationen
+- Hinweise auf geplante Medien- und Interviewmöglichkeiten
+
+Die Inhalte müssen dabei nicht bereits zu Beginn vollständig vorhanden sein. Die Medienmappe kann **vor der Meisterschaft aufgebaut und während der gesamten Veranstaltung laufend erweitert und aktualisiert werden**.
+
+Als technische und konzeptionelle Anregung kann dabei beispielsweise die bereits bestehende elektronische Pressemappe von K-Tool dienen. Für die Schweizermeisterschaft müsste eine solche Lösung natürlich auf die Bedürfnisse der Medienarbeit im Kegelsport angepasst werden.
+
+### 4.2 Die Medienmappe ersetzt den persönlichen Kontakt nicht
+
+Eine elektronische Medienmappe allein führt noch nicht zu einer Berichterstattung. Sie ist ein **Werkzeug**, aber kein Ersatz für die persönliche Medienarbeit.
+
+Nach dem Aufbau der Medienmappe sollten die relevanten Redaktionen weiterhin **gezielt und individuell kontaktiert** werden. Dabei sollte nicht einfach auf die Existenz der Medienmappe hingewiesen werden. Viel wirksamer ist es, dem jeweiligen Medium einen konkreten Anlass oder eine passende Geschichte zu nennen und anschliessend auf das dazugehörige Material in der Medienmappe zu verweisen.
+
+Beispielsweise:
+
+> „Aus Ihrer Region nimmt eine erfolgreiche Keglerin an der Schweizermeisterschaft teil. Dazu finden Sie in unserer Medienmappe weitere Informationen und Fotos.“
+
+Damit wird aus einer allgemeinen Einladung ein **konkretes Angebot für eine mögliche Geschichte**.
+
+### 4.3 Das neue Vorgehen
+
+Aus den Erfahrungen der SM 2026 ergibt sich deshalb für zukünftige Organisatoren ein möglicher Ablauf:
+
+**Medienmappe vorbereiten → relevante Medien identifizieren → Redaktionen individuell kontaktieren → auf passende Inhalte in der Medienmappe verweisen → Kontakt pflegen → Medienmappe laufend aktualisieren**
+
+Dieses Vorgehen passt auch zum Grundsatz des **„Teppichs an Medienpräsenz“**. Statt an einem einzigen Termin möglichst viele Medien gleichzeitig zu erreichen, wird die Medienarbeit über einen längeren Zeitraum gezielt und individuell betrieben.
+
+Die klassische Medienorientierung wird damit nicht einfach ersatzlos gestrichen. **Der Aufwand wird vielmehr von einem einmaligen Anlass in ein dauerhaft nutzbares Instrument und in gezielte persönliche Medienkontakte verlagert.**
