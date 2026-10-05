@@ -6,7 +6,7 @@ Dieser Leitfaden ist aus der praktischen Erfahrung der Schweizermeisterschaft 20
 
 Die Medienarbeit war für mich eine besondere Herausforderung, denn ich verfügte über **keinerlei spezifische Vorkenntnisse oder Erfahrungen in der Medienarbeit**. Es gab deshalb kein bestehendes Konzept, auf das ich hätte zurückgreifen können. Vieles musste ich ausprobieren, Kontakte herstellen, Erfahrungen sammeln und daraus die nächsten Schritte ableiten.
 
-Trotz dieser Ausgangslage ist es gelungen, eine beachtliche Medienpräsenz für die Schweizermeisterschaft zu erreichen. Neben zahlreichen Printmedien konnten unter anderem das **Schweizer Fernsehen mit dem «Sportpanorama»** sowie **TeleBärn mit den News** für eine Berichterstattung gewonnen werden.
+Trotz dieser Ausgangslage ist es gelungen, eine beachtliche Medienpräsenz für die Schweizermeisterschaft zu erreichen. Neben zahlreichen Printmedien konnten unter anderem **SRF mit dem «Sportpanorama»** sowie **TeleBärn mit den News** für eine Berichterstattung gewonnen werden.
 
 Besonders wertvoll waren für mich dabei die Rückmeldungen aus dem Kegelsport. Der Dank und die lobenden Worte verschiedener Keglerinnen und Kegler aus der ganzen Schweiz haben bestätigt, dass diese Medienarbeit wahrgenommen und als wichtig empfunden wurde.
 
@@ -180,7 +180,7 @@ Der sportliche Anlass bleibt derselbe. **Die Geschichte wird jedoch für das jew
 
 ### 3.5 Geschichten sind nicht nur für die Medienmitteilung wichtig
 
-Ein guter Aufhänger kann auf unterschiedliche Weise verwendet werden: als Medienmitteilung, als Hinweis bei einer persönlichen Kontaktaufnahme, als Thema für ein Interview, als Grundlage für einen Radio- oder Fernsehbeitrag oder als Inhalt der elektronischen Medienmappe.
+Ein guter Aufhänger kann auf unterschiedliche Weise verwendet werden: als Medieninformation, als Hinweis bei einer persönlichen Kontaktaufnahme, als Thema für ein Interview, als Grundlage für einen Radio- oder Fernsehbeitrag oder als Inhalt der elektronischen Medienmappe.
 
 Die Medienarbeit sollte deshalb nicht nur fragen:
 
@@ -409,7 +409,7 @@ Die Medienmappe könnte beispielsweise enthalten:
 - Zahlen und Fakten zur Veranstaltung
 - Hintergrundinformationen zum Kegelsport und zum SFKV
 - interessante Teilnehmerinnen und Teilnehmer sowie mögliche lokale Aufhänger
-- aktuelle Medienmitteilungen
+- aktuelle Medieninformationen
 - Kontaktpersonen für Medienanfragen
 - Fotos mit entsprechenden Angaben
 - verfügbares Video- oder weiteres Bildmaterial
@@ -676,7 +676,7 @@ Damit würde das Rad nicht bei jeder Schweizermeisterschaft neu erfunden.
 
 Eine solche Lösung wäre eine Investition, die über eine einzelne Schweizermeisterschaft hinausgeht.
 
-**Die Medienarbeit würde damit zu einem Wissen, das im Verband erhalten bleibt und von jedem zukünftigen Organisationskomitee genutzt werden kann.**
+**Die dabei entstehenden Informationen und Kontakte würden zu einem Wissen, das im Verband erhalten bleibt und von jedem zukünftigen Organisationskomitee genutzt werden kann.**
 
 Das Ziel sollte sein, dass ein neues Organisationskomitee nicht bei null beginnt, sondern auf bereits vorhandene Medienkontakte, regionale Zuordnungen und strukturierte Informationen zurückgreifen kann.
 
