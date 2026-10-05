@@ -318,11 +318,11 @@ Der wichtigste Grundsatz dabei lautet:
 > **Nicht möglichst viel Information möglichst früh versenden, sondern über einen langen Zeitraum immer wieder einen guten Grund für die Medien liefern, über die Schweizermeisterschaft zu berichten.**
 
 
-## 4. Medien frühzeitig identifizieren
+## 5. Medien frühzeitig identifizieren
 
 Die Medienarbeit sollte möglichst früh beginnen. Dabei geht es zunächst nicht darum, möglichst viele Medien gleichzeitig anzuschreiben, sondern die **erreichbaren und für die Schweizermeisterschaft relevanten Medien gezielt zu bearbeiten**.
 
-### 4.1 Regionale und lokale Medien zuerst
+### 5.1 Regionale und lokale Medien zuerst
 
 Besonders wichtig sind regionale und lokale Printmedien. Sie berichten über Personen und Ereignisse aus ihrem Erscheinungsgebiet und haben deshalb einen direkten Bezug zu den Keglerinnen und Keglern, die an der Schweizermeisterschaft teilnehmen.
 
@@ -336,7 +336,7 @@ Für jedes Mediengebiet sollte geprüft werden:
 
 Diese Medien sollten in einer zentralen Kontaktliste erfasst werden.
 
-### 4.2 Lokale Kegler als Aufhänger
+### 5.2 Lokale Kegler als Aufhänger
 
 Ein besonders wirkungsvoller Zugang zu regionalen Medien sind **Keglerinnen und Kegler aus dem jeweiligen Erscheinungsgebiet, die bereits bekannte Erfolge vorweisen können**.
 
@@ -361,7 +361,7 @@ Geeignet sind beispielsweise:
 
 Dabei sollte nicht nur der sportliche Erfolg betrachtet werden. Eine persönliche oder regionale Geschichte kann für die Medien ebenso interessant sein.
 
-### 4.3 Vom lokalen Aufhänger zur Schweizermeisterschaft
+### 5.3 Vom lokalen Aufhänger zur Schweizermeisterschaft
 
 Der lokale Sportler ist der Einstieg. Die Schweizermeisterschaft bildet den grösseren Zusammenhang.
 
@@ -371,7 +371,7 @@ Beispielsweise kann aus einem einzelnen Medienkontakt schrittweise eine Berichte
 
 Damit erhält das Medium einen konkreten regionalen Bezug, während gleichzeitig die Schweizermeisterschaft als Ganzes bekannt gemacht wird.
 
-### 4.4 Nicht nur einmal Kontakt aufnehmen
+### 5.4 Nicht nur einmal Kontakt aufnehmen
 
 Ein einmaliger Hinweis reicht häufig nicht aus. Medienkontakte sollten über die gesamte Vorbereitungszeit gepflegt werden.
 
@@ -388,7 +388,7 @@ Dabei ist darauf zu achten, dass nicht immer dieselbe allgemeine Information ver
 
 So entsteht Schritt für Schritt der **Teppich an Medienpräsenz**, auf dem später auch grössere Medien aufbauen können.
 
-## 5. Die klassische Medienorientierung kritisch hinterfragen
+## 6. Die klassische Medienorientierung kritisch hinterfragen
 
 Seit Jahren wird im Zusammenhang mit der SFKV-Schweizermeisterschaft eine Medienorientierung durchgeführt. Dabei werden Medienschaffende nach dem Giesskannenprinzip zu einem gemeinsamen Termin eingeladen – häufig zu einem Zeitpunkt, der noch weit vor der eigentlichen Veranstaltung liegt.
 
@@ -396,7 +396,7 @@ Die Erfahrung der Schweizermeisterschaft 2026 hat gezeigt, dass **Aufwand und er
 
 Aus meiner Sicht sollte deshalb nicht einfach nur die Medienorientierung abgeschafft werden. Entscheidend ist vielmehr, **den dafür eingesetzten Aufwand in eine andere, nachhaltigere Form der Medienarbeit zu investieren**.
 
-### 5.1 Elektronische Medienmappe statt einmaliger Medienorientierung
+### 6.1 Elektronische Medienmappe statt einmaliger Medienorientierung
 
 Eine sinnvolle Alternative ist der Aufbau einer **elektronischen Medienmappe**, die über einen längeren Zeitraum zur Verfügung steht und laufend aktualisiert werden kann.
 
@@ -423,7 +423,7 @@ Als technische und konzeptionelle Anregung kann dabei beispielsweise die bereits
 
 **URL:** https://pressemappe.k-tool.ch/index.php Für die Schweizermeisterschaft müsste eine solche Lösung natürlich auf die Bedürfnisse der Medienarbeit im Kegelsport angepasst werden.
 
-### 5.2 Die Medienmappe ersetzt den persönlichen Kontakt nicht
+### 6.2 Die Medienmappe ersetzt den persönlichen Kontakt nicht
 
 Eine elektronische Medienmappe allein führt noch nicht zu einer Berichterstattung. Sie ist ein **Werkzeug**, aber kein Ersatz für die persönliche Medienarbeit.
 
@@ -435,7 +435,7 @@ Beispielsweise:
 
 Damit wird aus einer allgemeinen Einladung ein **konkretes Angebot für eine mögliche Geschichte**.
 
-### 5.3 Das neue Vorgehen
+### 6.3 Das neue Vorgehen
 
 Aus den Erfahrungen der SM 2026 ergibt sich deshalb für zukünftige Organisatoren ein möglicher Ablauf:
 
@@ -445,13 +445,13 @@ Dieses Vorgehen passt auch zum Grundsatz des **„Teppichs an Medienpräsenz“*
 
 Die klassische Medienorientierung wird damit nicht einfach ersatzlos gestrichen. **Der Aufwand wird vielmehr von einem einmaligen Anlass in ein dauerhaft nutzbares Instrument und in gezielte persönliche Medienkontakte verlagert.**
 
-## 6. Foto- und Videokonzept
+## 7. Foto- und Videokonzept
 
 Eine gute Medienarbeit braucht nicht nur Texte und Informationen, sondern auch geeignetes Bildmaterial. Für Zeitungen, Online-Medien, Radio und insbesondere Fernsehen können Bilder und Videos entscheidend dafür sein, ob eine Geschichte verwendet werden kann.
 
 Die Erfahrungen der SM 2026 zeigen, dass die Bildproduktion deshalb **nicht dem Zufall überlassen werden sollte**.
 
-### 6.1 Welche Bilder werden benötigt?
+### 7.1 Welche Bilder werden benötigt?
 
 Bereits vor der Schweizermeisterschaft sollte überlegt werden, welche Motive für die Medien interessant sein könnten. Dazu gehören beispielsweise:
 
@@ -468,7 +468,7 @@ Bereits vor der Schweizermeisterschaft sollte überlegt werden, welche Motive f�
 
 Dabei sollte nicht nur an klassische Wettkampfbilder gedacht werden. Gerade für eine kleinere Sportart können **Menschen, Emotionen und besondere Situationen** interessante Bildmotive ergeben.
 
-### 6.2 Bilder müssen geplant werden
+### 7.2 Bilder müssen geplant werden
 
 Ein wichtiger Punkt ist die Abstimmung mit den Wettkampfregeln.
 
@@ -490,7 +490,7 @@ Gerade bei wichtigen Medienkontakten sollte bereits vor dem Veranstaltungstag fe
 
 Das Ziel sollte sein, dass ein Medieninteresse nicht daran scheitert, dass **die gewünschte Person oder das gewünschte Bild im entscheidenden Moment nicht verfügbar ist**. Eine frühzeitige Planung reduziert nicht nur das Risiko, dass Bildmaterial fehlt, sondern auch den Stress für das gesamte OK während der Veranstaltung.
 
-### 6.3 Eine verantwortliche Person für Foto und Video
+### 7.3 Eine verantwortliche Person für Foto und Video
 
 Das OK sollte frühzeitig klären, wer die Koordination von Foto- und Videomaterial übernimmt.
 
@@ -506,7 +506,7 @@ Diese Person muss nicht zwingend sämtliche Aufnahmen selbst erstellen. Ihre Auf
 
 Bei grösseren Veranstaltungen kann es sinnvoll sein, diese Aufgabe auf mehrere Personen aufzuteilen.
 
-### 6.4 Bildmaterial für die Medienmappe
+### 7.4 Bildmaterial für die Medienmappe
 
 Fotos sollten möglichst nicht erst auf konkrete Anfrage eines Journalisten gesucht werden. Geeignetes Bildmaterial sollte laufend gesammelt und in der elektronischen Medienmappe bereitgestellt werden.
 
@@ -521,7 +521,7 @@ Zu einem Foto gehören nach Möglichkeit:
 
 Besonders wertvoll sind Bilder, die eine konkrete Geschichte unterstützen. Ein Foto sollte deshalb nicht nur technisch gut sein, sondern möglichst auch **eine Geschichte erzählen können**.
 
-### 6.5 Fernsehen und Video brauchen besondere Vorbereitung
+### 7.5 Fernsehen und Video brauchen besondere Vorbereitung
 
 Für Fernsehen und Video gelten andere Anforderungen als für eine Zeitung. Ein Kamerateam benötigt nicht nur eine Person für ein Interview, sondern auch geeignete Bilder, die den Beitrag unterstützen.
 
@@ -537,7 +537,7 @@ Deshalb sollte bei angekündigten Fernseh- oder Videoteams frühzeitig geklärt 
 
 Gerade bei kurzfristigen Fernsehterminen ist eine gute Vorbereitung entscheidend. Wenn das Kamerateam nur eine begrenzte Zeit vor Ort ist, muss diese Zeit möglichst gezielt genutzt werden.
 
-### 6.6 Bildrechte und Einverständnis
+### 7.6 Bildrechte und Einverständnis
 
 Das OK sollte vor der Schweizermeisterschaft klären, wie mit Foto- und Videoaufnahmen umgegangen wird und welche Aufnahmen den Medien zur Verfügung gestellt werden dürfen.
 
@@ -551,7 +551,7 @@ Dazu gehört insbesondere die Frage,
 
 Die konkreten rechtlichen Anforderungen sollten bei Bedarf mit dem SFKV bzw. einer fachkundigen Stelle geklärt werden. Wichtig ist vor allem, dass diese Fragen **nicht erst im Nachhinein** auftauchen.
 
-### 6.7 Der Grundsatz für die Medienarbeit
+### 7.7 Der Grundsatz für die Medienarbeit
 
 Für die praktische Arbeit lässt sich daraus ein einfacher Grundsatz ableiten:
 
@@ -560,7 +560,7 @@ Für die praktische Arbeit lässt sich daraus ein einfacher Grundsatz ableiten:
 Deshalb sollten Foto und Video von Anfang an als Bestandteil der Medienarbeit betrachtet werden – nicht als Aufgabe, die man erst erledigt, wenn ein Journalist danach fragt.
 
 
-## 6. Medienarbeit ist nicht nur Aufgabe des Organisationskomitees
+## 8. Medienarbeit ist nicht nur Aufgabe des Organisationskomitees
 
 Die Erfahrungen an der Schweizermeisterschaft 2026 haben gezeigt, dass die Medienarbeit nicht vollständig durch das jeweilige Organisationskomitee geleistet werden kann und sollte.
 
@@ -576,7 +576,7 @@ Dass ich diese Informationen für die Medienarbeit überhaupt in dieser Form zus
 
 Diese persönliche Ausgangslage darf jedoch nicht zur Voraussetzung für eine erfolgreiche Medienarbeit werden. Gerade deshalb zeigt die Erfahrung, dass die entsprechenden Informationen künftig **strukturiert und unabhängig von einzelnen Personen verfügbar** sein sollten.
 
-### 6.1 Zentrale Medien- und Regionaldatenbank
+### 8.1 Zentrale Medien- und Regionaldatenbank
 
 Der Zentralverband könnte eine zentrale Datenbank aufbauen, in der bekannte Medien mit ihrem regionalen Einzugsgebiet verknüpft werden.
 
@@ -602,7 +602,7 @@ Oder umgekehrt:
 
 > **Welche Medien sind für diese Teilnehmerin oder diesen Teilnehmer aufgrund des Wohn- oder Vereinsorts interessant?**
 
-### 6.2 Ergänzung um sportliche Informationen
+### 8.2 Ergänzung um sportliche Informationen
 
 Für die Medienarbeit wäre es zusätzlich hilfreich, wenn bei den Sportlerinnen und Sportlern gewisse **medienrelevante sportliche Informationen** verfügbar wären.
 
@@ -621,7 +621,7 @@ Ein praktisches Beispiel dafür, wie solche Informationen bereits für die Medie
 
 Dabei geht es nicht darum, eine umfangreiche öffentliche Datenbank aufzubauen. Entscheidend ist vielmehr, dass die für die Medienarbeit notwendigen Informationen **intern strukturiert und schnell auswertbar** sind.
 
-### 6.3 Nutzen über die Schweizermeisterschaft hinaus
+### 8.3 Nutzen über die Schweizermeisterschaft hinaus
 
 Eine solche zentrale Datenbasis wäre nicht nur für Schweizermeisterschaften wertvoll.
 
@@ -633,7 +633,7 @@ Beispielsweise könnte ein Veranstalter eines Anlasses in einer bestimmten Regio
 
 Damit müsste nicht jeder Veranstalter dieselbe Recherche erneut durchführen.
 
-### 6.4 Aufgabenteilung zwischen Zentralverband und Veranstalter
+### 8.4 Aufgabenteilung zwischen Zentralverband und Veranstalter
 
 Aus meiner Sicht sollte deshalb eine klare Aufgabenteilung angestrebt werden.
 
@@ -657,7 +657,7 @@ Aus meiner Sicht sollte deshalb eine klare Aufgabenteilung angestrebt werden.
 
 Damit würde das Rad nicht bei jeder Schweizermeisterschaft neu erfunden.
 
-### 6.5 Ein langfristiger Nutzen für den SFKV
+### 8.5 Ein langfristiger Nutzen für den SFKV
 
 Eine solche Lösung wäre eine Investition, die über eine einzelne Schweizermeisterschaft hinausgeht.
 
@@ -666,3 +666,33 @@ Eine solche Lösung wäre eine Investition, die über eine einzelne Schweizermei
 Das Ziel sollte sein, dass ein neues Organisationskomitee nicht bei null beginnt, sondern auf bereits vorhandene Medienkontakte, regionale Zuordnungen und strukturierte Informationen zurückgreifen kann.
 
 Gerade für eine Randsportart ist dies wichtig: Wenn die personellen Ressourcen begrenzt sind, müssen vorhandenes Wissen und gemachte Erfahrungen **systematisch weitergegeben und wiederverwendbar gemacht werden**.
+
+
+## 9. Praktische Fragen und Antworten für ein zukünftiges OK
+
+Die folgenden Fragen sind jene, die sich ein Organisationskomitee bei der Planung der Medienarbeit in der Praxis immer wieder stellen dürfte. Die Antworten fassen die Erfahrungen aus der SM 2026 zusammen und verweisen auf die entsprechenden Grundsätze dieses Leitfadens.
+
+| Frage | Antwort |
+|---|---|
+| **Wann soll die Medienarbeit beginnen?** | Nicht erst kurz vor der Schweizermeisterschaft. Idealerweise werden bereits 12–18 Monate vorher Verantwortung, Grundlagen, Medienkontakte und mögliche Geschichten aufgebaut. |
+| **Wer ist für die Medienarbeit verantwortlich?** | Eine klar bezeichnete Person im OK, unterstützt durch eine Stellvertretung. Die Medienarbeit bleibt aber eine Aufgabe des gesamten OK. |
+| **Welche Medien sollen zuerst angesprochen werden?** | Zuerst die erreichbaren regionalen und lokalen Medien. Sie bieten den besten regionalen Aufhänger und können gemeinsam den „Teppich an Medienpräsenz“ schaffen. |
+| **Soll man alle Medien gleichzeitig informieren?** | Nein. Besser ist eine gezielte und individuelle Ansprache mit einer Geschichte, die für das jeweilige Medium relevant ist. |
+| **Was ist wichtiger: Information oder Geschichte?** | Beides wird benötigt. Informationen bilden die Grundlage, eine konkrete Geschichte liefert jedoch häufig den Grund, warum ein Medium tatsächlich berichtet. |
+| **Wie findet man interessante Geschichten?** | Nicht nur auf sportliche Resultate achten. Auch Persönlichkeiten, lokale Teilnehmer, besondere Situationen, technische Probleme, Helfereinsätze, Neuerungen oder Aktionen ausserhalb des Sports können gute Aufhänger sein. |
+| **Braucht es weiterhin eine klassische Medienorientierung?** | Die Erfahrungen 2026 sprechen eher für eine elektronische Medienmappe in Verbindung mit gezielten persönlichen Kontakten. Der Aufwand soll nachhaltig eingesetzt werden. |
+| **Ersetzt die Medienmappe den persönlichen Kontakt?** | Nein. Die Medienmappe ist ein Werkzeug. Entscheidend bleibt die individuelle Kontaktaufnahme mit einem konkreten Hinweis auf eine passende Geschichte und das dazugehörige Material. |
+| **Wer soll die regionalen Teilnehmer für die Medien recherchieren?** | Diese Grundlagen sollten möglichst zentral durch den SFKV vorbereitet werden. Das OK soll auf vorhandene Informationen zurückgreifen können und nicht jedes Mal dieselbe Recherche durchführen müssen. |
+| **Welche Informationen über Keglerinnen und Kegler sind für Medien besonders nützlich?** | Wohnort bzw. regionale Zuordnung, Verein, Kategorie, bisherige Titel und Medaillen, aktuelle Resultate sowie besondere persönliche oder sportliche Geschichten. |
+| **Wann müssen Foto- und Videoaufnahmen geplant werden?** | Frühzeitig, nicht erst wenn ein Journalist oder Fernsehsender danach fragt. Bei der SM 2026 führte die zu späte Planung wiederholt zu unnötigem Stress. |
+| **Warum ist die Foto- und Videoplanung besonders wichtig?** | Teilnehmer können aufgrund der Wettkampfregeln nicht jederzeit für Aufnahmen zur Verfügung stehen. Personen, Zeitfenster und geeignete Situationen müssen deshalb im Voraus koordiniert werden. |
+| **Was braucht ein Fernsehteam?** | Einen klaren Ansprechpartner, geeignete Interviewpartner, zugängliche und filmwürdige Situationen sowie eine konkrete Zeitplanung. Die begrenzte Aufenthaltszeit eines Teams sollte möglichst effizient genutzt werden. |
+| **Wer stellt Fotos und Videos bereit?** | Das OK sollte dafür eine verantwortliche Person oder ein kleines Team bestimmen. Die Aufgabe besteht vor allem in Koordination, Sammlung, Aufbereitung und Bereitstellung des Materials. |
+| **Was soll während der Schweizermeisterschaft passieren?** | Aktuelle Geschichten erkennen, Medien zeitnah informieren, Resultate bereitstellen, Interviews begleiten und geeignetes Foto- und Videomaterial liefern. |
+| **Was passiert nach der Schweizermeisterschaft?** | Schlussresultate und Bilder verbreiten, Medienkontakte nachbearbeiten, Berichte dokumentieren und die gemachten Erfahrungen für das nächste OK sichern. |
+| **Was sollte der SFKV zentral bereitstellen?** | Möglichst eine gepflegte Medien- und Regionaldatenbank, sportliche Hintergrundinformationen, allgemeine Informationen zum Kegelsport sowie Unterstützung bei der Identifikation relevanter Medien und Teilnehmer. |
+| **Was bleibt Aufgabe des OK?** | Veranstaltungsspezifische Informationen, lokale Geschichten, persönliche Medienkontakte, Interviews, Medienbesuche sowie aktuelle Fotos, Videos und Resultate organisieren. |
+| **Was ist die wichtigste Lehre aus der SM 2026?** | Medienarbeit muss geplant, kontinuierlich betrieben und auf konkrete Geschichten ausgerichtet werden. Besonders Foto/Video und regionale Teilnehmerinformationen dürfen nicht erst im letzten Moment organisiert werden. |
+| **Woran sollte sich ein zukünftiges OK letztlich orientieren?** | Nicht daran, möglichst viele Informationen möglichst früh zu verschicken, sondern daran, den Medien über längere Zeit immer wieder einen guten Grund für eine Berichterstattung zu liefern. |
+
+Die Tabelle ist als **Schnellübersicht für das OK** gedacht. Die ausführlichen Kapitel dieses Leitfadens erklären die einzelnen Punkte und die Erfahrungen dahinter.
