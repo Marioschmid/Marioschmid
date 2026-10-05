@@ -24,6 +24,20 @@ Dabei geht es insbesondere darum, **mit den vorhandenen Möglichkeiten zu beginn
 
 Was 2026 ohne entsprechende Vorerfahrung möglich war, sollte für zukünftige Organisationskomitees mit diesem Wissen noch besser möglich sein.
 
+### Ein persönlicher Erfahrungsleitfaden
+
+Dieser Leitfaden erhebt **keinen Anspruch auf Vollständigkeit, Professionalität oder Erfolgsgarantie**. Die darin enthaltenen Aussagen, Empfehlungen und Vorgehensweisen basieren ausschliesslich auf den Erfahrungen, die im Zusammenhang mit der Schweizermeisterschaft 2026 gemacht wurden.
+
+Es handelt sich ausdrücklich **nicht um ein professionelles Marketing- oder PR-Konzept**. Die Medienarbeit wurde ohne entsprechende Ausbildung oder berufliche Vorkenntnisse aufgebaut und weiterentwickelt.
+
+Damit ist dieser Leitfaden letztlich ein **Dokument von einem Laien für Laien**.
+
+Er soll nicht vorgeben, wie professionelle Medien- oder Marketingarbeit gemacht werden muss. Vielmehr soll er zukünftigen Organisationskomitees zeigen, **was sich in der Praxis bewährt hat, welche Erfahrungen gemacht wurden und welche Möglichkeiten auch ohne professionelle Vorkenntnisse bestehen**.
+
+Ob und in welchem Umfang diese Vorgehensweisen bei einer anderen Schweizermeisterschaft erfolgreich sind, hängt von den jeweiligen Rahmenbedingungen, den verfügbaren Medien, den Geschichten, den Personen und nicht zuletzt auch vom Zeitpunkt und vom Interesse der Medien ab.
+
+**Die Erfahrungen aus 2026 sollen deshalb als Anregung und praktische Hilfe verstanden werden – nicht als Erfolgsrezept.**
+
 ## 1. Ziel und Bedeutung der Medienarbeit
 
 Medienarbeit gehört von Beginn an zur Planung einer Schweizermeisterschaft. Sie darf nicht erst kurz vor oder während der Veranstaltung beginnen.
