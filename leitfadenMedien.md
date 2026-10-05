@@ -445,6 +445,116 @@ Dieses Vorgehen passt auch zum Grundsatz des **„Teppichs an Medienpräsenz“*
 
 Die klassische Medienorientierung wird damit nicht einfach ersatzlos gestrichen. **Der Aufwand wird vielmehr von einem einmaligen Anlass in ein dauerhaft nutzbares Instrument und in gezielte persönliche Medienkontakte verlagert.**
 
+## 6. Foto- und Videokonzept
+
+Eine gute Medienarbeit braucht nicht nur Texte und Informationen, sondern auch geeignetes Bildmaterial. Für Zeitungen, Online-Medien, Radio und insbesondere Fernsehen können Bilder und Videos entscheidend dafür sein, ob eine Geschichte verwendet werden kann.
+
+Die Erfahrungen der SM 2026 zeigen, dass die Bildproduktion deshalb **nicht dem Zufall überlassen werden sollte**.
+
+### 6.1 Welche Bilder werden benötigt?
+
+Bereits vor der Schweizermeisterschaft sollte überlegt werden, welche Motive für die Medien interessant sein könnten. Dazu gehören beispielsweise:
+
+- Keglerinnen und Kegler im Wettkampf
+- Konzentration, Spannung und Emotionen
+- besondere sportliche Situationen
+- Siegerinnen und Sieger sowie Podestplätze
+- Publikum und Atmosphäre
+- Helferinnen und Helfer
+- Veranstaltungsort und Infrastruktur
+- besondere Anlässe oder Programmpunkte
+- Persönlichkeiten und Interviewpartner
+- Bilder zu besonderen Geschichten rund um die Schweizermeisterschaft
+
+Dabei sollte nicht nur an klassische Wettkampfbilder gedacht werden. Gerade für eine kleinere Sportart können **Menschen, Emotionen und besondere Situationen** interessante Bildmotive ergeben.
+
+### 6.2 Bilder müssen geplant werden
+
+Ein wichtiger Punkt ist die Abstimmung mit den Wettkampfregeln.
+
+Bei der SM 2026 konnten Teilnehmerinnen und Teilnehmer am Finaltag nicht beliebig vor ihrem eigenen Einsatz für Foto- oder Filmaufnahmen zur Verfügung stehen. Wer seinen Wettkampf noch vor sich hatte, durfte sich nicht einfach für Medienaufnahmen aus dem laufenden Geschehen herausnehmen lassen.
+
+Deshalb müssen geeignete Aufnahmen **im Voraus geplant** werden:
+
+- Welche Personen sollen fotografiert oder interviewt werden?
+- Wann sind diese Personen verfügbar?
+- Welche Aufnahmen können vor oder nach dem Wettkampf gemacht werden?
+- Wo gibt es geeignete Fotopositionen?
+- Welche Situationen können während des Wettkampfs aufgenommen werden?
+- Welche Aufnahmen werden für eine bestimmte Mediengeschichte benötigt?
+
+Das Ziel sollte sein, dass ein Medieninteresse nicht daran scheitert, dass **die gewünschte Person oder das gewünschte Bild im entscheidenden Moment nicht verfügbar ist**.
+
+### 6.3 Eine verantwortliche Person für Foto und Video
+
+Das OK sollte frühzeitig klären, wer die Koordination von Foto- und Videomaterial übernimmt.
+
+Diese Person muss nicht zwingend sämtliche Aufnahmen selbst erstellen. Ihre Aufgabe kann insbesondere darin bestehen,
+
+- Fotografen und Videoteams zu koordinieren
+- geplante Aufnahmen zu organisieren
+- geeignete Personen und Situationen zu vermitteln
+- den Zugang zu den benötigten Bereichen zu klären
+- Material zu sammeln und zu ordnen
+- Bildmaterial für Medien bereitzustellen
+- die Zusammenarbeit mit dem Medienverantwortlichen sicherzustellen
+
+Bei grösseren Veranstaltungen kann es sinnvoll sein, diese Aufgabe auf mehrere Personen aufzuteilen.
+
+### 6.4 Bildmaterial für die Medienmappe
+
+Fotos sollten möglichst nicht erst auf konkrete Anfrage eines Journalisten gesucht werden. Geeignetes Bildmaterial sollte laufend gesammelt und in der elektronischen Medienmappe bereitgestellt werden.
+
+Zu einem Foto gehören nach Möglichkeit:
+
+- Name der abgebildeten Person
+- Verein bzw. Funktion
+- Anlass und Situation
+- Datum
+- Fotograf bzw. Quelle
+- Angaben zur vorgesehenen Verwendung
+
+Besonders wertvoll sind Bilder, die eine konkrete Geschichte unterstützen. Ein Foto sollte deshalb nicht nur technisch gut sein, sondern möglichst auch **eine Geschichte erzählen können**.
+
+### 6.5 Fernsehen und Video brauchen besondere Vorbereitung
+
+Für Fernsehen und Video gelten andere Anforderungen als für eine Zeitung. Ein Kamerateam benötigt nicht nur eine Person für ein Interview, sondern auch geeignete Bilder, die den Beitrag unterstützen.
+
+Deshalb sollte bei angekündigten Fernseh- oder Videoteams frühzeitig geklärt werden:
+
+- Wer steht für Interviews zur Verfügung?
+- Welche Personen eignen sich für die geplante Geschichte?
+- Welche Wettkampfsituationen können gefilmt werden?
+- Wo kann das Team geeignete Bilder aufnehmen?
+- Wer ist vor Ort der Ansprechpartner?
+- Wie wird das Team während seines Aufenthalts betreut?
+- Welche zusätzlichen Bilder können nach dem Wettkampf noch erstellt werden?
+
+Gerade bei kurzfristigen Fernsehterminen ist eine gute Vorbereitung entscheidend. Wenn das Kamerateam nur eine begrenzte Zeit vor Ort ist, muss diese Zeit möglichst gezielt genutzt werden.
+
+### 6.6 Bildrechte und Einverständnis
+
+Das OK sollte vor der Schweizermeisterschaft klären, wie mit Foto- und Videoaufnahmen umgegangen wird und welche Aufnahmen den Medien zur Verfügung gestellt werden dürfen.
+
+Dazu gehört insbesondere die Frage,
+
+- wer Aufnahmen erstellt,
+- wer sie für die Medien bereitstellen darf,
+- unter welchen Bedingungen Medien sie verwenden dürfen,
+- wie Fotografen und Quellen genannt werden,
+- und wie mit Aufnahmen von Personen umgegangen wird.
+
+Die konkreten rechtlichen Anforderungen sollten bei Bedarf mit dem SFKV bzw. einer fachkundigen Stelle geklärt werden. Wichtig ist vor allem, dass diese Fragen **nicht erst im Nachhinein** auftauchen.
+
+### 6.7 Der Grundsatz für die Medienarbeit
+
+Für die praktische Arbeit lässt sich daraus ein einfacher Grundsatz ableiten:
+
+> **Eine Mediengeschichte braucht nicht nur einen guten Inhalt, sondern möglichst auch das passende Bild dazu.**
+
+Deshalb sollten Foto und Video von Anfang an als Bestandteil der Medienarbeit betrachtet werden – nicht als Aufgabe, die man erst erledigt, wenn ein Journalist danach fragt.
+
+
 ## 6. Medienarbeit ist nicht nur Aufgabe des Organisationskomitees
 
 Die Erfahrungen an der Schweizermeisterschaft 2026 haben gezeigt, dass die Medienarbeit nicht vollständig durch das jeweilige Organisationskomitee geleistet werden kann und sollte.
