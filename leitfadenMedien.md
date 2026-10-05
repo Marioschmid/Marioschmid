@@ -682,6 +682,10 @@ Das Ziel sollte sein, dass ein neues Organisationskomitee nicht bei null beginnt
 
 Gerade für eine Randsportart ist dies wichtig: Wenn die personellen Ressourcen begrenzt sind, müssen vorhandenes Wissen und gemachte Erfahrungen **systematisch weitergegeben und wiederverwendbar gemacht werden**.
 
+Die zentrale Datenbank übernimmt damit auch die Funktion der **Wissensübergabe zwischen den Schweizermeisterschaften**. Ein neues Organisationskomitee soll nicht auf die persönliche Übergabe durch das vorherige OK angewiesen sein, sondern auf die im SFKV vorhandenen und laufend gepflegten Informationen zurückgreifen können. Neue Erkenntnisse, Kontakte und regionale Informationen werden nach der jeweiligen Schweizermeisterschaft wieder in die Datenbank aufgenommen.
+
+Damit entsteht ein dauerhafter Kreislauf: **Die Regionen beschaffen Informationen → der SFKV erfasst und pflegt das Wissen zentral → das nächste OK greift darauf zurück → neue Erkenntnisse werden ergänzt.** So bleibt das aufgebaute Wissen auch dann erhalten, wenn Personen wechseln oder ein Organisationskomitee aufgelöst wird.
+
 
 ## 9. Praktische Fragen und Antworten für ein zukünftiges OK
 
