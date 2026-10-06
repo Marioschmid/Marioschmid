@@ -21,6 +21,11 @@
 - **anschliessend:** Nationalhymne
 - **danach:** Verabschiedung
 
+## Kurzfristige Vorbereitung
+
+- **Gemeinderat Ringgenberg:** Anfragen, ob ein Vertreter des Gemeinderats am Absenden teilnehmen kann.
+- **Begrüssung:** Es wäre wünschenswert, wenn der Gemeindevertreter eine kurze Begrüssung an die Anwesenden richten würde. Dies ist mit der betreffenden Person abzusprechen.
+
 ## Weitere Details
 
 Die Organisation und der Ablauf des Anlasses werden schrittweise ergänzt.
