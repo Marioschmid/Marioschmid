@@ -19,8 +19,9 @@
 
 - **13:00 Uhr:** Einmarsch der Fahne
 - **anschliessend:** Begrüssung und Ansprachen
-- **danach:** Absenden der verschiedenen Schweizer Meisterschaften / CH-Anlässe  
+- **danach:** Absenden der verschiedenen Schweizer Meisterschaften / CH-Anlässe
   *Details zu den einzelnen Absenden werden später ergänzt.*
+- **ungefähr nach der ersten Hälfte:** Showblock der Tambouren, Dauer ca. 20 Minuten
 - **ganz am Schluss:** Alle Geehrten versammeln sich auf der Bühne
 - **anschliessend:** Nationalhymne
 - **danach:** Verabschiedung
@@ -50,6 +51,7 @@
 
 - **Lieferung der Medaillen und Preise:** Klären, wie und wann die Preise zu uns geliefert werden.
 - **Musik:** Es soll bereits eine Vereinbarung bestehen. Name der verantwortlichen Person bzw. des Musikpartners sowie die konkreten Abmachungen müssen noch geklärt werden.
+- **Showblock Tambouren:** Es besteht mündlich eine Vereinbarung mit den Tambouren über einen ca. 20-minütigen Showblock ungefähr nach der ersten Hälfte des Absends. Der Zeitpunkt, die konkreten Inhalte und die weiteren Rahmenbedingungen müssen zeitnah festgelegt und sauber vereinbart werden.
 
 ## Weitere Details
 
