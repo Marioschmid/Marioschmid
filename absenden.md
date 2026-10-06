@@ -42,8 +42,13 @@
   - Bereich für das Grillbuffet und die Getränke vorbereiten.
   - Eingangsbereich und notwendige Beschilderung vorbereiten.
   - Halle vor dem Eintreffen der Gäste kontrollieren und in einen sauberen, betriebsbereiten Zustand versetzen.
+  - **Bühne:** Alle Medaillen und Preise für das Absenden bereitstellen.
   - **Tombola vorbereiten:** Preise, Lose, Verkauf und weitere benötigte Materialien vorbereiten.
   - **Werbeplakate vorbereiten:** Plakate für den Anlass erstellen und für die vorgesehene Platzierung vorbereiten.
+
+## Pendenzen
+
+- **Lieferung der Medaillen und Preise:** Klären, wie und wann die Preise zu uns geliefert werden.
 
 ## Weitere Details
 
