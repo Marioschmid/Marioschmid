@@ -25,6 +25,18 @@
 
 - **Gemeinderat Ringgenberg:** Anfragen, ob ein Vertreter des Gemeinderats am Absenden teilnehmen kann.
 - **Begrüssung:** Es wäre wünschenswert, wenn der Gemeindevertreter eine kurze Begrüssung an die Anwesenden richten würde. Dies ist mit der betreffenden Person abzusprechen.
+- **Halle vorbereiten:**
+  - Saal / Bestuhlung vorbereiten.
+  - Bühne und Rednerbereich vorbereiten.
+  - Fahnenplatz bzw. Einmarschweg vorbereiten.
+  - Halle und Bühne dekorieren.
+  - Tonanlage, Mikrofone und weitere benötigte Technik bereitstellen und testen.
+  - Beleuchtung für Saal und Bühne prüfen.
+  - Bereich für das Grillbuffet und die Getränke vorbereiten.
+  - Eingangsbereich und notwendige Beschilderung vorbereiten.
+  - Halle vor dem Eintreffen der Gäste kontrollieren und in einen sauberen, betriebsbereiten Zustand versetzen.
+  - **Tombola vorbereiten:** Preise, Lose, Verkauf und weitere benötigte Materialien vorbereiten.
+  - **Werbeplakate vorbereiten:** Plakate für den Anlass erstellen und für die vorgesehene Platzierung vorbereiten.
 
 ## Weitere Details
 
