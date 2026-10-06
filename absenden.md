@@ -27,6 +27,7 @@
 - **Begrüssung:** Es wäre wünschenswert, wenn der Gemeindevertreter eine kurze Begrüssung an die Anwesenden richten würde. Dies ist mit der betreffenden Person abzusprechen.
 - **Einladungen und Anmeldungen:** Ueli Stucki bewirtschaftet die Einladungen und nimmt die Anmeldungen entgegen.
   - **Besondere Beachtung bei der Prüfung der Anmeldungen:** Einzelne Personen können bei mehreren Gruppen bzw. Kategorien vertreten sein. Beispielsweise kann eine Person Medaillengewinner im Einzel und gleichzeitig Mitglied einer Klub- oder Kantinenmannschaft sein. Mehrfachnennungen sind daher nicht automatisch Fehler und müssen korrekt zugeordnet werden.
+- **Personal rekrutieren:** Für Aufbau, Abbau, Service und weitere Aufgaben während des Anlasses müssen genügend Helferinnen und Helfer rekrutiert und den jeweiligen Aufgaben zugeteilt werden.
 - **Halle vorbereiten:**
   - Saal / Bestuhlung vorbereiten.
   - Bühne und Rednerbereich vorbereiten.
