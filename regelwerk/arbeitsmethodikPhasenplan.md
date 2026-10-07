@@ -3,6 +3,16 @@
 
 Nach Genehmigung des Phasenplans durch den Zentralvorstand wird die Bereinigung und Neuordnung des bestehenden Regelwerks in den folgenden fünf Phasen durchgeführt.
 
+## Arbeitsweise der Kommission
+
+Die Regelwerkskommission arbeitet mit GitHub als zentraler Arbeitsplattform.
+
+Die bestehenden Dokumente und die während der Bereinigung erarbeiteten Fassungen werden dort strukturiert und versioniert geführt. Änderungen sind dadurch nachvollziehbar und frühere Fassungen bleiben erhalten.
+
+Die Kommission bearbeitet die Inhalte in GitHub und dokumentiert die vorgesehenen Änderungen. Verbindliche Änderungen des Regelwerks werden jedoch erst nach dem Entscheid des jeweils zuständigen Organs als gültige Fassung übernommen.
+
+---
+
 ## Phase 1 — Ausgangslage sichern
 
 Die aktuell gültigen Dokumente werden unverändert übernommen und archiviert. Dies bildet die offizielle Ausgangsbasis für die weitere Bearbeitung.
