@@ -110,6 +110,10 @@ Sie enthalten insbesondere:
 
 Die Abgrenzung zwischen Reglementen und Richtlinien ist im Rahmen der Bereinigung des bestehenden Regelwerks zu überprüfen und eindeutig festzulegen.
 
+Die Richtlinie zur Regelwerkspflege ist selbst eine Richtlinie des SFKV. Sie regelt nicht einzelne sportliche oder administrative Sachfragen, sondern den Prozess der Pflege, Weiterentwicklung und Dokumentation des gesamten Regelwerks.
+
+Sie begründet keine zusätzlichen Zuständigkeiten oder Genehmigungskompetenzen.
+
 ---
 
 ## 5. Übergangsphase und Bereinigung des bestehenden Regelwerks
@@ -148,18 +152,20 @@ Die Regelwerkskommission hat insbesondere folgende Aufgaben:
 - die Zuständigkeiten und Genehmigungsebenen zu überprüfen
 - sachliche Regelungen von operativen Umsetzungsbestimmungen zu trennen
 - nicht mehr benötigte oder überholte Regelungen zu identifizieren
-- Vorschläge für die Bereinigung und Neuordnung zu erarbeiten
+- Vorschläge für die Bereinigung und Neuordnung zu erarbeiten, ohne dadurch bestehende Regelungen selbst zu ändern, aufzuheben oder neu in Kraft zu setzen
 - notwendige Änderungen den zuständigen Organen zur Beschlussfassung vorzulegen
 
 Die Regelwerkskommission erhält durch diesen Auftrag keine zusätzlichen Entscheidungs- oder Genehmigungskompetenzen.
 
 Sie bereitet die Bereinigung fachlich vor und unterbreitet entsprechende Anträge und Empfehlungen. Die Entscheidungen über Änderungen des Regelwerks bleiben beim jeweils zuständigen Organ.
 
+Die Regelwerkskommission darf im Rahmen ihrer fachlichen Arbeit bestehende Regelungen analysieren, strukturieren und Änderungsvorschläge formulieren. Eine inhaltliche Änderung, Aufhebung oder Inkraftsetzung erfolgt ausschliesslich durch das jeweils zuständige Organ.
+
 ---
 
 ## 7. Änderungsprozess
 
-Nach der Bereinigung des bestehenden Regelwerks sollen Änderungen grundsätzlich nach einem einheitlichen Verfahren erfolgen.
+Änderungen des Regelwerks erfolgen grundsätzlich nach einem einheitlichen Verfahren. Dies gilt auch während der Übergangs- und Bereinigungsphase, soweit die besonderen Umstände der Bereinigung kein abweichendes Vorgehen erfordern.
 
 Der Änderungsprozess umfasst insbesondere folgende Schritte:
 
@@ -168,7 +174,7 @@ Der Änderungsprozess umfasst insbesondere folgende Schritte:
 3. Fachliche Prüfung
 4. Prüfung der Auswirkungen
 5. Zuordnung zur entsprechenden Regelwerksebene
-6. Erarbeitung einer Empfehlung
+6. Erarbeitung einer fachlichen Empfehlung
 7. Erstellung der Entscheidungsunterlagen
 8. Beschluss durch das zuständige Organ
 9. Umsetzung des Beschlusses
@@ -181,7 +187,7 @@ Die Entscheidungsunterlagen sollen insbesondere enthalten:
 - den vorgeschlagenen neuen oder geänderten Regelungstext
 - die betroffenen bestehenden Regelungen
 - die wesentlichen Auswirkungen der Änderung
-- die Empfehlung der zuständigen Fachstelle oder Kommission
+- die fachliche Empfehlung der mit der Prüfung oder Bearbeitung beauftragten Stelle
 
 Das zuständige Organ entscheidet auf Grundlage der vorliegenden Entscheidungsunterlagen.
 
@@ -207,17 +213,17 @@ Sie besitzt keine inhaltliche Entscheidungs- oder Genehmigungskompetenz.
 
 ## 9. Verbindlichkeit während der Übergangsphase
 
-Während der Bereinigung des bestehenden Regelwerks dient diese Richtlinie als verbindliche Ziel- und Arbeitsgrundlage für die Neuordnung und Weiterentwicklung des Regelwerks.
+Während der Bereinigung des bestehenden Regelwerks bildet diese Richtlinie die verbindliche Grundlage für die Organisation und Durchführung der Neuordnung und Weiterentwicklung des Regelwerks.
 
-Die Richtlinie ist jedoch nicht so auszulegen, dass bestehende Regelungen allein aufgrund einer Abweichung von der vorgesehenen Struktur automatisch ungültig werden.
+Die Richtlinie begründet jedoch keine unmittelbare Änderung, Aufhebung oder Ungültigkeit bestehender Regelungen.
 
-Bestehende Regelungen werden im Rahmen der Bereinigung überprüft und durch die jeweils zuständigen Organe angepasst, ersetzt oder aufgehoben.
+Bestehende Regelungen bleiben grundsätzlich gültig, bis sie durch das jeweils zuständige Organ überprüft und gegebenenfalls geändert, ersetzt oder aufgehoben worden sind.
+
+Die Regelwerkskommission kann bestehende Regelungen analysieren, strukturieren und Änderungsvorschläge erarbeiten. Sie ist jedoch nicht befugt, bestehende Regelungen selbst zu ändern, aufzuheben oder neu in Kraft zu setzen.
 
 Neue oder wesentlich geänderte Regelungen sollen bereits während der Übergangsphase soweit möglich entsprechend der in dieser Richtlinie vorgesehenen Struktur erstellt werden.
 
 Nach Abschluss der wesentlichen Bereinigung wird die Richtlinie überprüft und, soweit erforderlich, angepasst.
-
-Anschliessend bildet sie die verbindliche Grundlage für die zukünftige Pflege und Weiterentwicklung des Regelwerks.
 
 ---
 
