@@ -2,7 +2,7 @@
 
 ## 1. Zweck
 
-Diese Richtlinie beschreibt die Grundsätze und den vorgesehenen Prozess für die Erstellung, Änderung, Genehmigung, Umsetzung und Archivierung des Regelwerks des Schweizerischen Freien Keglerverbandes (SFKV).
+Diese Richtlinie beschreibt die Grundsätze und den vorgesehenen Prozess für die Erstellung, Erlass, Änderung, Umsetzung und Archivierung des Regelwerks des Schweizerischen Freien Keglerverbandes (SFKV).
 
 Sie schafft eine gemeinsame Grundlage für die zukünftige Pflege und Weiterentwicklung des Regelwerks.
 
@@ -23,7 +23,7 @@ Dazu gehören insbesondere:
 
 Die Richtlinie schafft keine neuen Zuständigkeiten und verändert keine durch die Statuten festgelegten Kompetenzen.
 
-Für die Zuständigkeiten und Genehmigungskompetenzen sind die Statuten des SFKV massgebend.
+Für die Zuständigkeiten und Entscheidungskompetenzen sind die Statuten des SFKV massgebend.
 
 ---
 
@@ -37,7 +37,7 @@ Jede Regelung soll derjenigen Ebene des Regelwerks zugeordnet sein, auf der sie 
 
 ### Klare Zuständigkeiten
 
-Für jede Regelung muss erkennbar sein, welches Organ für deren Genehmigung und Änderung zuständig ist.
+Für jede Regelung muss erkennbar sein, welches Organ für deren Erlass und Änderung zuständig ist.
 
 ### Trennung von Inhalt und Umsetzung
 
@@ -95,11 +95,11 @@ Sie regeln insbesondere:
 - sportliche Ausführungsbestimmungen
 - weitere verbindliche Sachregelungen
 
-Die Genehmigung und Änderung von Reglementen erfolgt durch das dafür gemäss Statuten zuständige Organ.
+Der Erlass und die Änderung von Reglementen erfolgen durch das dafür zuständige Organ.
 
 ### Richtlinien
 
-Richtlinien regeln die operative Umsetzung und Konkretisierung innerhalb der bestehenden Zuständigkeiten des Zentralvorstandes.
+Richtlinien regeln die operative Umsetzung und Konkretisierung innerhalb der jeweils bestehenden Zuständigkeiten.
 
 Sie enthalten insbesondere:
 
@@ -112,7 +112,7 @@ Die Abgrenzung zwischen Reglementen und Richtlinien ist im Rahmen der Bereinigun
 
 Die Richtlinie zur Regelwerkspflege ist selbst eine Richtlinie des SFKV. Sie regelt nicht einzelne sportliche oder administrative Sachfragen, sondern den Prozess der Pflege, Weiterentwicklung und Dokumentation des gesamten Regelwerks.
 
-Sie begründet keine zusätzlichen Zuständigkeiten oder Genehmigungskompetenzen.
+Sie begründet keine zusätzlichen Zuständigkeiten oder Entscheidungskompetenzen.
 
 ---
 
@@ -149,13 +149,13 @@ Die Regelwerkskommission hat insbesondere folgende Aufgaben:
 - Überschneidungen und Doppelregelungen zu identifizieren
 - Widersprüche und Unklarheiten festzustellen
 - die bestehende Zuordnung zu Statuten, Leitbild, Reglementen und Richtlinien zu überprüfen
-- die Zuständigkeiten und Genehmigungsebenen zu überprüfen
+- die Zuständigkeiten und Entscheidungsebenen zu überprüfen
 - sachliche Regelungen von operativen Umsetzungsbestimmungen zu trennen
 - nicht mehr benötigte oder überholte Regelungen zu identifizieren
 - Vorschläge für die Bereinigung und Neuordnung zu erarbeiten, ohne dadurch bestehende Regelungen selbst zu ändern, aufzuheben oder neu in Kraft zu setzen
 - notwendige Änderungen den zuständigen Organen zur Beschlussfassung vorzulegen
 
-Die Regelwerkskommission erhält durch diesen Auftrag keine zusätzlichen Entscheidungs- oder Genehmigungskompetenzen.
+Die Regelwerkskommission erhält durch diesen Auftrag keine zusätzlichen Entscheidungs- oder Entscheidungskompetenzen.
 
 Sie bereitet die Bereinigung fachlich vor und unterbreitet entsprechende Anträge und Empfehlungen. Die Entscheidungen über Änderungen des Regelwerks bleiben beim jeweils zuständigen Organ.
 
@@ -191,6 +191,8 @@ Die Entscheidungsunterlagen sollen insbesondere enthalten:
 
 Das zuständige Organ entscheidet auf Grundlage der vorliegenden Entscheidungsunterlagen.
 
+Für Richtlinien gilt ergänzend der vorgesehene Korrekturmechanismus: Die Delegiertenversammlung kann durch Beschluss den Zentralvorstand beauftragen, eine Richtlinie zu ändern, aufzuheben oder neu zu erlassen. Der Zentralvorstand setzt einen solchen Beschluss um. Die dafür erforderliche Zuständigkeit der Delegiertenversammlung ist in der übergeordneten Zuständigkeitsordnung entsprechend zu verankern.
+
 ---
 
 ## 8. Umsetzung und Dokumentation
@@ -207,7 +209,7 @@ Die Umsetzung umfasst insbesondere:
 
 Die technische Administration unterstützt die Umsetzung und stellt die technische Verwaltung, Versionierung und Archivierung sicher.
 
-Sie besitzt keine inhaltliche Entscheidungs- oder Genehmigungskompetenz.
+Sie besitzt keine inhaltliche Entscheidungskompetenz.
 
 ---
 
@@ -223,16 +225,16 @@ Die Regelwerkskommission kann bestehende Regelungen analysieren, strukturieren u
 
 Neue oder wesentlich geänderte Regelungen sollen bereits während der Übergangsphase soweit möglich entsprechend der in dieser Richtlinie vorgesehenen Struktur erstellt werden.
 
-Nach Abschluss der wesentlichen Bereinigung wird die Richtlinie überprüft und, soweit erforderlich, angepasst.
+Nach Abschluss der wesentlichen Bereinigung wird die Richtlinie überprüft und, soweit erforderlich, angepasst. Das grundsätzlich einheitliche Änderungsverfahren bleibt dabei die Zielstruktur; begründete Abweichungen können während der Übergangsphase aufgrund besonderer Bereinigungsumstände erforderlich sein.
 
 ---
 
 ## 10. Schlussbestimmungen
 
-Diese Richtlinie tritt mit ihrer Genehmigung durch den Zentralvorstand in Kraft.
+Diese Richtlinie tritt mit ihrem Erlass durch den Zentralvorstand in Kraft.
 
-Änderungen dieser Richtlinie werden durch den Zentralvorstand beschlossen, soweit die Statuten keine abweichende Zuständigkeit vorsehen.
+Änderungen dieser Richtlinie werden durch den Zentralvorstand beschlossen, soweit die übergeordnete Zuständigkeitsordnung keine abweichende Zuständigkeit vorsieht.
 
-Diese Richtlinie darf die durch die Statuten festgelegten Zuständigkeiten und Kompetenzen weder ändern noch erweitern.
+Diese Richtlinie darf die bestehende Zuständigkeitsordnung weder ändern noch erweitern.
 
 Soweit diese Richtlinie keine Regelung enthält, sind die Statuten sowie die jeweils gültigen Regelungen des SFKV massgebend.
