@@ -1,4 +1,4 @@
-# Arbeitsmethodik und Phasenplan
+# Phasenplan und Arbeitsmethodik
 # Bereinigung und Neuordnung des SFKV-Regelwerks
 
 Nach Genehmigung des Phasenplans durch den Zentralvorstand wird die Bereinigung und Neuordnung des bestehenden Regelwerks schrittweise durchgeführt.
