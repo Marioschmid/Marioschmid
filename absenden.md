@@ -18,13 +18,27 @@
 ## Ablauf
 
 - **13:00 Uhr:** Einmarsch der Fahne
-- **anschliessend:** Begrüssung und Ansprachen
-- **danach:** Absenden der verschiedenen Schweizer Meisterschaften / CH-Anlässe
-  *Details zu den einzelnen Absenden werden später ergänzt.*
-- **ungefähr nach der ersten Hälfte:** Showblock der Tambouren, Dauer ca. 20 Minuten
-- **ganz am Schluss:** Alle Geehrten versammeln sich auf der Bühne
-- **anschliessend:** Nationalhymne
-- **danach:** Verabschiedung
+- **anschliessend:** Begrüssung durch den OK-Präsidenten Ueli Stucki
+- **danach:** Musik
+- **anschliessend:** Begrüssung durch Frau Andrea Erni-Hänni, Gemeindepräsidentin
+- **danach:** Begrüssung durch ZV-Präsident Jaime Iglesias
+- **anschliessend:** Musik
+
+### Erste Hälfte des Absenden
+
+In der ersten Hälfte werden folgende Anlässe abgesendet. Die Durchführung des jeweiligen Absends erfolgt durch die dafür zuständige Stelle:
+
+1. **Schweizerischer Unterverbandsmannschaftswettkampf**
+   - Das Absenden wird durch das durchführende OK vorgenommen.
+2. **Schweizer Einzelcup**
+   - Das Absenden wird durch den Schweizer Cup-Leiter vorgenommen.
+3. **Schweizer Klubcup**
+   - Das Absenden wird durch den Schweizer Cup-Leiter vorgenommen.
+4. **Schweizerischer Senioren-Wettkampf**
+   - Das Absenden wird durch das organisierende OK vorgenommen.
+
+- Zwischen den einzelnen Absenden ist jeweils Musik vorgesehen.
+- **Übergang zur zweiten Hälfte:** Nach dem ersten Teil des Absenden folgt der weitere Programmablauf.
 
 ### 71. Schweizer-Meisterschaft 2026
 
