@@ -13,7 +13,10 @@
 - **Hilfspersonal:** Das OK stellt Hilfspersonen für das Schöpfen der Speisen sowie für den Abwasch zur Verfügung.
 - **Getränke:** Müssen durch das OK selbst organisiert werden.
 - **Dessertbuffet:** Das Dessertbuffet wird von der **Ändels Bachstuba** geliefert und in der Halle neben den Tischen für das Grillbuffet aufgestellt. Das OK ist für den Betrieb des Dessertbuffets und den Verkauf zuständig.
-- **Kaffeemaschinen:** Werden von der **H&R Gastro AG** zur Verfügung gestellt. Als Gegenleistung wird ein Werbeplakat der H&R Gastro AG am Anlass aufgehängt.
+- **Kaffeemaschinen:** **H&R Gastro AG** stellt zwei Kaffeevollautomaten als Sponsoring kostenlos zur Verfügung.
+  - **Abholung:** Freitag, 13. November 2026, im Abholmarkt an der Geissgasse 15 in Interlaken, entweder 08:00–12:00 Uhr oder 13:30–18:00 Uhr.
+  - **Rückgabe:** Montag, 16. November 2026.
+  - **Werbung:** Zu den beiden Kaffeevollautomaten wird ein Banner von H&R Gastro AG zum Aufhängen mitgegeben.
 
 ## Ablauf
 
@@ -96,6 +99,7 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
   - **Werbeplakate und Werbefernseher abholen:** Werbeplakate und Werbefernseher vorgängig in Heimberg abholen und zur Einrichtung der Werbung in die Halle mitbringen.
   - **Werbefernseher aufstellen:** Fernseher in der Halle aufstellen und anschliessen.
     - **Stromversorgung:** Abklären, wo der benötigte Strom für den Werbefernseher bezogen werden kann.
+- **Kaffeeversorgung vorbereiten:** Die beiden gesponserten Kaffeevollautomaten in der Halle aufstellen und für den Anlass bereitstellen. Das mitgelieferte Banner der H&R Gastro AG aufhängen.
 
 ## Pendenzen
 
