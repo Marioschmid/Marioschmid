@@ -12,7 +12,7 @@
 - **Grillbuffet:** Vereinbarung mit **Gäxus Metzg** als Caterer treffen. Das Grillbuffet wird durch Gäxus Metzg organisiert und durchgeführt.
 - **Hilfspersonal:** Das OK stellt Hilfspersonen für das Schöpfen der Speisen sowie für den Abwasch zur Verfügung.
 - **Getränke:** Müssen durch das OK selbst organisiert werden.
-- **Dessert:** Wird als Dessertbuffet angeboten.
+- **Dessertbuffet:** Das Dessertbuffet wird von der **Ändels Bachstuba** geliefert und in der Halle neben den Tischen für das Grillbuffet aufgestellt. Das OK ist für den Betrieb des Dessertbuffets und den Verkauf zuständig.
 - **Kaffeemaschinen:** Werden von der **H&R Gastro AG** zur Verfügung gestellt. Als Gegenleistung wird ein Werbeplakat der H&R Gastro AG am Anlass aufgehängt.
 
 ## Ablauf
