@@ -26,6 +26,18 @@
 - **anschliessend:** Nationalhymne
 - **danach:** Verabschiedung
 
+### 71. Schweizer-Meisterschaft 2026
+
+- **Sport**
+- **Americaine**
+- **Kombination**
+- **Ehrung der Babelikönige:**
+  - Kategorie A: Dame und Herr mit der höchsten Anzahl Bsbeli (9er)
+  - Kategorie B: Dame und Herr mit der höchsten Anzahl Bsbeli (9er)
+  - Kategorie C: Dame und Herr mit der höchsten Anzahl Bsbeli (9er)
+- **Offener Punkt:** Es ist zu klären, ob die Siegerinnen und Sieger von Sport, Americaine und Kombination auf der Bühne explizit geehrt werden oder ob die Preise lediglich abgegeben werden.
+- **Musik**
+
 ## Kurzfristige Vorbereitung
 
 - **Gemeinderat Ringgenberg:** Anfragen, ob ein Vertreter des Gemeinderats am Absenden teilnehmen kann.
