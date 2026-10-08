@@ -61,6 +61,7 @@
   - **Medaillen aufhängen:** Prüfen, ob die Medaillen an der bestehenden Infrastruktur aufgehängt werden können oder ob dafür die fahrbaren Wände verwendet werden müssen.
     - Falls die fahrbaren Wände benötigt werden: Abklären, wo diese verfügbar sind und wie sie in die Halle transportiert werden können.
 - **Tombola vorbereiten:** Preise, Lose, Verkauf und weitere benötigte Materialien vorbereiten.
+  - **Preise und Lose abholen:** Preise und Lose vorgängig in Heimberg abholen und zur Einrichtung der Tombola in die Halle mitbringen.
 - **Werbeplakate vorbereiten:** Plakate für den Anlass erstellen und für die vorgesehene Platzierung vorbereiten.
 
 ## Pendenzen
