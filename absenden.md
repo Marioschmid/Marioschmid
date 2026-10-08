@@ -103,6 +103,13 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
     - **Stromversorgung:** Abklären, wo der benötigte Strom für den Werbefernseher bezogen werden kann.
 - **Kaffeeversorgung vorbereiten:** Die beiden gesponserten Kaffeevollautomaten in der Halle aufstellen und für den Anlass bereitstellen. Das mitgelieferte Banner der H&R Gastro AG aufhängen.
 
+## Blumen
+
+- Blumen für die Geehrten und die Ehrendamen organisieren.
+- Abklären, wie viele Blumen benötigt werden und für welche Ehrungen bzw. Personen sie vorgesehen sind.
+- Die Blumen rechtzeitig vor dem Anlass bestellen und die Lieferung bzw. Abholung organisieren.
+- Prüfen, ob zusätzlich Blumen für die Tischdekoration benötigt werden.
+
 ## Fotografieren
 
 - Für den Anlass eine verantwortliche Person bzw. einen Fotografen bestimmen.
