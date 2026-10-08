@@ -103,12 +103,22 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
     - **Stromversorgung:** Abklären, wo der benötigte Strom für den Werbefernseher bezogen werden kann.
 - **Kaffeeversorgung vorbereiten:** Die beiden gesponserten Kaffeevollautomaten in der Halle aufstellen und für den Anlass bereitstellen. Das mitgelieferte Banner der H&R Gastro AG aufhängen.
 
+## Fotografieren
+
+- Für den Anlass eine verantwortliche Person bzw. einen Fotografen bestimmen.
+- Vor dem Anlass festlegen, welche wichtigen Momente fotografisch festgehalten werden sollen, insbesondere Begrüssung, Fahnen-Einmarsch, Absenden, Preis- und Medaillenübergaben, Showblock der Tambouren sowie Gruppen- und Bühnenbilder.
+- Sicherstellen, dass bei den Ehrungen genügend Zeit für die offiziellen Fotos eingeplant wird.
+- Für die einzelnen Absende-Blöcke festlegen, wer die zu ehrenden Personen für die Fotos auf der Bühne positioniert.
+- Falls Fotos veröffentlicht oder für Berichte und Medien verwendet werden sollen, die erforderlichen Einwilligungen bzw. Hinweise klären.
+- Nach dem Anlass die Fotos zentral sammeln, sichern und für die weitere Verwendung bereitstellen.
+
 ## Pendenzen
 
 - **Lieferung der Medaillen und Preise:** Klären, wie und wann die Preise zu uns geliefert werden.
 - **Musik:** Es soll bereits eine Vereinbarung bestehen. Name der verantwortlichen Person bzw. des Musikpartners sowie die konkreten Abmachungen müssen noch geklärt werden.
 - **Showblock Tambouren:** Es besteht mündlich eine Vereinbarung mit den Tambouren über einen ca. 20-minütigen Showblock zwischen der ersten und zweiten Hälfte des Absenden. Der genaue Zeitpunkt, die konkreten Inhalte und die weiteren Rahmenbedingungen müssen zeitnah festgelegt und sauber vereinbart werden.
 - **Ehrung Sport, Americaine und Kombination:** Es ist zu klären, ob die Siegerinnen und Sieger von Sport, Americaine und Kombination auf der Bühne explizit geehrt werden oder ob die Preise lediglich abgegeben werden.
+- **Fotograf:** Verantwortliche Person bzw. Fotograf für den Anlass bestimmen und Einsatz absprechen.
 
 ## Weitere Details
 
