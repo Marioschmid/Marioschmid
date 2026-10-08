@@ -44,6 +44,8 @@
   - Eingangsbereich und notwendige Beschilderung vorbereiten.
   - Halle vor dem Eintreffen der Gäste kontrollieren und in einen sauberen, betriebsbereiten Zustand versetzen.
   - **Bühne:** Alle Medaillen und Preise für das Absenden bereitstellen.
+    - **Medaillen aufhängen:** Prüfen, ob die Medaillen an der bestehenden Infrastruktur aufgehängt werden können oder ob dafür die fahrbaren Wände verwendet werden müssen.
+      - Falls die fahrbaren Wände benötigt werden: Abklären, wo diese verfügbar sind und wie sie in die Halle transportiert werden können.
   - **Tombola vorbereiten:** Preise, Lose, Verkauf und weitere benötigte Materialien vorbereiten.
   - **Werbeplakate vorbereiten:** Plakate für den Anlass erstellen und für die vorgesehene Platzierung vorbereiten.
 
