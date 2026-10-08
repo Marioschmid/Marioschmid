@@ -63,12 +63,22 @@ Die zweite Hälfte des Absenden wird durch den **Sportleiter der SM 2026** durch
 
 Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und abgesendet. Die genaue Reihenfolge innerhalb der Blöcke sowie die einzelnen Ehrungen und Preisübergaben werden bei der weiteren Planung ergänzt.
 
+## Einladungen / Anmeldung / Eingang
+
+- **Einladungen:** Ueli Stucki versendet die Einladungen.
+- **Anmeldungen:** Ueli Stucki nimmt die Anmeldungen entgegen und erstellt daraus die Anmeldeliste.
+- **Eingang:** Am Eingang werden die Gäste empfangen und die bestellten Verpflegungen einkassiert.
+- Die Anmeldeliste mit den bestellten Verpflegungen und den entsprechenden Beträgen muss am Eingang verfügbar sein.
+- Nach erfolgter Zahlung ist dies auf der Liste zu vermerken.
+- Bei Personen, die in mehreren Gruppen oder Kategorien aufgeführt sind, ist darauf zu achten, dass die Verpflegung entsprechend der tatsächlichen Bestellung verrechnet wird.
+- Nachmeldungen oder Änderungen der Bestellung sind festzuhalten.
+- Für das Inkasso müssen Kasse, Wechselgeld und die vereinbarten Zahlungsmöglichkeiten bereitstehen.
+- Für Unklarheiten am Eingang ist eine verantwortliche Person des OK zu bestimmen.
+
 ## Kurzfristige Vorbereitung
 
 - **Gemeinderat Ringgenberg:** Anfragen, ob ein Vertreter des Gemeinderats am Absenden teilnehmen kann.
 - **Begrüssung:** Es wäre wünschenswert, wenn der Gemeindevertreter eine kurze Begrüssung an die Anwesenden richten würde. Dies ist mit der betreffenden Person abzusprechen.
-- **Einladungen und Anmeldungen:** Ueli Stucki bewirtschaftet die Einladungen und nimmt die Anmeldungen entgegen.
-  - **Besondere Beachtung bei der Prüfung der Anmeldungen:** Einzelne Personen können bei mehreren Gruppen bzw. Kategorien vertreten sein. Beispielsweise kann eine Person Medaillengewinner im Einzel und gleichzeitig Mitglied einer Klub- oder Kantinenmannschaft sein. Mehrfachnennungen sind daher nicht automatisch Fehler und müssen korrekt zugeordnet werden.
 - **Personal rekrutieren:** Für Aufbau, Abbau, Service und weitere Aufgaben während des Anlasses müssen genügend Helferinnen und Helfer rekrutiert und den jeweiligen Aufgaben zugeteilt werden.
 
 ## Halle vorbereiten
