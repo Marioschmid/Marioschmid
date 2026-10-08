@@ -130,3 +130,79 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
 ## Weitere Details
 
 Die Organisation und der Ablauf des Anlasses werden schrittweise ergänzt.
+
+## Weitere offene Fragen
+
+### Ablauf und Zeitplanung
+
+- Ist der zeitliche Ablauf des gesamten Nachmittags ausreichend detailliert festgelegt?
+- Wie lange ist für die einzelnen Absende-Blöcke ungefähr einzuplanen?
+- Wie viel Zeit ist für Einmarsch, Begrüssungen, Musik und Showblock vorgesehen?
+- Gibt es einen detaillierten Ablaufplan mit Uhrzeiten, der am Anlass für alle Verantwortlichen verfügbar ist?
+- Wer ist für die laufende Zeitkontrolle und die Einhaltung des Ablaufs verantwortlich?
+
+### Bühnenorganisation und Ehrungen
+
+- Wer koordiniert den Ablauf auf der Bühne während des Absenden?
+- Wer ruft die zu ehrenden Personen auf bzw. sorgt dafür, dass sie rechtzeitig bereitstehen?
+- Wer stellt sicher, dass die richtigen Medaillen und Preise zur richtigen Zeit bereitliegen?
+- Wer übergibt Medaillen, Preise und Blumen?
+- Wie werden Personen behandelt, die in mehreren Kategorien oder Wettbewerben geehrt werden?
+- Wie werden Gruppen- und Bühnenfotos organisiert, ohne den Ablauf unnötig zu verzögern?
+- Wie werden die Ehrendamen eingesetzt und wer koordiniert sie?
+- Sind besondere Geschenke oder Dankespräsente für Funktionäre, Helfer, Ehrengäste oder andere Personen vorgesehen?
+
+### Ehrungslisten und Unterlagen
+
+- Sind die definitiven Ranglisten und Ehrungslisten rechtzeitig verfügbar?
+- Sind Namen, Schreibweise, Reihenfolge und Kategorien der Geehrten geprüft?
+- Ist bekannt, welche Personen mehrere Auszeichnungen erhalten?
+- Welche Unterlagen benötigt die Moderation bzw. der Sportleiter für das Absenden?
+- Gibt es für die einzelnen Absende-Blöcke vorbereitete Listen oder Ablaufblätter?
+
+### Moderation und Technik
+
+- Wer übernimmt die Moderation bzw. die Ansagen zwischen den einzelnen Programmpunkten?
+- Wer bedient Mikrofone, Musik, Präsentationen und weitere Technik?
+- Gibt es eine verantwortliche Person für die Technik während des gesamten Anlasses?
+- Müssen Bilder, Ranglisten oder andere Inhalte auf einem Bildschirm bzw. Beamer gezeigt werden?
+- Ist eine technische Probe vor dem Eintreffen der Gäste vorgesehen?
+
+### Ehrendamen und Gäste
+
+- Welche Aufgaben übernehmen die Ehrendamen?
+- Wo befinden sich die Ehrendamen während des Anlasses?
+- Welche Kleidung bzw. Ausstattung ist für die Ehrendamen vorgesehen?
+- Wer empfängt und betreut besondere Ehrengäste und Vertreter der Verbände?
+- Ist für besondere Gäste eine Sitzordnung oder Platzreservation vorgesehen?
+
+### Beschilderung und Besucherführung
+
+- Sind Eingang, Garderobe, Toiletten, Verpflegung, Sitzplätze und weitere Bereiche ausreichend beschildert?
+- Wird eine Garderobe eingerichtet und wer betreut diese?
+- Müssen Hinweise für Personen mit eingeschränkter Mobilität berücksichtigt werden?
+- Sind Parkplätze und der Weg zur Halle für die Gäste ausreichend gekennzeichnet?
+
+### Personal und Helfer
+
+- Wie viele Helferinnen und Helfer werden für Aufbau, Eingang, Service, Abwasch, Technik, Bühne, Tombola und Abbau benötigt?
+- Wer erstellt den Helferplan und teilt die Personen den Aufgaben zu?
+- Wer ist während des Anlasses Ansprechperson für die Helfer?
+- Gibt es für Aufbau und Abbau einen verbindlichen Zeitplan?
+
+### Finanzen und Abrechnung
+
+- Wer ist für die Tageskasse verantwortlich?
+- Wie wird die Einnahmenabrechnung nach dem Anlass durchgeführt?
+- Wie werden Einnahmen aus Verpflegung, Dessertbuffet und Tombola getrennt bzw. abgerechnet?
+- Wer begleicht offene Rechnungen mit Caterer, Lieferanten und weiteren Partnern?
+- Wie werden Sponsoring- und Sachleistungen dokumentiert?
+
+### Sicherheit und Abschluss
+
+- Sind Fluchtwege und Notausgänge frei und gekennzeichnet?
+- Ist geklärt, wer im Notfall verantwortlich handelt?
+- Gibt es einen Erste-Hilfe-Kasten und ist bekannt, wo er sich befindet?
+- Wer kontrolliert am Ende des Anlasses die Halle und übernimmt die Übergabe?
+- Was muss nach dem Anlass gereinigt, zurückgestellt oder zurückgebracht werden?
+- Sind für alle ausgeliehenen Geräte, insbesondere die Kaffeemaschinen und den Werbefernseher, Rückgabe und Transport organisiert?
