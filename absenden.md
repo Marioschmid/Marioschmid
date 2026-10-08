@@ -47,6 +47,9 @@ Die zweite Hälfte des Absenden wird durch den **Sportleiter der SM 2026** durch
 2. **Einzelwettkampf Damen**
 3. **Einzelwettkampf Herren**
 4. **Babeliköniginnen und Babelikönige**
+   - Kategorie A: Dame und Herr mit der höchsten Anzahl Bsbeli (9er)
+   - Kategorie B: Dame und Herr mit der höchsten Anzahl Bsbeli (9er)
+   - Kategorie C: Dame und Herr mit der höchsten Anzahl Bsbeli (9er)
 5. **Klubwettkampf**
 
 Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und abgesendet. Die genaue Reihenfolge innerhalb der Blöcke sowie die einzelnen Ehrungen und Preisübergaben werden bei der weiteren Planung ergänzt.
@@ -56,10 +59,6 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
 - **Sport**
 - **Americaine**
 - **Kombination**
-- **Ehrung der Babelikönige:**
-  - Kategorie A: Dame und Herr mit der höchsten Anzahl Bsbeli (9er)
-  - Kategorie B: Dame und Herr mit der höchsten Anzahl Bsbeli (9er)
-  - Kategorie C: Dame und Herr mit der höchsten Anzahl Bsbeli (9er)
 - **Offener Punkt:** Es ist zu klären, ob die Siegerinnen und Sieger von Sport, Americaine und Kombination auf der Bühne explizit geehrt werden oder ob die Preise lediglich abgegeben werden.
 - **Musik**
 
