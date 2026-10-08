@@ -38,7 +38,18 @@ In der ersten Hälfte werden folgende Anlässe abgesendet. Die Durchführung des
    - Das Absenden wird durch das organisierende OK vorgenommen.
 
 - Zwischen den einzelnen Absenden ist jeweils Musik vorgesehen.
-- **Übergang zur zweiten Hälfte:** Nach dem ersten Teil des Absenden folgt der weitere Programmablauf.
+
+### Zweite Hälfte des Absenden
+
+Die zweite Hälfte des Absenden wird durch den **Sportleiter der SM 2026** durchgeführt. Sie umfasst folgende Blöcke:
+
+1. **Kantonewettkampf**
+2. **Einzelwettkampf Damen**
+3. **Einzelwettkampf Herren**
+4. **Babeliköniginnen und Babelikönige**
+5. **Klubwettkampf**
+
+Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und abgesendet. Die genaue Reihenfolge innerhalb der Blöcke sowie die einzelnen Ehrungen und Preisübergaben werden bei der weiteren Planung ergänzt.
 
 ### 71. Schweizer-Meisterschaft 2026
 
