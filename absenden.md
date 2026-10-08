@@ -18,7 +18,7 @@
   - **Rückgabe:** Montag, 16. November 2026.
   - **Werbung:** Zu den beiden Kaffeevollautomaten wird ein Banner von H&R Gastro AG zum Aufhängen mitgegeben.
 
-## Ablauf
+## Begrüssung
 
 - **13:00 Uhr:** Einmarsch der Fahne
 - **anschliessend:** Begrüssung durch den OK-Präsidenten Ueli Stucki
