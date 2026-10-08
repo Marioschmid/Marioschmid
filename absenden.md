@@ -63,13 +63,6 @@ Die zweite Hälfte des Absenden wird durch den **Sportleiter der SM 2026** durch
 
 Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und abgesendet. Die genaue Reihenfolge innerhalb der Blöcke sowie die einzelnen Ehrungen und Preisübergaben werden bei der weiteren Planung ergänzt.
 
-### 71. Schweizer-Meisterschaft 2026
-
-- **Sport**
-- **Americaine**
-- **Kombination**
-- **Musik**
-
 ## Kurzfristige Vorbereitung
 
 - **Gemeinderat Ringgenberg:** Anfragen, ob ein Vertreter des Gemeinderats am Absenden teilnehmen kann.
