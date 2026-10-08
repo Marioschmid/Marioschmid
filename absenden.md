@@ -39,6 +39,12 @@ In der ersten Hälfte werden folgende Anlässe abgesendet. Die Durchführung des
 
 - Zwischen den einzelnen Absenden ist jeweils Musik vorgesehen.
 
+### Showblock
+
+- **Showblock mit den Tambouren von Ringgenberg**
+- Dauer: ca. 20 Minuten
+- Der Showblock findet zwischen der ersten und der zweiten Hälfte des Absenden statt.
+
 ### Zweite Hälfte des Absenden
 
 Die zweite Hälfte des Absenden wird durch den **Sportleiter der SM 2026** durchgeführt. Sie umfasst folgende Blöcke:
@@ -95,7 +101,7 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
 
 - **Lieferung der Medaillen und Preise:** Klären, wie und wann die Preise zu uns geliefert werden.
 - **Musik:** Es soll bereits eine Vereinbarung bestehen. Name der verantwortlichen Person bzw. des Musikpartners sowie die konkreten Abmachungen müssen noch geklärt werden.
-- **Showblock Tambouren:** Es besteht mündlich eine Vereinbarung mit den Tambouren über einen ca. 20-minütigen Showblock ungefähr nach der ersten Hälfte des Absends. Der Zeitpunkt, die konkreten Inhalte und die weiteren Rahmenbedingungen müssen zeitnah festgelegt und sauber vereinbart werden.
+- **Showblock Tambouren:** Es besteht mündlich eine Vereinbarung mit den Tambouren über einen ca. 20-minütigen Showblock zwischen der ersten und zweiten Hälfte des Absenden. Der genaue Zeitpunkt, die konkreten Inhalte und die weiteren Rahmenbedingungen müssen zeitnah festgelegt und sauber vereinbart werden.
 
 ## Weitere Details
 
