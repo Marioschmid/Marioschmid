@@ -1,5 +1,5 @@
-Bitte arbeite mit dieser Datei als aktueller Quelle:
+Bitte arbeite für die weitere Planung des «Absenden SM SFKV 2026» mit dieser Datei als aktueller Quelle:
 
-https://github.com/Marioschmid/marioschmid/blob/main/absenden.md
+"Marioschmid/marioschmid" → "main" → "absenden/absenden.md"
 
-Lies die Datei vollständig und beziehe dich bei weiteren Änderungen immer auf den aktuellen Inhalt dieser Datei.
+Lies die Datei vollständig und beziehe dich bei allen weiteren Ergänzungen, Änderungen und Fragen immer auf den aktuellen Inhalt dieser Datei. Berücksichtige dabei auch die bereits festgehaltenen Pendenzen und offenen Fragen und vermeide, bereits geklärte Punkte nochmals als offene Fragen vorzuschlagen.
