@@ -63,6 +63,9 @@
 - **Tombola vorbereiten:** Preise, Lose, Verkauf und weitere benötigte Materialien vorbereiten.
   - **Preise und Lose abholen:** Preise und Lose vorgängig in Heimberg abholen und zur Einrichtung der Tombola in die Halle mitbringen.
 - **Werbeplakate vorbereiten:** Plakate für den Anlass erstellen und für die vorgesehene Platzierung vorbereiten.
+  - **Werbeplakate und Werbefernseher abholen:** Werbeplakate und Werbefernseher vorgängig in Heimberg abholen und zur Einrichtung der Werbung in die Halle mitbringen.
+  - **Werbefernseher aufstellen:** Fernseher in der Halle aufstellen und anschliessen.
+    - **Stromversorgung:** Abklären, wo der benötigte Strom für den Werbefernseher bezogen werden kann.
 
 ## Pendenzen
 
