@@ -114,8 +114,9 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
 
 - Für den Anlass eine verantwortliche Person bzw. einen Fotografen bestimmen.
 - Vor dem Anlass festlegen, welche wichtigen Momente fotografisch festgehalten werden sollen, insbesondere Begrüssung, Fahnen-Einmarsch, Absenden, Preis- und Medaillenübergaben, Showblock der Tambouren sowie Gruppen- und Bühnenbilder.
-- Sicherstellen, dass bei den Ehrungen genügend Zeit für die offiziellen Fotos eingeplant wird.
-- Für die einzelnen Absende-Blöcke festlegen, wer die zu ehrenden Personen für die Fotos auf der Bühne positioniert.
+- Die offiziellen Fotos der Geehrten werden nicht direkt auf der Bühne gemacht. Sie werden unmittelbar neben der Bühne oder, wenn die Verhältnisse es zulassen, im Freien aufgenommen. Dadurch kann das Absenden auf der Bühne zügig durchgeführt werden.
+- Für die einzelnen Absende-Blöcke festlegen, wie die Geehrten nach der Ehrung zum vorgesehenen Fotostandort gelangen und wer sie dort koordiniert.
+- Sicherstellen, dass die Fotos möglichst unmittelbar nach der jeweiligen Ehrung gemacht werden können.
 - Falls Fotos veröffentlicht oder für Berichte und Medien verwendet werden sollen, die erforderlichen Einwilligungen bzw. Hinweise klären.
 - Nach dem Anlass die Fotos zentral sammeln, sichern und für die weitere Verwendung bereitstellen.
 
@@ -148,7 +149,6 @@ Die Organisation und der Ablauf des Anlasses werden schrittweise ergänzt.
 - Wer stellt sicher, dass die richtigen Medaillen und Preise zur richtigen Zeit bereitliegen?
 - Wer übergibt Medaillen, Preise und Blumen?
 - Wie werden Personen behandelt, die in mehreren Kategorien oder Wettbewerben geehrt werden?
-- Wie werden Gruppen- und Bühnenfotos organisiert, ohne den Ablauf unnötig zu verzögern?
 - Wie werden die Ehrendamen eingesetzt und wer koordiniert sie?
 - Sind besondere Geschenke oder Dankespräsente für Funktionäre, Helfer, Ehrengäste oder andere Personen vorgesehen?
 
