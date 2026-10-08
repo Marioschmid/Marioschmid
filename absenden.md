@@ -45,21 +45,23 @@
 - **Einladungen und Anmeldungen:** Ueli Stucki bewirtschaftet die Einladungen und nimmt die Anmeldungen entgegen.
   - **Besondere Beachtung bei der Prüfung der Anmeldungen:** Einzelne Personen können bei mehreren Gruppen bzw. Kategorien vertreten sein. Beispielsweise kann eine Person Medaillengewinner im Einzel und gleichzeitig Mitglied einer Klub- oder Kantinenmannschaft sein. Mehrfachnennungen sind daher nicht automatisch Fehler und müssen korrekt zugeordnet werden.
 - **Personal rekrutieren:** Für Aufbau, Abbau, Service und weitere Aufgaben während des Anlasses müssen genügend Helferinnen und Helfer rekrutiert und den jeweiligen Aufgaben zugeteilt werden.
-- **Halle vorbereiten:**
-  - Saal / Bestuhlung vorbereiten.
-  - Bühne und Rednerbereich vorbereiten.
-  - Fahnenplatz bzw. Einmarschweg vorbereiten.
-  - Halle und Bühne dekorieren.
-  - Tonanlage, Mikrofone und weitere benötigte Technik bereitstellen und testen.
-  - Beleuchtung für Saal und Bühne prüfen.
-  - Bereich für das Grillbuffet und die Getränke vorbereiten.
-  - Eingangsbereich und notwendige Beschilderung vorbereiten.
-  - Halle vor dem Eintreffen der Gäste kontrollieren und in einen sauberen, betriebsbereiten Zustand versetzen.
-  - **Bühne:** Alle Medaillen und Preise für das Absenden bereitstellen.
-    - **Medaillen aufhängen:** Prüfen, ob die Medaillen an der bestehenden Infrastruktur aufgehängt werden können oder ob dafür die fahrbaren Wände verwendet werden müssen.
-      - Falls die fahrbaren Wände benötigt werden: Abklären, wo diese verfügbar sind und wie sie in die Halle transportiert werden können.
-  - **Tombola vorbereiten:** Preise, Lose, Verkauf und weitere benötigte Materialien vorbereiten.
-  - **Werbeplakate vorbereiten:** Plakate für den Anlass erstellen und für die vorgesehene Platzierung vorbereiten.
+
+## Halle vorbereiten
+
+- Saal / Bestuhlung vorbereiten.
+- Bühne und Rednerbereich vorbereiten.
+- Fahnenplatz bzw. Einmarschweg vorbereiten.
+- Halle und Bühne dekorieren.
+- Tonanlage, Mikrofone und weitere benötigte Technik bereitstellen und testen.
+- Beleuchtung für Saal und Bühne prüfen.
+- Bereich für das Grillbuffet und die Getränke vorbereiten.
+- Eingangsbereich und notwendige Beschilderung vorbereiten.
+- Halle vor dem Eintreffen der Gäste kontrollieren und in einen sauberen, betriebsbereiten Zustand versetzen.
+- **Bühne:** Alle Medaillen und Preise für das Absenden bereitstellen.
+  - **Medaillen aufhängen:** Prüfen, ob die Medaillen an der bestehenden Infrastruktur aufgehängt werden können oder ob dafür die fahrbaren Wände verwendet werden müssen.
+    - Falls die fahrbaren Wände benötigt werden: Abklären, wo diese verfügbar sind und wie sie in die Halle transportiert werden können.
+- **Tombola vorbereiten:** Preise, Lose, Verkauf und weitere benötigte Materialien vorbereiten.
+- **Werbeplakate vorbereiten:** Plakate für den Anlass erstellen und für die vorgesehene Platzierung vorbereiten.
 
 ## Pendenzen
 
