@@ -119,11 +119,11 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
 
 ## Fotografieren
 
-- Für den Anlass eine verantwortliche Person bzw. einen Fotografen bestimmen.
+- **Fotografinnen:** Zoe Steiner und Livia Gurtner übernehmen das Fotografieren am Anlass.
+- **Offizielle Fotos der Geehrten:** Im Foyer wird eine eigene Zone für die offiziellen Fotos der Geehrten eingerichtet. Die Fotos werden somit nicht direkt auf der Bühne gemacht, damit das Absenden dort zügig durchgeführt werden kann.
 - Vor dem Anlass festlegen, welche wichtigen Momente fotografisch festgehalten werden sollen, insbesondere Begrüssung, Fahnen-Einmarsch, Absenden, Preis- und Medaillenübergaben, Showblock der Tambouren sowie Gruppen- und Bühnenbilder.
-- Die offiziellen Fotos der Geehrten werden nicht direkt auf der Bühne gemacht. Sie werden unmittelbar neben der Bühne oder, wenn die Verhältnisse es zulassen, im Freien aufgenommen. Dadurch kann das Absenden auf der Bühne zügig durchgeführt werden.
-- Für die einzelnen Absende-Blöcke festlegen, wie die Geehrten nach der Ehrung zum vorgesehenen Fotostandort gelangen und wer sie dort koordiniert.
-- Sicherstellen, dass die Fotos möglichst unmittelbar nach der jeweiligen Ehrung gemacht werden können.
+- Für die einzelnen Absende-Blöcke festlegen, wie die Geehrten nach der Ehrung zur Fotozone im Foyer gelangen und wer sie dort koordiniert.
+- Sicherstellen, dass die offiziellen Fotos möglichst unmittelbar nach der jeweiligen Ehrung gemacht werden können.
 - Falls Fotos veröffentlicht oder für Berichte und Medien verwendet werden sollen, die erforderlichen Einwilligungen bzw. Hinweise klären.
 - Nach dem Anlass die Fotos zentral sammeln, sichern und für die weitere Verwendung bereitstellen.
 
