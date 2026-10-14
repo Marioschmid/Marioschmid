@@ -73,6 +73,7 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
 - **Einladungen:** Ueli Stucki versendet die Einladungen.
 - **Anmeldungen:** Ueli Stucki nimmt die Anmeldungen entgegen und erstellt daraus die Anmeldeliste.
 - **Eingang:** Am Eingang werden die Gäste empfangen und die bestellten Verpflegungen einkassiert.
+- **Bändeli abgeben:** Nach erfolgter Bezahlung erhält jeder Gast ein Bändeli am Handgelenk. Ein **blaues Bändeli** berechtigt zum Bezug des Essens am Grillbuffet sowie eines Desserts am Dessertstand.
 - Die Anmeldeliste mit den bestellten Verpflegungen und den entsprechenden Beträgen muss am Eingang verfügbar sein.
 - Nach erfolgter Zahlung ist dies auf der Liste zu vermerken.
 - Bei Personen, die in mehreren Gruppen oder Kategorien aufgeführt sind, ist darauf zu achten, dass die Verpflegung entsprechend der tatsächlichen Bestellung verrechnet wird.
