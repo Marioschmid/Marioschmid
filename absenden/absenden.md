@@ -17,7 +17,8 @@
   - Die Weinbestände der SM müssen im Kegelzentrum Rössli in Heimberg abgeholt werden. Es handelt sich um ungefähr acht Harrassen.
   - Der Bedarf an Bier und Süssgetränken ist noch zu klären (Sortiment und Mengen).
 - **Zöpfe:** Der Caterer meldet Doris Schmid spätestens am Mittwoch vor dem Anlass, wie viele Zöpfe benötigt werden.
-- **Dessertbuffet:** Das Dessertbuffet wird von der **Ändels Bachstuba** geliefert und in der Halle neben den Tischen für das Grillbuffet aufgestellt. Das OK ist für den Betrieb des Dessertbuffets und den Verkauf zuständig.
+- **Dessertbuffet:** Das Dessertbuffet wird von der **Ändels Bachstuba** geliefert und in der Halle neben den Tischen für das Grillbuffet aufgestellt. Angeboten werden verschiedene Patisseriestücke und Nussgipfel. Das OK ist für den Betrieb des Dessertbuffets und den Verkauf zuständig.
+  - **Preisvorschlag:** Patisseriestück CHF 5.–, Nussgipfel CHF 4.–.
 - **Kaffeemaschinen:** **H&R Gastro AG** stellt zwei Kaffeevollautomaten als Sponsoring kostenlos zur Verfügung.
   - **Abholung:** Freitag, 13. November 2026, im Abholmarkt an der Geissgasse 15 in Interlaken, entweder 08:00–12:00 Uhr oder 13:30–18:00 Uhr.
   - **Rückgabe:** Montag, 16. November 2026.
