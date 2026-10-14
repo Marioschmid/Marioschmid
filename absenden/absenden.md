@@ -10,6 +10,7 @@
 ## Verpflegung
 
 - **Grillbuffet:** Vereinbarung mit **Gäxus Metzg** als Caterer treffen. Das Grillbuffet wird durch Gäxus Metzg organisiert und durchgeführt.
+- **Zöpfe:** Der Caterer meldet Doris Schmid spätestens am Mittwoch vor dem Anlass, wie viele Zöpfe benötigt werden.
 - **Hilfspersonal:** Das OK stellt Hilfspersonen für das Schöpfen der Speisen sowie für den Abwasch zur Verfügung.
 - **Getränke:** Müssen durch das OK selbst organisiert werden.
 - **Dessertbuffet:** Das Dessertbuffet wird von der **Ändels Bachstuba** geliefert und in der Halle neben den Tischen für das Grillbuffet aufgestellt. Das OK ist für den Betrieb des Dessertbuffets und den Verkauf zuständig.
