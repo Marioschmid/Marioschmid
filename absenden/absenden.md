@@ -13,6 +13,9 @@
 - **Hilfspersonal:** Das OK stellt drei Personen für das Schöpfen der Speisen und den Abwasch zur Verfügung.
 - **Buffettische:** Für das Buffet werden vier bis fünf Tische benötigt. Die Bereitstellung und Aufstellung ist durch das OK sicherzustellen.
 - **Vom Organisator bereitzustellen:** Teller, Besteck, Gläser, Servietten, Tischabdeckungen, Getränke und Dessert.
+- **Getränke organisieren:**
+  - Die Weinbestände der SM müssen im Kegelzentrum Rössli in Heimberg abgeholt werden. Es handelt sich um ungefähr acht Harrassen.
+  - Der Bedarf an Bier und Süssgetränken ist noch zu klären (Sortiment und Mengen).
 - **Zöpfe:** Der Caterer meldet Doris Schmid spätestens am Mittwoch vor dem Anlass, wie viele Zöpfe benötigt werden.
 - **Dessertbuffet:** Das Dessertbuffet wird von der **Ändels Bachstuba** geliefert und in der Halle neben den Tischen für das Grillbuffet aufgestellt. Das OK ist für den Betrieb des Dessertbuffets und den Verkauf zuständig.
 - **Kaffeemaschinen:** **H&R Gastro AG** stellt zwei Kaffeevollautomaten als Sponsoring kostenlos zur Verfügung.
