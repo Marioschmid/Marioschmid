@@ -129,7 +129,7 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
 
 - **Lieferung der Medaillen und Preise:** Klären, wie und wann die Preise zu uns geliefert werden.
 - **Musik:** Es soll bereits eine Vereinbarung bestehen. Name der verantwortlichen Person bzw. des Musikpartners sowie die konkreten Abmachungen müssen noch geklärt werden.
-- **Showblock Tambouren:** Es besteht mündlich eine Vereinbarung mit den Tambouren über einen ca. 20-minütigen Showblock zwischen der ersten und zweiten Hälfte des Absenden. Der genaue Zeitpunkt, die konkreten Inhalte und die weiteren Rahmenbedingungen müssen zeitnah festgelegt und sauber vereinbart werden.
+- **Showblock Tambouren:** Mit Samuel Zurbuchen besteht eine mündliche Vereinbarung über einen ca. 20-minütigen Showblock zwischen der ersten und zweiten Hälfte des Absenden. Bei Samuel ist eine Bestätigung der Vereinbarung einzuholen. Der genaue Zeitpunkt, die konkreten Inhalte und die weiteren Rahmenbedingungen müssen zeitnah festgelegt werden.
 - **Ehrung Sport, Americaine und Kombination:** Es ist zu klären, ob die Siegerinnen und Sieger von Sport, Americaine und Kombination auf der Bühne explizit geehrt werden oder ob die Preise lediglich abgegeben werden.
 - **Fotograf:** Verantwortliche Person bzw. Fotograf für den Anlass bestimmen und Einsatz absprechen.
 
