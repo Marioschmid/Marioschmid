@@ -10,9 +10,10 @@
 ## Verpflegung
 
 - **Grillbuffet:** Vereinbarung mit **Gäxus Metzg** als Caterer treffen. Das Grillbuffet wird durch Gäxus Metzg organisiert und durchgeführt.
+- **Hilfspersonal:** Das OK stellt drei Personen für das Schöpfen der Speisen und den Abwasch zur Verfügung.
+- **Buffettische:** Für das Buffet werden vier bis fünf Tische benötigt. Die Bereitstellung und Aufstellung ist durch das OK sicherzustellen.
+- **Vom Organisator bereitzustellen:** Teller, Besteck, Gläser, Servietten, Tischabdeckungen, Getränke und Dessert.
 - **Zöpfe:** Der Caterer meldet Doris Schmid spätestens am Mittwoch vor dem Anlass, wie viele Zöpfe benötigt werden.
-- **Hilfspersonal:** Das OK stellt Hilfspersonen für das Schöpfen der Speisen sowie für den Abwasch zur Verfügung.
-- **Getränke:** Müssen durch das OK selbst organisiert werden.
 - **Dessertbuffet:** Das Dessertbuffet wird von der **Ändels Bachstuba** geliefert und in der Halle neben den Tischen für das Grillbuffet aufgestellt. Das OK ist für den Betrieb des Dessertbuffets und den Verkauf zuständig.
 - **Kaffeemaschinen:** **H&R Gastro AG** stellt zwei Kaffeevollautomaten als Sponsoring kostenlos zur Verfügung.
   - **Abholung:** Freitag, 13. November 2026, im Abholmarkt an der Geissgasse 15 in Interlaken, entweder 08:00–12:00 Uhr oder 13:30–18:00 Uhr.
