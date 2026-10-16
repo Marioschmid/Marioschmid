@@ -9,14 +9,14 @@
 
 ## Verpflegung
 
-- **Grillbuffet:** Vereinbarung mit **Gäxus Metzg** als Caterer treffen. Das Grillbuffet wird durch Gäxus Metzg organisiert und durchgeführt.
+- **Grillbuffet:** Menu und Preis mit **Gäxus Metzg** sind fixiert. Das Grillbuffet wird durch Gäxus Metzg organisiert und durchgeführt. Das OK meldet Gäxus Metzg noch die Anzahl der zu verpflegenden Personen.
 - **Hilfspersonal:** Das OK stellt drei Personen für das Schöpfen der Speisen und den Abwasch zur Verfügung.
 - **Buffettische:** Für das Buffet werden vier bis fünf Tische benötigt. Die Bereitstellung und Aufstellung ist durch das OK sicherzustellen.
 - **Vom Organisator bereitzustellen:** Teller, Besteck, Gläser, Servietten, Tischabdeckungen, Getränke und Dessert.
 - **Getränke organisieren:**
   - Die Weinbestände der SM müssen im Kegelzentrum Rössli in Heimberg abgeholt werden. Es handelt sich um ungefähr acht Harrassen.
   - Der Bedarf an Bier und Süssgetränken ist noch zu klären (Sortiment und Mengen).
-- **Zöpfe:** Der Caterer meldet Doris Schmid spätestens am Mittwoch vor dem Anlass, wie viele Zöpfe benötigt werden.
+- **Butterzöpfe:** Gäxus Metzg meldet Doris Schmid spätestens am Mittwoch vor dem Anlass, wie viele Butterzöpfe benötigt werden.
 - **Dessertbuffet:** Das Dessertbuffet wird von der **Ändels Bachstuba** geliefert und in der Halle neben den Tischen für das Grillbuffet aufgestellt. Angeboten werden verschiedene Patisseriestücke und Nussgipfel. Das OK ist für den Betrieb des Dessertbuffets und den Verkauf zuständig.
   - **Preisvorschlag:** Patisseriestück CHF 5.–, Nussgipfel CHF 4.–.
 - **Kaffeemaschinen:** **H&R Gastro AG** stellt zwei Kaffeevollautomaten als Sponsoring kostenlos zur Verfügung.
