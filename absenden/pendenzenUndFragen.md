@@ -20,6 +20,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 - [ ] **Wein:** Sieben Harrassen Wein im Kegelzentrum Rössli in Heimberg abholen. Der Wein wird in Konsignation bewirtschaftet; den Restbestand und das Leergut nach dem Anlass an den Lieferanten zurückgeben.
 - [ ] **Butterzöpfe:** Gäxus Metzg teilt Doris Schmid spätestens am Mittwoch vor dem Anlass die benötigte Anzahl Butterzöpfe mit.
 - [ ] **Dessertbuffet:** Mit der Ändels Bachstuba die Lieferung von drei Patisseriesorten (Cremeschnitte, Vermicelles und Quark) sowie Nussgipfeln bestätigen. Zuständigkeit des OK für Betrieb und Verkauf bestätigen.
+- [ ] **Dessertmengen melden:** Der Ändels Bachstuba die benötigte Anzahl Nussgipfel und Patisseriestücke (Cremeschnitte, Vermicelles und Quark) mitteilen.
 - [ ] **Dessertpreise:** Preisvorschläge bestätigen oder anpassen: Patisseriestück CHF 5.–, Nussgipfel CHF 4.–.
 - [ ] **Material Verpflegung:** Teller, Besteck, Gläser, Servietten und Tischabdeckungen organisieren.
 - [ ] **Kaffeemaschinen:** Zwei Kaffeevollautomaten am Freitag, 13. November 2026, bei H&R Gastro AG, Geissgasse 15, Interlaken, abholen. Abholfenster: 08:00–12:00 oder 13:30–18:00 Uhr.
