@@ -13,7 +13,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 
 ### Verpflegung und Getränke
 - [x] **Gäxus Metzg – Menu und Preis:** Menu und Preis für das Grillbuffet sind fixiert.
-- [ ] **Anzahl Verpflegungspersonen:** Das OK meldet Gäxus Metzg die Anzahl der zu verpflegenden Personen.
+- [ ] **Anzahl Verpflegungspersonen:** Die Anzahl der zu verpflegenden Personen muss Gäxus Metzg noch gemeldet werden; die zuständige Person ist offen.
 - [ ] **Hilfspersonal:** Drei Personen für Schöpfen und Abwasch einteilen.
 - [ ] **Buffettische:** Vier bis fünf Tische organisieren und sicherstellen, dass sie rechtzeitig aufgestellt werden.
 - [ ] **Getränke:** Bedarf an Bier und Süssgetränken nach Sortiment und Menge klären und Beschaffung organisieren. Bier und Süssgetränke am Freitag, 13. November 2026, abholen oder liefern lassen und im Kühlraum der Küche lagern.
@@ -95,6 +95,9 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
   **Antwort:** Im Foyer steht eine unbetreute Garderobe zur Verfügung.
 - [ ] Sind Eingang, Toiletten, Verpflegung, Sitzplätze und weitere Bereiche ausreichend beschildert?
 - [ ] Sind Parkplatz und Zugang zur Halle gut gekennzeichnet und ist die Zugänglichkeit für Personen mit eingeschränkter Mobilität berücksichtigt?
+
+### Verpflegung und Getränke
+- [ ] **Frage:** Wer meldet Gäxus Metzg die Anzahl der zu verpflegenden Personen?
 
 ### Personal, Finanzen und Abschluss
 - [ ] Wer erstellt den Helferplan und ist während des Anlasses Ansprechperson für die Helferinnen und Helfer?
