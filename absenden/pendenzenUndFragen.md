@@ -41,7 +41,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 - [ ] **Medaillen und Preise:** Klären, wie und wann die Medaillen und Preise geliefert werden.
 - [ ] **Medaillen aufhängen:** Prüfen, ob die vorhandene Infrastruktur genügt oder fahrbare Wände benötigt werden. Falls nötig, Verfügbarkeit, Transport und Aufstellung der Wände klären.
 - [ ] **Tombola:** Preise und Lose in Heimberg abholen; Verkauf und benötigtes Material organisieren.
-- [ ] **Werbung:** Werbeplakate erstellen und für die Platzierung vorbereiten.
+- [ ] **SFKV-Werbematerial:** Das vorhandene Werbematerial des SFKV in Heimberg abholen, zur Burgseelihalle transportieren und dort an der Sprossenwand befestigen.
 - [ ] **Werbeplakate und Werbefernseher:** In Heimberg abholen, in die Halle transportieren und den Fernseher aufstellen und anschliessen.
 - [ ] **Stromversorgung Werbefernseher:** Geeigneten Stromanschluss in der Halle bestimmen.
 - [ ] **Kaffeeversorgung:** Kaffeevollautomaten in der Halle aufstellen und betriebsbereit machen.
