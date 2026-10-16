@@ -16,7 +16,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 - [ ] **Hilfspersonal:** Drei Personen für Schöpfen und Abwasch einteilen.
 - [ ] **Buffettische:** Vier bis fünf Tische organisieren und sicherstellen, dass sie rechtzeitig aufgestellt werden.
 - [ ] **Getränke:** Bedarf an Bier und Süssgetränken nach Sortiment und Menge klären und Beschaffung organisieren. Bier und Süssgetränke am Freitag, 13. November 2026, abholen oder liefern lassen und im Kühlraum der Küche lagern.
-- [ ] **Wein:** Acht Harrassen Wein im Kegelzentrum Rössli in Heimberg abholen. Der Wein wird in Konsignation bewirtschaftet; den Restbestand und das Leergut nach dem Anlass an den Lieferanten zurückgeben.
+- [ ] **Wein:** Sieben Harrassen Wein im Kegelzentrum Rössli in Heimberg abholen. Der Wein wird in Konsignation bewirtschaftet; den Restbestand und das Leergut nach dem Anlass an den Lieferanten zurückgeben.
 - [ ] **Zöpfe:** Mit dem Caterer sicherstellen, dass Doris Schmid spätestens am Mittwoch vor dem Anlass die benötigte Anzahl erhält.
 - [ ] **Dessertbuffet:** Lieferung mit der Ändels Bachstuba und Zuständigkeit des OK für Betrieb und Verkauf bestätigen.
 - [ ] **Dessertpreise:** Preisvorschläge bestätigen oder anpassen: Patisseriestück CHF 5.–, Nussgipfel CHF 4.–.
