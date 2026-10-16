@@ -37,6 +37,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 ### Halle, Bühne und Material
 - [ ] **Helferinnen und Helfer:** Genügend Personen für Aufbau, Abbau, Eingang, Service, Abwasch und weitere Aufgaben rekrutieren und einteilen.
 - [ ] **Bühne und Saal:** Bestuhlung, Rednerbereich, Fahnenplatz bzw. Einmarschweg und Dekoration vorbereiten.
+- [ ] **Garderobe:** Im Foyer eine unbetreute Garderobe bereitstellen.
 - [ ] **Technik:** Tonanlage, Mikrofone und Beleuchtung bereitstellen und testen.
 - [ ] **Medaillen und Preise:** Klären, wie und wann die Medaillen und Preise geliefert werden.
 - [ ] **Medaillen aufhängen:** Prüfen, ob die vorhandene Infrastruktur genügt oder fahrbare Wände benötigt werden. Falls nötig, Verfügbarkeit, Transport und Aufstellung der Wände klären.
