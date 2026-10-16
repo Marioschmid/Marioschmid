@@ -66,7 +66,8 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 - [ ] Wer koordiniert die Abläufe auf der Bühne und ruft die Geehrten auf?
 - [ ] Wer stellt sicher, dass die richtigen Medaillen, Preise und Blumen rechtzeitig bereitliegen?
 - [ ] Wer übergibt die Medaillen, Preise und Blumen?
-- [ ] Wie wird mit Personen umgegangen, die mehrere Auszeichnungen erhalten? Personen werden in jedem entsprechenden Block erneut aufgerufen; es gibt dafür keine spezielle Regelung.
+- [x] **Frage:** Wie wird mit Personen umgegangen, die mehrere Auszeichnungen erhalten?
+  **Antwort:** Personen werden in jedem entsprechenden Block erneut aufgerufen; es gibt dafür keine spezielle Regelung.
 - [ ] Welche Aufgaben übernehmen die Ehrendamen, und wer koordiniert ihren Einsatz?
 - [ ] Sind Dankespräsente für Funktionäre, Helfer, Ehrengäste oder weitere Personen vorgesehen?
 
