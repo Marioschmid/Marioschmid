@@ -64,7 +64,8 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 - [ ] Gibt es einen detaillierten Ablaufplan mit Uhrzeiten für alle Verantwortlichen?
 
 ### Bühnenorganisation und Ehrungen
-- [ ] Wer koordiniert die Abläufe auf der Bühne und ruft die Geehrten auf?
+- [ ] **Frage:** Wer koordiniert die Abläufe auf der Bühne und ruft die Geehrten auf?
+  **Antwort:** Die Koordination auf der Bühne erfolgt durch Mario Schmid.
 - [ ] Wer stellt sicher, dass die richtigen Medaillen, Preise und Blumen rechtzeitig bereitliegen?
 - [ ] **Frage:** Wer übergibt die Medaillen, Preise und Blumen?
   **Antwort:** Bei den Ehrungen übernimmt der Zentralvorstand die Übergabe. Beim UVMW muss noch mit dem Veranstalter geklärt werden, ob er die Medaillen selbst übergeben möchte.
