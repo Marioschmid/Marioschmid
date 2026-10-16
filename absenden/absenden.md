@@ -9,7 +9,7 @@
 
 ## Verpflegung
 
-- **Grillbuffet:** Menu und Preis mit **Gäxus Metzg** sind fixiert. Das Grillbuffet wird durch Gäxus Metzg organisiert und durchgeführt. Das OK meldet Gäxus Metzg noch die Anzahl der zu verpflegenden Personen.
+- **Grillbuffet:** Menu und Preis mit **Gäxus Metzg** sind fixiert. Das Grillbuffet wird durch Gäxus Metzg organisiert und durchgeführt. Die Anzahl der zu verpflegenden Personen muss noch gemeldet werden; wer dafür zuständig ist, ist offen.
 - **Hilfspersonal:** Das OK stellt drei Personen für das Schöpfen der Speisen und den Abwasch zur Verfügung.
 - **Buffettische:** Für das Buffet werden vier bis fünf Tische benötigt. Die Bereitstellung und Aufstellung ist durch das OK sicherzustellen.
 - **Vom Organisator bereitzustellen:** Teller, Besteck, Gläser, Servietten, Tischabdeckungen, Getränke und Dessert.
@@ -140,6 +140,10 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
 Die Organisation und der Ablauf des Anlasses werden schrittweise ergänzt.
 
 ## Weitere offene Fragen
+
+### Verpflegung und Getränke
+
+- Wer meldet Gäxus Metzg die Anzahl der zu verpflegenden Personen?
 
 ### Ablauf und Zeitplanung
 
