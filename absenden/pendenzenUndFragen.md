@@ -32,7 +32,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 - [ ] **Anmeldeliste:** Liste mit Gästen, bestellter Verpflegung und geschuldeten Beträgen erstellen und für den Eingang bereitstellen.
 - [ ] **Mehrfachnennungen:** Vorgehen prüfen, damit Personen, die in mehreren Gruppen oder Kategorien aufgeführt sind, nicht mehrfach für dieselbe Verpflegung verrechnet werden.
 - [ ] **Inkasso:** Kasse, Wechselgeld und akzeptierte Zahlungsmöglichkeiten festlegen und bereitstellen.
-- [ ] **Bändeli:** Blaue Bändeli für Gäste beschaffen und am Eingang nach erfolgter Bezahlung anbringen. Das blaue Bändeli berechtigt zu einem Essen am Grillbuffet und einem Dessert am Dessertstand.
+- [ ] **Bändeli:** Grüne und blaue Bändeli beschaffen. Grüne Bändeli berechtigen zum Bezug eines Essens am Grillbuffet. Blaue Bändeli sind für OK-Mitglieder und Ehrengäste bestimmt und berechtigen zum Bezug von Essen am Grillbuffet, Dessert am Dessertbuffet und Getränken.
 - [ ] **Eingangspersonal:** Verantwortliche Person für Unklarheiten, Nachmeldungen und Änderungen der Bestellung bestimmen.
 - [ ] **Nachmeldungen:** Verfahren für Änderungen und Nachmeldungen festlegen und sicherstellen, dass diese auf der Liste erfasst werden.
 
