@@ -12,7 +12,9 @@
 - **Grillbuffet:** Menu und Preis mit **Gäxus Metzg** sind fixiert. Das Grillbuffet wird durch Gäxus Metzg organisiert und durchgeführt. Die Anzahl der zu verpflegenden Personen muss noch gemeldet werden; wer dafür zuständig ist, ist offen.
 - **Hilfspersonal:** Das OK stellt drei Personen für das Schöpfen der Speisen und den Abwasch zur Verfügung.
 - **Buffettische:** Für das Buffet werden vier bis fünf Tische benötigt. Die Bereitstellung und Aufstellung ist durch das OK sicherzustellen.
-- **Vom Organisator bereitzustellen:** Teller, Besteck, Gläser, Servietten, Tischabdeckungen, Getränke und Dessert.
+- **Geschirr:** Teller, Besteck, Gläser und Kaffeegeschirr sind im Inventar der Halle vorhanden.
+- **Tischabdeckungen und Dekoration:** Müssen organisiert werden.
+- **Vom Organisator bereitzustellen:** Getränke und Dessert.
 - **Getränke organisieren:**
   - Die Weinbestände der SM müssen im Kegelzentrum Rössli in Heimberg abgeholt werden. Es handelt sich um ungefähr acht Harrassen.
   - Der Bedarf an Bier und Süssgetränken ist noch zu klären (Sortiment und Mengen).
