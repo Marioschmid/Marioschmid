@@ -87,7 +87,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 - [ ] Wer empfängt und betreut Ehrengäste und Vertretungen der Verbände?
 - [ ] Sind Sitzplätze für besondere Gäste reserviert?
 - [x] **Frage:** Wird eine Garderobe eingerichtet und betreut?
-  **Antwort:** Im Foyer steht eine unbegrenzte Garderobe zur Verfügung.
+  **Antwort:** Im Foyer steht eine unbetreute Garderobe zur Verfügung.
 - [ ] Sind Eingang, Toiletten, Verpflegung, Sitzplätze und weitere Bereiche ausreichend beschildert?
 - [ ] Sind Parkplatz und Zugang zur Halle gut gekennzeichnet und ist die Zugänglichkeit für Personen mit eingeschränkter Mobilität berücksichtigt?
 
