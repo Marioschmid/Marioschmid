@@ -84,7 +84,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
   **Antwort:** Bei den Ehrungen übernimmt der Zentralvorstand die Übergabe. Beim UVMW muss noch mit dem Veranstalter geklärt werden, ob er die Medaillen selbst übergeben möchte.
 - [x] **Frage:** Wie wird mit Personen umgegangen, die mehrere Auszeichnungen erhalten?
   **Antwort:** Personen werden in jedem entsprechenden Block erneut aufgerufen; es gibt dafür keine spezielle Regelung.
-- [ ] Welche Aufgaben übernehmen die Ehrendamen, und wer koordiniert ihren Einsatz?
+- [ ] **Ehrendamen-Einsatz koordinieren:** Die Ehrendamen flankieren während der Ansprachen die Redner und während des Absenden die Geehrten bei den offiziellen Fotos im Foyer. Den Einsatz vor Ort koordinieren.
 - [ ] Sind Dankespräsente für Funktionäre, Helfer, Ehrengäste oder weitere Personen vorgesehen?
 
 ### Ranglisten und Unterlagen
