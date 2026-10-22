@@ -118,10 +118,9 @@ Block 2 wird durch den Sportleiter der SM 2026 durchgeführt und umfasst:
 
 ## Blumen
 
-- Blumen für die Geehrten und die Ehrendamen organisieren.
-- Abklären, wie viele Blumen benötigt werden und für welche Ehrungen bzw. Personen sie vorgesehen sind.
-- Die Blumen rechtzeitig vor dem Anlass bestellen und die Lieferung bzw. Abholung organisieren.
-- Prüfen, ob zusätzlich Blumen für die Tischdekoration benötigt werden.
+- **Blumensträusse für Geehrte und Redner:** Ueli Stucki bestimmt die benötigte Anzahl und meldet den Bedarf **bis spätestens 31. Oktober 2026** an Doris Schmid.
+- **Blumen für die Ehrendamen und Hallenschmuck:** Doris Schmid bestimmt selbst, welche Blumen dafür benötigt werden und ob Blumen für den Hallenschmuck vorgesehen sind.
+- **Beschaffung:** Doris Schmid beschafft sämtliche Blumen in eigener Regie.
 
 ## Fotografieren
 
