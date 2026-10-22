@@ -88,6 +88,7 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
 - **Service-Geldbeutel:** Für das Servicepersonal werden drei bis fünf Geldbeutel bereitgestellt.
 - **Wechselgeld:** Der Kassier stellt für sämtliche Kassen und Service-Geldbeutel einen Stock an Wechselgeld bereit.
 - **Kassier:** Markus Berwert ist für die Kassen zuständig.
+- **Auszahlungen:** Sämtliche Auszahlungen erfolgen grundsätzlich durch den Kassier Markus Berwert.
 - **Einnahmen am Abend:** Markus Berwert behändigt am Abend sämtliche Kassen und Service-Geldbeutel mit den darin enthaltenen Einnahmen. Die einzelnen Kassen und Geldbeutel werden dabei nicht kontrolliert.
 - **Trinkgelder:** Allfällige Trinkgelder werden vom Servicepersonal während des Anlasses separat gesammelt und von den übrigen Einnahmen getrennt gehalten. Der Kassier teilt die Trinkgelder zwischen Küchenpersonal und Servicepersonal auf und gibt sie unmittelbar am Anlass ab.
 - Für Unklarheiten am Eingang ist eine verantwortliche Person des OK zu bestimmen.
