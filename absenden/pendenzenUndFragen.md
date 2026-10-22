@@ -40,6 +40,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 - [ ] **Helferinnen und Helfer:** Genügend Personen für Aufbau, Abbau, Eingang, Service, Abwasch und weitere Aufgaben rekrutieren und einteilen.
 - [ ] **Bühne und Saal:** Bestuhlung, Rednerbereich, Fahnenplatz bzw. Einmarschweg und Dekoration vorbereiten.
 - [ ] **Siegerpodest:** Das Siegerpodest befindet sich im Kegelzentrum Rössli in Heimberg und muss vorgängig abgeholt und zur Burgseelihalle transportiert werden. Die Abholung ist mit dem Wein, dem Tombola-Material und dem SFKV-Werbematerial zu koordinieren.
+- [ ] **Preistaschen für die Unterverbände:** Für jeden Unterverband wird eine Tasche mit sämtlichen Preisen (Kranzkarten und Kränzen) für Kegler und Klubs des jeweiligen Unterverbands vorbereitet. Ausgenommen sind die Preise, die auf der Bühne überreicht werden. Hans Rufibach und Nelly Zimmermann bereiten die Taschen vorgängig vor. Aufgrund des erheblichen Werts der Preise werden die Taschen erst am Absende-Samstag direkt zur Halle gebracht. In der Halle sind zwei Tische für die Bereitstellung und Abholung der Taschen aufzustellen. Hans Rufibach und Nelly Zimmermann platzieren die Taschen auf diesen Tischen.
 - [ ] **Garderobe:** Im Foyer eine unbetreute Garderobe bereitstellen.
 - [ ] **Technik:** Tonanlage, Mikrofone und Beleuchtung bereitstellen und testen.
 - [ ] **Medaillen und Preise:** Klären, wie und wann die Medaillen und Preise geliefert werden.
@@ -84,6 +85,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 - [ ] Werden für die einzelnen Blöcke Ablaufblätter oder separate Ehrungslisten vorbereitet?
 
 ### Moderation und Technik
+- [ ] **Durchsage Preistaschen:** Der Moderator gibt während des Absenden bekannt, dass die Preistaschen abholbereit sind und von den jeweiligen Unterverbänden abgeholt werden müssen.
 - [ ] Wer übernimmt die Moderation und die Ansagen zwischen den Programmpunkten?
 - [ ] Wer bedient Mikrofone, Musik und allfällige Präsentationstechnik?
 - [ ] Werden Bilder, Ranglisten oder andere Inhalte auf einem Bildschirm oder Beamer gezeigt?
