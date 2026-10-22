@@ -52,11 +52,12 @@ In der ersten Hälfte werden folgende Anlässe abgesendet. Die Durchführung des
 
 - Zwischen den einzelnen Absenden ist jeweils Musik vorgesehen.
 
-### Showblock
+### Übergabe des Spendenchecks
 
-- **Showblock mit den Tambouren von Ringgenberg**
-- Dauer: ca. 20 Minuten
-- Der Showblock findet zwischen der ersten und der zweiten Hälfte des Absenden statt.
+- Anstelle des geplanten Tambouren-Auftritts wird zwischen der ersten und der zweiten Hälfte des Absenden einer gemeinnützigen Organisation ein Check über CHF 2'000.– überreicht.
+- **Empfängerorganisation:** Kinderheimat Tabor in Aeschi b. Spiez.
+- **Besuch:** Heimleiter Herr Klingelhöfer besucht das Absenden am 14. November 2026 um 15:00 Uhr.
+- Herr Klingelhöfer wird Prospektmaterial der Kinderheimat Tabor mitbringen.
 
 ### Zweite Hälfte des Absenden
 
@@ -139,7 +140,7 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
 - **Fotografinnen:** Zoe Steiner und Livia Gurtner übernehmen das Fotografieren am Anlass.
 - **Entschädigung:** Beide Fotografinnen erhalten je CHF 50.– sowie freies Essen und Getränke.
 - **Offizielle Fotos der Geehrten:** Im Foyer wird eine eigene Zone für die offiziellen Fotos der Geehrten eingerichtet. Die Fotos werden somit nicht direkt auf der Bühne gemacht, damit das Absenden dort zügig durchgeführt werden kann.
-- Vor dem Anlass festlegen, welche wichtigen Momente fotografisch festgehalten werden sollen, insbesondere Begrüssung, Fahnen-Einmarsch, Absenden, Preis- und Medaillenübergaben, Showblock der Tambouren sowie Gruppen- und Bühnenbilder.
+- Vor dem Anlass festlegen, welche wichtigen Momente fotografisch festgehalten werden sollen, insbesondere Begrüssung, Fahnen-Einmarsch, Absenden, Preis- und Medaillenübergaben, Übergabe des Spendenchecks sowie Gruppen- und Bühnenbilder.
 - Für die einzelnen Absende-Blöcke festlegen, wie die Geehrten nach der Ehrung zur Fotozone im Foyer gelangen und wer sie dort koordiniert.
 - Sicherstellen, dass die offiziellen Fotos möglichst unmittelbar nach der jeweiligen Ehrung gemacht werden können.
 - Falls Fotos veröffentlicht oder für Berichte und Medien verwendet werden sollen, die erforderlichen Einwilligungen bzw. Hinweise klären.
@@ -149,7 +150,7 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
 
 - **Lieferung der Medaillen und Preise:** Klären, wie und wann die Preise zu uns geliefert werden.
 - **Musik:** Es soll bereits eine Vereinbarung bestehen. Name der verantwortlichen Person bzw. des Musikpartners sowie die konkreten Abmachungen müssen noch geklärt werden.
-- **Showblock Tambouren:** Mit Samuel Zurbuchen besteht eine mündliche Vereinbarung über einen ca. 20-minütigen Showblock zwischen der ersten und zweiten Hälfte des Absenden. Bei Samuel ist eine Bestätigung der Vereinbarung einzuholen. Der genaue Zeitpunkt, die konkreten Inhalte und die weiteren Rahmenbedingungen müssen zeitnah festgelegt werden.
+- **Spendencheck vorbereiten:** Check über CHF 2'000.– für die Kinderheimat Tabor in Aeschi b. Spiez bereitstellen und die Übergabe an Heimleiter Herrn Klingelhöfer am 14. November 2026 um 15:00 Uhr organisieren. Er bringt Prospektmaterial mit.
 - **Ehrung Sport, Americaine und Kombination:** Es ist zu klären, ob die Siegerinnen und Sieger von Sport, Americaine und Kombination auf der Bühne explizit geehrt werden oder ob die Preise lediglich abgegeben werden.
 - **Fotograf:** Verantwortliche Person bzw. Fotograf für den Anlass bestimmen und Einsatz absprechen.
 
