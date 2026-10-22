@@ -6,7 +6,6 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 
 ### Programm und Mitwirkende
 - [ ] **Gemeinde Ringgenberg:** Anfragen, ob eine Vertretung des Gemeinderats teilnehmen und eine kurze Begrüssung halten kann.
-- [ ] **Sport, Americaine und Kombination:** Entscheiden, ob die Siegerinnen und Sieger auf der Bühne ausdrücklich geehrt werden oder ob lediglich die Preise abgegeben werden.
 
 ### Verpflegung und Getränke
 - [x] **Gäxus Metzg – Menu und Preis:** Menu und Preis für das Grillbuffet sind fixiert.
