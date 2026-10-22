@@ -39,7 +39,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 ### Halle, Bühne und Material
 - [ ] **Helferinnen und Helfer:** Genügend Personen für Aufbau, Abbau, Eingang, Service, Abwasch und weitere Aufgaben rekrutieren und einteilen.
 - [ ] **Bühne und Saal:** Bestuhlung, Rednerbereich, Fahnenplatz bzw. Einmarschweg und Dekoration vorbereiten.
-- [ ] **Siegerpodest:** Siegerpodest für die Bühne organisieren und rechtzeitig bereitstellen.
+- [ ] **Siegerpodest:** Das Siegerpodest befindet sich im Kegelzentrum Rössli in Heimberg und muss vorgängig abgeholt und zur Burgseelihalle transportiert werden. Die Abholung ist mit dem Wein, dem Tombola-Material und dem SFKV-Werbematerial zu koordinieren.
 - [ ] **Garderobe:** Im Foyer eine unbetreute Garderobe bereitstellen.
 - [ ] **Technik:** Tonanlage, Mikrofone und Beleuchtung bereitstellen und testen.
 - [ ] **Medaillen und Preise:** Klären, wie und wann die Medaillen und Preise geliefert werden.
