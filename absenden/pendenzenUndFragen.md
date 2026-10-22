@@ -19,14 +19,14 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 - [ ] **Dessertbuffet:** Mit der Ändels Bachstuba die Lieferung von drei Patisseriesorten (Cremeschnitte, Vermicelles und Quark) sowie Nussgipfeln bestätigen. Zuständigkeit des OK für Betrieb und Verkauf bestätigen.
 - [ ] **Dessertmengen melden:** Der Ändels Bachstuba die benötigte Anzahl Nussgipfel und Patisseriestücke (Cremeschnitte, Vermicelles und Quark) mitteilen.
 - [ ] **Dessertpreise:** Preisvorschläge bestätigen oder anpassen: Patisseriestück CHF 5.–, Nussgipfel CHF 4.–.
-- [ ] **Material Verpflegung:** Teller, Besteck, Gläser und Kaffeegeschirr sind im Inventar der Halle vorhanden. Tischabdeckungen und Dekoration müssen organisiert werden.
+- [ ] **Material Verpflegung:** Teller, Besteck, Gläser und Kaffeegeschirr sind im Inventar der Halle vorhanden. Doris Schmid organisiert die Tischabdeckungen und übernimmt die Dekoration der Halle.
 - [ ] **Kaffeemaschinen:** Zwei Kaffeevollautomaten am Freitag, 13. November 2026, bei H&R Gastro AG, Geissgasse 15, Interlaken, abholen. Abholfenster: 08:00–12:00 oder 13:30–18:00 Uhr.
 - [ ] **Kaffeemaschinen-Rückgabe:** Rückgabe am Montag, 16. November 2026, organisieren.
 - [ ] **Sponsorenbanner:** Banner von H&R Gastro AG in der Halle aufhängen.
 
 ### Einladungen, Anmeldung und Eingang
-- [ ] **Einladungen und Anmeldungen:** Zuständigkeit von Ueli Stucki für Versand und Entgegennahme der Anmeldungen koordinieren.
-- [ ] **Anmeldeliste:** Liste mit Gästen, bestellter Verpflegung und geschuldeten Beträgen erstellen und für den Eingang bereitstellen.
+- [ ] **Einladungen und Anmeldungen:** Ueli Stucki versendet die Einladungen und nimmt die Anmeldungen entgegen.
+- [ ] **Anmeldeliste:** Ueli Stucki erstellt eine Liste, aus der für jede Person die bestellte Verpflegung, das vorgesehene Bändeli und der geschuldete Betrag ersichtlich sind. Blaues Bändeli: Grill, Dessert und Getränke; grünes Bändeli: nur Grill. Die Liste am Eingang bereitstellen.
 - [ ] **Mehrfachnennungen:** Vorgehen prüfen, damit Personen, die in mehreren Gruppen oder Kategorien aufgeführt sind, nicht mehrfach für dieselbe Verpflegung verrechnet werden.
 - [ ] **Kasse am Eingang:** Kasse für das Inkasso am Eingang bereitstellen. Ueli Stucki erstellt die Liste der angemeldeten Personen; die Zahlungen werden auf der Liste vermerkt und danach werden die Bändeli abgegeben.
 - [ ] **Kasse am Dessertbuffet:** Eine eigene Kasse für den Verkauf am Dessertbuffet bereitstellen.
@@ -34,7 +34,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 - [ ] **Wechselgeld:** Markus Berwert stellt als Kassier für alle Kassen und Service-Geldbeutel einen Stock an Wechselgeld bereit.
 - [x] **Einnahmen übernehmen:** Markus Berwert behändigt als Kassier am Abend sämtliche Kassen und Service-Geldbeutel mit den Einnahmen. Dass die einzelnen Kassen und Geldbeutel nicht gemeinsam kontrolliert werden, ist bewusst so vorgesehen.
 - [ ] **Trinkgelder:** Das Servicepersonal sammelt allfällige Trinkgelder während des Anlasses separat und hält sie von den übrigen Einnahmen getrennt. Markus Berwert teilt als Kassier die Trinkgelder zwischen Küchenpersonal und Servicepersonal auf und gibt sie unmittelbar am Anlass ab.
-- [ ] **Bändeli:** Grüne und blaue Bändeli beschaffen. Grüne Bändeli berechtigen zum Bezug eines Essens am Grillbuffet. Blaue Bändeli sind für OK-Mitglieder und Ehrengäste bestimmt und berechtigen zum Bezug von Essen am Grillbuffet, Dessert am Dessertbuffet und Getränken.
+- [ ] **Bändeli:** Grüne und blaue Bändeli beschaffen. Grüne Bändeli berechtigen nur zum Bezug eines Essens am Grillbuffet. Blaue Bändeli berechtigen zum Bezug von Essen am Grillbuffet, Dessert am Dessertbuffet und Getränken.
 - [ ] **Eingangspersonal:** Verantwortliche Person für Unklarheiten, Nachmeldungen und Änderungen der Bestellung bestimmen.
 - [ ] **Nachmeldungen:** Verfahren für Änderungen und Nachmeldungen festlegen und sicherstellen, dass diese auf der Liste erfasst werden.
 
