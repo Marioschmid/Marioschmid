@@ -119,6 +119,11 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
     - **Stromversorgung:** Abklären, wo der benötigte Strom für den Werbefernseher bezogen werden kann.
 - **Kaffeeversorgung vorbereiten:** Die beiden gesponserten Kaffeevollautomaten in der Halle aufstellen und für den Anlass bereitstellen. Das mitgelieferte Banner der H&R Gastro AG aufhängen.
 
+## Ehrendamen
+
+- **Ehrendamen:** Corinna Trachsel und eine zweite, noch zu bestimmende Ehrendame.
+- **Entschädigung:** Jede Ehrendame erhält CHF 50.– sowie freies Essen und Getränke.
+
 ## Blumen
 
 - Blumen für die Geehrten und die Ehrendamen organisieren.
