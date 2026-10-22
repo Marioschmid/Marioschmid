@@ -57,6 +57,8 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 
 ### Ehrungen, Blumen und Fotos
 - [ ] **Blumen:** Anzahl, Empfängerinnen und Empfänger sowie Verwendungszweck der Blumen bestimmen; Bestellung und Lieferung bzw. Abholung organisieren.
+- [ ] **Zweite Ehrendame bestimmen:** Neben Corinna Trachsel ist die zweite Ehrendame noch zu bestimmen.
+- [ ] **Entschädigung Ehrendamen:** Für beide Ehrendamen je CHF 50.– sowie freies Essen und Getränke vorsehen; Auszahlung der Entschädigung am Anlass organisieren.
 - [ ] **Tischdekoration:** Klären, ob zusätzlich Blumen für die Tische benötigt werden.
 - [ ] **Fotozone:** Fotozone für die offiziellen Fotos der Geehrten im Foyer einrichten.
 - [ ] **Ablauf Fotos:** Festlegen, wie die Geehrten nach ihrer Ehrung zur Fotozone gelangen und wer sie dort koordiniert.
