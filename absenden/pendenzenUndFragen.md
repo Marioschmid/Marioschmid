@@ -31,7 +31,12 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 - [ ] **Einladungen und Anmeldungen:** Zuständigkeit von Ueli Stucki für Versand und Entgegennahme der Anmeldungen koordinieren.
 - [ ] **Anmeldeliste:** Liste mit Gästen, bestellter Verpflegung und geschuldeten Beträgen erstellen und für den Eingang bereitstellen.
 - [ ] **Mehrfachnennungen:** Vorgehen prüfen, damit Personen, die in mehreren Gruppen oder Kategorien aufgeführt sind, nicht mehrfach für dieselbe Verpflegung verrechnet werden.
-- [ ] **Inkasso:** Kasse, Wechselgeld und akzeptierte Zahlungsmöglichkeiten festlegen und bereitstellen.
+- [ ] **Kasse am Eingang:** Kasse für das Inkasso am Eingang bereitstellen. Ueli Stucki erstellt die Liste der angemeldeten Personen; die Zahlungen werden auf der Liste vermerkt und danach werden die Bändeli abgegeben.
+- [ ] **Kasse am Dessertbuffet:** Eine eigene Kasse für den Verkauf am Dessertbuffet bereitstellen.
+- [ ] **Service-Geldbeutel:** Drei bis fünf Geldbeutel für das Servicepersonal bereitstellen.
+- [ ] **Wechselgeld:** Der Kassier stellt für alle Kassen und Service-Geldbeutel einen Stock an Wechselgeld bereit.
+- [ ] **Einnahmen übernehmen:** Der Kassier behändigt am Abend sämtliche Kassen und Service-Geldbeutel mit den Einnahmen. Die einzelnen Kassen und Geldbeutel werden nicht kontrolliert.
+- [ ] **Trinkgelder:** Das Servicepersonal sammelt allfällige Trinkgelder während des Anlasses separat und hält sie von den übrigen Einnahmen getrennt. Der Kassier teilt die Trinkgelder zwischen Küchenpersonal und Servicepersonal auf und gibt sie unmittelbar am Anlass ab.
 - [ ] **Bändeli:** Grüne und blaue Bändeli beschaffen. Grüne Bändeli berechtigen zum Bezug eines Essens am Grillbuffet. Blaue Bändeli sind für OK-Mitglieder und Ehrengäste bestimmt und berechtigen zum Bezug von Essen am Grillbuffet, Dessert am Dessertbuffet und Getränken.
 - [ ] **Eingangspersonal:** Verantwortliche Person für Unklarheiten, Nachmeldungen und Änderungen der Bestellung bestimmen.
 - [ ] **Nachmeldungen:** Verfahren für Änderungen und Nachmeldungen festlegen und sicherstellen, dass diese auf der Liste erfasst werden.
@@ -105,8 +110,8 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 ### Personal, Finanzen und Abschluss
 - [ ] Wer erstellt den Helferplan und ist während des Anlasses Ansprechperson für die Helferinnen und Helfer?
 - [ ] Wann erfolgen Aufbau und Abbau, und wer ist jeweils vor Ort verantwortlich?
-- [ ] Wer führt die Tageskasse und erstellt die Abrechnung?
-- [ ] Wie werden Einnahmen aus Verpflegung, Dessertbuffet und Tombola abgerechnet?
+- [ ] Wer übernimmt die Aufgabe des Kassiers, und wer vertritt diese Person bei Abwesenheit?
+- [ ] Wie werden die Einnahmen aus den einzelnen Verkaufsbereichen nach der Übernahme durch den Kassier weiter abgerechnet?
 - [ ] Wer begleicht offene Rechnungen und dokumentiert Sponsoring- und Sachleistungen?
 - [ ] Sind Fluchtwege und Notausgänge frei, und ist klar, wer im Notfall handelt?
 - [ ] Wo befindet sich der Erste-Hilfe-Kasten?
