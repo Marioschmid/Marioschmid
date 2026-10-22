@@ -14,7 +14,7 @@
 - **Hilfspersonal:** Das OK stellt drei Personen für das Schöpfen der Speisen und den Abwasch zur Verfügung.
 - **Buffettische:** Für das Buffet werden vier bis fünf Tische benötigt. Die Bereitstellung und Aufstellung ist durch das OK sicherzustellen.
 - **Geschirr:** Teller, Besteck, Gläser und Kaffeegeschirr sind im Inventar der Halle vorhanden.
-- **Tischabdeckungen und Dekoration:** Müssen organisiert werden.
+- **Tischabdeckungen und Dekoration:** Doris Schmid organisiert die Tischabdeckungen und übernimmt die Dekoration der Halle.
 - **Vom Organisator bereitzustellen:** Getränke und Dessert.
 - **Getränke organisieren:**
   - Die Weinbestände der SM müssen im Kegelzentrum Rössli in Heimberg abgeholt werden. Es handelt sich um genau sieben Harrassen Wein auf Kommission.
@@ -66,10 +66,10 @@ Block 2 wird durch den Sportleiter der SM 2026 durchgeführt. Die Ehrungen von *
 ## Einladungen / Anmeldung / Eingang
 
 - **Einladungen:** Ueli Stucki versendet die Einladungen.
-- **Anmeldungen:** Ueli Stucki nimmt die Anmeldungen entgegen und erstellt daraus die Anmeldeliste.
+- **Anmeldungen:** Ueli Stucki nimmt die Anmeldungen entgegen und erstellt daraus die Anmeldeliste. Daraus muss für jede Person ersichtlich sein, welches Bändeli sie erhält und wie viel sie bezahlen muss: blau für Grill, Dessert und Getränke; grün nur für den Grill.
 - **Eingang:** Am Eingang werden die Gäste empfangen und die bestellten Verpflegungen einkassiert.
-- **Bändeli abgeben:** Gäste erhalten nach erfolgter Bezahlung ein **grünes Bändeli** am Handgelenk; dieses berechtigt zum Bezug eines Essens am Grillbuffet. **Blaue Bändeli** sind für OK-Mitglieder und Ehrengäste bestimmt und berechtigen zum Bezug von Essen am Grillbuffet, Dessert am Dessertbuffet und Getränken.
-- Die Anmeldeliste mit den bestellten Verpflegungen und den entsprechenden Beträgen muss am Eingang verfügbar sein.
+- **Bändeli abgeben:** Nach erfolgter Bezahlung erhalten die Gäste das gemäss Anmeldung vorgesehene Bändeli. **Grün** berechtigt zum Bezug eines Essens am Grillbuffet. **Blau** berechtigt zum Bezug von Essen am Grillbuffet, Dessert am Dessertbuffet und Getränken.
+- Die Anmeldeliste mit den bestellten Verpflegungen, dem vorgesehenen Bändeli (blau oder grün) und den geschuldeten Beträgen muss am Eingang verfügbar sein.
 - Nach erfolgter Zahlung ist dies auf der Liste zu vermerken.
 - Bei Personen, die in mehreren Gruppen oder Kategorien aufgeführt sind, ist darauf zu achten, dass die Verpflegung entsprechend der tatsächlichen Bestellung verrechnet wird.
 - Nachmeldungen oder Änderungen der Bestellung sind festzuhalten.
@@ -95,7 +95,7 @@ Block 2 wird durch den Sportleiter der SM 2026 durchgeführt. Die Ehrungen von *
 - **Garderobe:** Im Foyer wird eine unbetreute Garderobe eingerichtet.
 - Bühne und Rednerbereich vorbereiten.
 - Fahnenplatz bzw. Einmarschweg vorbereiten.
-- Halle und Bühne dekorieren.
+- **Dekoration:** Doris Schmid organisiert die Tischabdeckungen und übernimmt die Dekoration der Halle. Die Bühne und der Rednerbereich sind ebenfalls vorzubereiten.
 - Tonanlage, Mikrofone und weitere benötigte Technik bereitstellen und testen.
 - Beleuchtung für Saal und Bühne prüfen.
 - Bereich für das Grillbuffet und die Getränke vorbereiten.
