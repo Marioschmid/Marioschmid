@@ -6,8 +6,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 
 ### Programm und Mitwirkende
 - [ ] **Musik:** Bestehende Vereinbarung überprüfen. Verantwortliche Person bzw. Musikpartner, Umfang, Einsätze und Kosten festhalten.
-- [ ] **Tambouren Ringgenberg:** Mündliche Vereinbarung mit Samuel Zurbuchen für einen rund 20-minütigen Showblock bestätigen lassen.
-- [ ] **Tambouren:** Ungefähren Auftrittszeitraum, genaue Dauer, Inhalt und weitere Rahmenbedingungen abstimmen. Vorgesehen ist der Auftritt zwischen der ersten und zweiten Hälfte des Absenden.
+- [ ] **Spendencheck:** Check über CHF 2'000.– für die Kinderheimat Tabor in Aeschi b. Spiez bereitstellen und die Übergabe an Heimleiter Herrn Klingelhöfer am 14. November 2026 um 15:00 Uhr organisieren. Herr Klingelhöfer bringt Prospektmaterial mit.
 - [ ] **Gemeinde Ringgenberg:** Anfragen, ob eine Vertretung des Gemeinderats teilnehmen und eine kurze Begrüssung halten kann.
 - [ ] **Sport, Americaine und Kombination:** Entscheiden, ob die Siegerinnen und Sieger auf der Bühne ausdrücklich geehrt werden oder ob lediglich die Preise abgegeben werden.
 
@@ -71,8 +70,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 
 ### Ablauf und Zeitplanung
 - [ ] Wie lange soll jeder Absende-Block ungefähr dauern?
-- [ ] Wie viel Zeit ist für Einmarsch, Begrüssungen, Musik und Showblock reserviert?
-- [ ] Wann genau soll der Showblock der Tambouren stattfinden?
+- [ ] Wie viel Zeit ist für Einmarsch, Begrüssungen, Musik und die Übergabe des Spendenchecks reserviert?
 - [ ] Wer kontrolliert am Anlass die Zeit und koordiniert Änderungen im Ablauf?
 - [ ] Gibt es einen detaillierten Ablaufplan mit Uhrzeiten für alle Verantwortlichen?
 
