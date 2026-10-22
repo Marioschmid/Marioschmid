@@ -10,7 +10,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 ### Verpflegung und Getränke
 - [x] **Gäxus Metzg – Menu und Preis:** Menu und Preis für das Grillbuffet sind fixiert.
 - [ ] **Caterer bezahlen:** Die Entschädigung des Caterers am Anlass direkt bar gegen Quittung bezahlen. Markus Berwert übernimmt die Zahlung als Kassier.
-- [x] **Anzahl Verpflegungspersonen:** Ueli Stucki meldet Gäxus Metzg die definitive Anzahl der zu verpflegenden Personen.
+- [x] **Anzahl Verpflegungspersonen:** Ueli Stucki meldet Gäxus Metzg die definitive Anzahl der zu verpflegenden Personen **bis spätestens 10. November 2026**.
 - [ ] **Hilfspersonal:** Drei Personen für Schöpfen und Abwasch einteilen.
 - [ ] **Buffettische:** Vier bis fünf Tische organisieren und sicherstellen, dass sie rechtzeitig aufgestellt werden.
 - [ ] **Getränke:** Bedarf an Bier und Süssgetränken nach Sortiment und Menge klären und Beschaffung organisieren. Bier und Süssgetränke am Freitag, 13. November 2026, abholen oder liefern lassen und im Kühlraum der Küche lagern.
@@ -111,7 +111,7 @@ Der Detailplan mit genauen Zeiten und den Musikeinsätzen wird durch Ueli Stucki
 
 ### Verpflegung und Getränke
 - [x] **Frage:** Wer meldet Gäxus Metzg die Anzahl der zu verpflegenden Personen?
-  **Antwort:** Ueli Stucki meldet die definitive Anzahl.
+  **Antwort:** Ueli Stucki meldet die definitive Anzahl **bis spätestens 10. November 2026**.
 
 ### Personal, Finanzen und Abschluss
 - **Auszahlungen:** Sämtliche Auszahlungen erfolgen grundsätzlich durch den Kassier Markus Berwert.
