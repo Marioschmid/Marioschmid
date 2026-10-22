@@ -63,6 +63,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 - [ ] **Fotozone:** Fotozone für die offiziellen Fotos der Geehrten im Foyer einrichten.
 - [ ] **Ablauf Fotos:** Festlegen, wie die Geehrten nach ihrer Ehrung zur Fotozone gelangen und wer sie dort koordiniert.
 - [ ] **Fotoplan:** Mit Zoe Steiner und Livia Gurtner die wichtigen Fotomomente und die Aufgabenverteilung abstimmen.
+- [ ] **Entschädigung Fotografinnen:** Zoe Steiner und Livia Gurtner erhalten je CHF 50.– sowie freies Essen und Getränke; die Auszahlung der Entschädigung am Anlass organisieren.
 - [ ] **Fotos nach dem Anlass:** Zentralen Ablageort, Sicherung und Bereitstellung der Fotos vereinbaren.
 - [ ] **Fotoverwendung:** Klären, welche Hinweise oder Einwilligungen für eine Veröffentlichung der Fotos erforderlich sind.
 
