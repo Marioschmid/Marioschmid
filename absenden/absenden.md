@@ -171,16 +171,13 @@ Die Organisation und der Ablauf des Anlasses werden schrittweise ergänzt.
 
 ### Ehrendamen und Gäste
 
-- Welche Aufgaben übernehmen die Ehrendamen?
-- Wo befinden sich die Ehrendamen während des Anlasses?
 - Welche Kleidung bzw. Ausstattung ist für die Ehrendamen vorgesehen?
 - Wer empfängt und betreut besondere Ehrengäste und Vertreter der Verbände?
 - Ist für besondere Gäste eine Sitzordnung oder Platzreservation vorgesehen?
 
 ### Beschilderung und Besucherführung
 
-- Sind Eingang, Garderobe, Toiletten, Verpflegung, Sitzplätze und weitere Bereiche ausreichend beschildert?
-- Wird eine Garderobe eingerichtet und wer betreut diese?
+- Sind Eingang, Toiletten, Verpflegung, Sitzplätze und weitere Bereiche ausreichend beschildert?
 - Müssen Hinweise für Personen mit eingeschränkter Mobilität berücksichtigt werden?
 - Sind Parkplätze und der Weg zur Halle für die Gäste ausreichend gekennzeichnet?
 
