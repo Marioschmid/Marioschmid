@@ -10,6 +10,7 @@
 ## Verpflegung
 
 - **Grillbuffet:** Menu und Preis mit **Gäxus Metzg** sind fixiert. Das Grillbuffet wird durch Gäxus Metzg organisiert und durchgeführt. Die Anzahl der zu verpflegenden Personen muss noch gemeldet werden; wer dafür zuständig ist, ist offen.
+- **Entschädigung Caterer:** Die Entschädigung des Caterers wird direkt am Anlass bar gegen Quittung bezahlt. Markus Berwert übernimmt die Zahlung als Kassier.
 - **Hilfspersonal:** Das OK stellt drei Personen für das Schöpfen der Speisen und den Abwasch zur Verfügung.
 - **Buffettische:** Für das Buffet werden vier bis fünf Tische benötigt. Die Bereitstellung und Aufstellung ist durch das OK sicherzustellen.
 - **Geschirr:** Teller, Besteck, Gläser und Kaffeegeschirr sind im Inventar der Halle vorhanden.
