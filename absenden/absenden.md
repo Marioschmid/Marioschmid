@@ -134,6 +134,7 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
 ## Fotografieren
 
 - **Fotografinnen:** Zoe Steiner und Livia Gurtner übernehmen das Fotografieren am Anlass.
+- **Entschädigung:** Beide Fotografinnen erhalten je CHF 50.– sowie freies Essen und Getränke.
 - **Offizielle Fotos der Geehrten:** Im Foyer wird eine eigene Zone für die offiziellen Fotos der Geehrten eingerichtet. Die Fotos werden somit nicht direkt auf der Bühne gemacht, damit das Absenden dort zügig durchgeführt werden kann.
 - Vor dem Anlass festlegen, welche wichtigen Momente fotografisch festgehalten werden sollen, insbesondere Begrüssung, Fahnen-Einmarsch, Absenden, Preis- und Medaillenübergaben, Showblock der Tambouren sowie Gruppen- und Bühnenbilder.
 - Für die einzelnen Absende-Blöcke festlegen, wie die Geehrten nach der Ehrung zur Fotozone im Foyer gelangen und wer sie dort koordiniert.
