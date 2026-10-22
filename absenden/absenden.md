@@ -82,7 +82,12 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
 - Nach erfolgter Zahlung ist dies auf der Liste zu vermerken.
 - Bei Personen, die in mehreren Gruppen oder Kategorien aufgeführt sind, ist darauf zu achten, dass die Verpflegung entsprechend der tatsächlichen Bestellung verrechnet wird.
 - Nachmeldungen oder Änderungen der Bestellung sind festzuhalten.
-- Für das Inkasso müssen Kasse, Wechselgeld und die vereinbarten Zahlungsmöglichkeiten bereitstehen.
+- **Kasse am Eingang:** Für den Eingang wird eine Kasse eingerichtet. Dort werden die Zahlungen entgegengenommen und anschliessend die Bändeli abgegeben. Ueli Stucki erstellt die Liste der angemeldeten Personen.
+- **Kasse am Dessertbuffet:** Für den Verkauf am Dessertbuffet wird eine eigene Kasse bereitgestellt.
+- **Service-Geldbeutel:** Für das Servicepersonal werden drei bis fünf Geldbeutel bereitgestellt.
+- **Wechselgeld:** Der Kassier stellt für sämtliche Kassen und Service-Geldbeutel einen Stock an Wechselgeld bereit.
+- **Einnahmen am Abend:** Der Kassier behändigt am Abend sämtliche Kassen und Service-Geldbeutel mit den darin enthaltenen Einnahmen. Die einzelnen Kassen und Geldbeutel werden dabei nicht kontrolliert.
+- **Trinkgelder:** Allfällige Trinkgelder werden vom Servicepersonal während des Anlasses separat gesammelt und von den übrigen Einnahmen getrennt gehalten. Der Kassier teilt die Trinkgelder zwischen Küchenpersonal und Servicepersonal auf und gibt sie unmittelbar am Anlass ab.
 - Für Unklarheiten am Eingang ist eine verantwortliche Person des OK zu bestimmen.
 
 ## Kurzfristige Vorbereitung
@@ -205,9 +210,8 @@ Die Organisation und der Ablauf des Anlasses werden schrittweise ergänzt.
 
 ### Finanzen und Abrechnung
 
-- Wer ist für die Tageskasse verantwortlich?
-- Wie wird die Einnahmenabrechnung nach dem Anlass durchgeführt?
-- Wie werden Einnahmen aus Verpflegung, Dessertbuffet und Tombola getrennt bzw. abgerechnet?
+- Wer übernimmt die Tageskasse als Kassier, und wer vertritt diese Person bei Abwesenheit?
+- Wie werden die Einnahmen aus den einzelnen Verkaufsbereichen nach der Übernahme durch den Kassier weiter abgerechnet?
 - Wer begleicht offene Rechnungen mit Caterer, Lieferanten und weiteren Partnern?
 - Wie werden Sponsoring- und Sachleistungen dokumentiert?
 
