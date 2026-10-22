@@ -58,6 +58,8 @@ In der ersten Hälfte werden folgende Anlässe abgesendet. Die Durchführung des
 - **Empfängerorganisation:** Kinderheimat Tabor in Aeschi b. Spiez.
 - **Besuch:** Heimleiter Herr Klingelhöfer besucht das Absenden am 14. November 2026 um 15:00 Uhr.
 - Herr Klingelhöfer wird Prospektmaterial der Kinderheimat Tabor mitbringen.
+- **Symbolischer Spendencheck:** Markus Berwert stellt als Kassier den symbolischen Check bereit.
+- **Zahlung:** Die Spende von CHF 2'000.– wird durch Kassier Markus Berwert bezahlt.
 
 ### Zweite Hälfte des Absenden
 
