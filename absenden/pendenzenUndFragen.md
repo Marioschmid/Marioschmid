@@ -53,10 +53,12 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 - [ ] **Getränkeausgabe und Kaffeeversorgung:** Die Getränkeausgabe zwischen Küche und Foyer einrichten. Die beiden Kaffeevollautomaten am gleichen Ort platzieren, aufstellen und betriebsbereit machen.
 
 ### Ehrungen, Blumen und Fotos
-- [ ] **Blumen:** Anzahl, Empfängerinnen und Empfänger sowie Verwendungszweck der Blumen bestimmen; Bestellung und Lieferung bzw. Abholung organisieren.
+- [ ] **Blumensträusse für Geehrte und Redner:** Ueli Stucki bestimmt die benötigte Anzahl und meldet den Bedarf bis spätestens **31. Oktober 2026** an Doris Schmid.
+- [ ] **Blumen für Ehrendamen und Hallenschmuck:** Doris Schmid bestimmt den Bedarf für die Ehrendamen und entscheidet, ob Blumen für den Hallenschmuck benötigt werden.
+- [ ] **Blumenbeschaffung:** Doris Schmid beschafft sämtliche Blumen in eigener Regie.
 - [ ] **Name der zweiten Ehrendame ergänzen:** Die zweite Ehrendame ist bereits angefragt und bekannt; es fehlt nur noch ihr Name in den Unterlagen.
 - [ ] **Entschädigung Ehrendamen:** Für beide Ehrendamen je CHF 50.– sowie freies Essen und Getränke vorsehen. Die Auszahlung am Anlass erfolgt durch Kassier Markus Berwert.
-- [ ] **Tischdekoration:** Klären, ob zusätzlich Blumen für die Tische benötigt werden.
+
 - [ ] **Fotozone:** Fotozone für die offiziellen Fotos der Geehrten im Foyer einrichten.
 - [x] **Ablauf Fotos:** Die Geehrten gehen unmittelbar nach ihrer Ehrung zum Fototermin ins Foyer.
 - [ ] **Fotoplan:** Mit Zoe Steiner und Livia Gurtner die wichtigen Fotomomente und die Aufgabenverteilung abstimmen.
