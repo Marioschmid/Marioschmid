@@ -30,7 +30,7 @@
 
 ## Grober Ablauf
 
-Die detaillierte Ablaufplanung mit den genauen Zeiten erstellt Ueli Stucki. Sie regelt auch die Einsätze der Musiker. In diesem Dokument wird deshalb nur der grobe Ablauf festgehalten:
+Die detaillierte Ablaufplanung mit den genauen Zeiten erstellt Ueli Stucki. Sie regelt auch die Einsätze der Musiker. Mario Schmid koordiniert den Ablauf auf der Bühne. Der Moderator weist während des Absenden darauf hin, dass die Preistaschen bereitstehen und von den jeweiligen Unterverbänden abgeholt werden müssen. In diesem Dokument wird deshalb nur der grobe Ablauf festgehalten:
 
 1. **10:30 Uhr:** Saalöffnung
 2. **12:30 Uhr:** Ansprachen
@@ -92,6 +92,7 @@ Block 2 wird durch den Sportleiter der SM 2026 durchgeführt und umfasst:
 ## Halle vorbereiten
 
 - Saal / Bestuhlung vorbereiten.
+- **Garderobe:** Im Foyer wird eine unbetreute Garderobe eingerichtet.
 - Bühne und Rednerbereich vorbereiten.
 - Fahnenplatz bzw. Einmarschweg vorbereiten.
 - Halle und Bühne dekorieren.
@@ -100,7 +101,7 @@ Block 2 wird durch den Sportleiter der SM 2026 durchgeführt und umfasst:
 - Bereich für das Grillbuffet und die Getränke vorbereiten.
 - Eingangsbereich und notwendige Beschilderung vorbereiten.
 - Halle vor dem Eintreffen der Gäste kontrollieren und in einen sauberen, betriebsbereiten Zustand versetzen.
-- **Bühne:** Mario Schmid ist für die Bereitstellung und korrekte Vorbereitung der Medaillen und Preise verantwortlich. Zwei Tische auf der Bühne für die Medaillen bereitstellen. Die Medaillen werden für jedes Absenden auf Service-Tableaus vorbereitet und auf den Tischen platziert; sie werden nicht aufgehängt.
+- **Bühne:** Mario Schmid koordiniert den Ablauf auf der Bühne und ist für die Bereitstellung und korrekte Vorbereitung der Medaillen und Preise verantwortlich. Zwei Tische auf der Bühne für die Medaillen bereitstellen. Die Medaillen werden für jedes Absenden auf Service-Tableaus vorbereitet und auf den Tischen platziert; sie werden nicht aufgehängt.
 - **Tombola vorbereiten:** Preise, Lose, Verkauf und weitere benötigte Materialien vorbereiten.
   - **Preise und Lose abholen:** Preise und Lose vorgängig in Heimberg abholen und zur Einrichtung der Tombola in die Halle mitbringen.
 - **Werbeplakate vorbereiten:** Plakate für den Anlass erstellen und für die vorgesehene Platzierung vorbereiten.
@@ -144,18 +145,12 @@ Die Organisation und der Ablauf des Anlasses werden schrittweise ergänzt.
 
 ## Weitere offene Fragen
 
-### Verpflegung und Getränke
-
-- Ueli Stucki meldet Gäxus Metzg die definitive Anzahl der Verpflegungspersonen.
-
 ### Bühnenorganisation und Ehrungen
 
-- Wer koordiniert den Ablauf auf der Bühne während des Absenden?
-- Wer ruft die zu ehrenden Personen auf bzw. sorgt dafür, dass sie rechtzeitig bereitstehen?
-- Mario Schmid ist für die Bereitstellung und korrekte Vorbereitung der Medaillen und Preise verantwortlich.
-- Bei den Ehrungen übernimmt grundsätzlich der Zentralvorstand die Übergabe; die UVMW-Medaillen überreicht das OK des UVMW.
-- Wie werden Personen behandelt, die in mehreren Kategorien oder Wettbewerben geehrt werden?
-- Die Ehrendamen flankieren während der Ansprachen die Redner und begleiten die offiziellen Fotos im Foyer. Beim ersten Foto zu einer Ehrung hält eine Ehrendame das Beschriftungsblatt sichtbar ins Bild.
+- **Bühnenkoordination:** Mario Schmid koordiniert den Ablauf auf der Bühne und bereitet die Medaillen und Preise korrekt vor.
+- **Übergabe der Medaillen:** Grundsätzlich übergibt der Zentralvorstand die Auszeichnungen. Die UVMW-Medaillen werden durch das OK des UVMW überreicht.
+- **Mehrere Auszeichnungen:** Personen, die in mehreren Kategorien oder Wettbewerben ausgezeichnet werden, werden in jedem entsprechenden Block erneut aufgerufen; eine besondere Regelung gibt es nicht.
+- **Ehrendamen:** Während der Ansprachen flankieren sie die Redner; bei den offiziellen Fotos im Foyer flankieren sie die Geehrten. Beim ersten Foto zu einer Ehrung hält eine Ehrendame das Beschriftungsblatt sichtbar ins Bild.
 - Sind besondere Geschenke oder Dankespräsente für Funktionäre, Helfer, Ehrengäste oder andere Personen vorgesehen?
 
 ### Ehrungslisten und Unterlagen
