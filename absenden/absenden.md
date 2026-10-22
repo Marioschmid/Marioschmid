@@ -111,7 +111,7 @@ Block 2 wird durch den Sportleiter der SM 2026 durchgeführt und umfasst:
 
 ## Ehrendamen
 
-- **Ehrendamen:** Corinna Trachsel und eine zweite Ehrendame, deren Name noch in den Unterlagen ergänzt werden muss. Die zweite Dame ist bereits angefragt und bekannt.
+- **Ehrendamen:** Corinna Trachsel und Rebecca Rothenbühler.
 - **Aufgaben während der Ansprachen:** Die Ehrendamen flankieren die Redner.
 - **Aufgaben während des Absenden:** Die Ehrendamen flankieren die Geehrten bei den offiziellen Fotos im Foyer.
 - **Entschädigung:** Jede Ehrendame erhält CHF 50.– sowie freies Essen und Getränke.
@@ -137,7 +137,6 @@ Block 2 wird durch den Sportleiter der SM 2026 durchgeführt und umfasst:
 
 - **Lieferung der Medaillen und Preise:** Klären, wie und wann die Preise geliefert werden.
 - **Ehrung Sport, Americaine und Kombination:** Es ist zu klären, ob die Siegerinnen und Sieger von Sport, Americaine und Kombination auf der Bühne explizit geehrt werden oder ob die Preise lediglich abgegeben werden.
-- **Zweite Ehrendame:** Den Namen der bereits angefragten und bekannten zweiten Ehrendame in den Unterlagen ergänzen.
 
 ## Weitere Details
 
