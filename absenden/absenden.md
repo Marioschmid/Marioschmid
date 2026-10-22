@@ -123,6 +123,8 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
 ## Ehrendamen
 
 - **Ehrendamen:** Corinna Trachsel und eine zweite, noch zu bestimmende Ehrendame.
+- **Aufgaben während der Ansprachen:** Die Ehrendamen flankieren die Redner.
+- **Aufgaben während des Absenden:** Die Ehrendamen flankieren die Geehrten bei den offiziellen Fotos im Foyer.
 - **Entschädigung:** Jede Ehrendame erhält CHF 50.– sowie freies Essen und Getränke.
 
 ## Blumen
