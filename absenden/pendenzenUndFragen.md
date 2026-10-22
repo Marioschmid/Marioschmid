@@ -13,6 +13,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 
 ### Verpflegung und Getränke
 - [x] **Gäxus Metzg – Menu und Preis:** Menu und Preis für das Grillbuffet sind fixiert.
+- [ ] **Caterer bezahlen:** Die Entschädigung des Caterers am Anlass direkt bar gegen Quittung bezahlen. Markus Berwert übernimmt die Zahlung als Kassier.
 - [ ] **Anzahl Verpflegungspersonen:** Die Anzahl der zu verpflegenden Personen muss Gäxus Metzg noch gemeldet werden; die zuständige Person ist offen.
 - [ ] **Hilfspersonal:** Drei Personen für Schöpfen und Abwasch einteilen.
 - [ ] **Buffettische:** Vier bis fünf Tische organisieren und sicherstellen, dass sie rechtzeitig aufgestellt werden.
