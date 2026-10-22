@@ -58,12 +58,12 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 ### Ehrungen, Blumen und Fotos
 - [ ] **Blumen:** Anzahl, Empfängerinnen und Empfänger sowie Verwendungszweck der Blumen bestimmen; Bestellung und Lieferung bzw. Abholung organisieren.
 - [ ] **Zweite Ehrendame bestimmen:** Neben Corinna Trachsel ist die zweite Ehrendame noch zu bestimmen.
-- [ ] **Entschädigung Ehrendamen:** Für beide Ehrendamen je CHF 50.– sowie freies Essen und Getränke vorsehen; Auszahlung der Entschädigung am Anlass organisieren.
+- [ ] **Entschädigung Ehrendamen:** Für beide Ehrendamen je CHF 50.– sowie freies Essen und Getränke vorsehen. Die Auszahlung am Anlass erfolgt durch Kassier Markus Berwert.
 - [ ] **Tischdekoration:** Klären, ob zusätzlich Blumen für die Tische benötigt werden.
 - [ ] **Fotozone:** Fotozone für die offiziellen Fotos der Geehrten im Foyer einrichten.
 - [ ] **Ablauf Fotos:** Festlegen, wie die Geehrten nach ihrer Ehrung zur Fotozone gelangen und wer sie dort koordiniert.
 - [ ] **Fotoplan:** Mit Zoe Steiner und Livia Gurtner die wichtigen Fotomomente und die Aufgabenverteilung abstimmen.
-- [ ] **Entschädigung Fotografinnen:** Zoe Steiner und Livia Gurtner erhalten je CHF 50.– sowie freies Essen und Getränke; die Auszahlung der Entschädigung am Anlass organisieren.
+- [ ] **Entschädigung Fotografinnen:** Zoe Steiner und Livia Gurtner erhalten je CHF 50.– sowie freies Essen und Getränke. Die Auszahlung am Anlass erfolgt durch Kassier Markus Berwert.
 - [ ] **Fotos nach dem Anlass:** Zentralen Ablageort, Sicherung und Bereitstellung der Fotos vereinbaren.
 - [ ] **Fotoverwendung:** Klären, welche Hinweise oder Einwilligungen für eine Veröffentlichung der Fotos erforderlich sind.
 
@@ -112,6 +112,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 - [ ] **Frage:** Wer meldet Gäxus Metzg die Anzahl der zu verpflegenden Personen?
 
 ### Personal, Finanzen und Abschluss
+- **Auszahlungen:** Sämtliche Auszahlungen erfolgen grundsätzlich durch den Kassier Markus Berwert.
 - [ ] Wer erstellt den Helferplan und ist während des Anlasses Ansprechperson für die Helferinnen und Helfer?
 - [ ] Wann erfolgen Aufbau und Abbau, und wer ist jeweils vor Ort verantwortlich?
 - [ ] Wer vertritt Markus Berwert als Kassier bei Abwesenheit?
