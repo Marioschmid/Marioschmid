@@ -56,7 +56,6 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 - [ ] **Blumensträusse für Geehrte und Redner:** Ueli Stucki bestimmt die benötigte Anzahl und meldet den Bedarf bis spätestens **31. Oktober 2026** an Doris Schmid.
 - [ ] **Blumen für Ehrendamen und Hallenschmuck:** Doris Schmid bestimmt den Bedarf für die Ehrendamen und entscheidet, ob Blumen für den Hallenschmuck benötigt werden.
 - [ ] **Blumenbeschaffung:** Doris Schmid beschafft sämtliche Blumen in eigener Regie.
-- [ ] **Name der zweiten Ehrendame ergänzen:** Die zweite Ehrendame ist bereits angefragt und bekannt; es fehlt nur noch ihr Name in den Unterlagen.
 - [ ] **Entschädigung Ehrendamen:** Für beide Ehrendamen je CHF 50.– sowie freies Essen und Getränke vorsehen. Die Auszahlung am Anlass erfolgt durch Kassier Markus Berwert.
 
 - [ ] **Fotozone:** Fotozone für die offiziellen Fotos der Geehrten im Foyer einrichten.
