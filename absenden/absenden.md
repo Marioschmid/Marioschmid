@@ -5,11 +5,11 @@
 - **Datum:** 14. November 2026
 - **Ort:** Burgseelihalle, Strandbadweg 14, 3852 Ringgenberg
 - **Parkplatz:** Burgseeliparkplatz, in unmittelbarer Nähe der Halle
-- **Saalöffnung / Eintreffen der Gäste:** ab 10:00 Uhr
+- **Saalöffnung:** 10:30 Uhr
 
 ## Verpflegung
 
-- **Grillbuffet:** Menu und Preis mit **Gäxus Metzg** sind fixiert. Das Grillbuffet wird durch Gäxus Metzg organisiert und durchgeführt. Die Anzahl der zu verpflegenden Personen muss noch gemeldet werden; wer dafür zuständig ist, ist offen.
+- **Grillbuffet:** Menu und Preis mit **Gäxus Metzg** sind fixiert. Das Grillbuffet wird durch Gäxus Metzg organisiert und durchgeführt. Ueli Stucki meldet Gäxus Metzg die definitive Anzahl der zu verpflegenden Personen.
 - **Entschädigung Caterer:** Die Entschädigung des Caterers wird direkt am Anlass bar gegen Quittung bezahlt. Markus Berwert übernimmt die Zahlung als Kassier.
 - **Hilfspersonal:** Das OK stellt drei Personen für das Schöpfen der Speisen und den Abwasch zur Verfügung.
 - **Buffettische:** Für das Buffet werden vier bis fünf Tische benötigt. Die Bereitstellung und Aufstellung ist durch das OK sicherzustellen.
@@ -17,7 +17,7 @@
 - **Tischabdeckungen und Dekoration:** Müssen organisiert werden.
 - **Vom Organisator bereitzustellen:** Getränke und Dessert.
 - **Getränke organisieren:**
-  - Die Weinbestände der SM müssen im Kegelzentrum Rössli in Heimberg abgeholt werden. Es handelt sich um ungefähr acht Harrassen.
+  - Die Weinbestände der SM müssen im Kegelzentrum Rössli in Heimberg abgeholt werden. Es handelt sich um genau sieben Harrassen Wein auf Kommission.
   - Der Bedarf an Bier und Süssgetränken ist noch zu klären (Sortiment und Mengen).
 - **Butterzöpfe:** Gäxus Metzg meldet Doris Schmid spätestens am Mittwoch vor dem Anlass, wie viele Butterzöpfe benötigt werden.
 - **Dessertbuffet:** Das Dessertbuffet wird von der **Ändels Bachstuba** geliefert und in der Halle neben den Tischen für das Grillbuffet aufgestellt. Angeboten werden verschiedene Patisseriestücke und Nussgipfel. Das OK ist für den Betrieb des Dessertbuffets und den Verkauf zuständig.
@@ -28,53 +28,40 @@
   - **Rückgabe:** Montag, 16. November 2026.
   - **Werbung:** Zu den beiden Kaffeevollautomaten wird ein Banner von H&R Gastro AG zum Aufhängen mitgegeben.
 
-## Begrüssung
+## Grober Ablauf
 
-- **13:00 Uhr:** Einmarsch der Fahne
-- **anschliessend:** Begrüssung durch den OK-Präsidenten Ueli Stucki
-- **danach:** Musik
-- **anschliessend:** Begrüssung durch Frau Andrea Erni-Hänni, Gemeindepräsidentin
-- **danach:** Begrüssung durch ZV-Präsident Jaime Iglesias
-- **anschliessend:** Musik
+Die detaillierte Ablaufplanung mit den genauen Zeiten erstellt Ueli Stucki. Sie regelt auch die Einsätze der Musiker. In diesem Dokument wird deshalb nur der grobe Ablauf festgehalten:
 
-### Erste Hälfte des Absenden
+1. **10:30 Uhr:** Saalöffnung
+2. **12:30 Uhr:** Ansprachen
+3. Anschliessend **Block 1** der Ehrungen
+4. Danach Übergabe des Spendenchecks an die Kinderheimat Tabor
+5. Anschliessend **Block 2** der Ehrungen
+6. Abschluss mit dem **Schweizerpsalm**
 
-In der ersten Hälfte werden folgende Anlässe abgesendet. Die Durchführung des jeweiligen Absends erfolgt durch die dafür zuständige Stelle:
+### Block 1
 
-1. **Schweizerischer Unterverbandsmannschaftswettkampf**
-   - Das Absenden wird durch das durchführende OK vorgenommen.
-2. **Schweizer Einzelcup**
-   - Das Absenden wird durch den Schweizer Cup-Leiter vorgenommen.
-3. **Schweizer Klubcup**
-   - Das Absenden wird durch den Schweizer Cup-Leiter vorgenommen.
-4. **Schweizerischer Senioren-Wettkampf**
-   - Das Absenden wird durch das organisierende OK vorgenommen.
+In Block 1 werden folgende Anlässe abgesendet:
 
-- Zwischen den einzelnen Absenden ist jeweils Musik vorgesehen.
+1. **Schweizerischer Unterverbandsmannschaftswettkampf (UVMW)** – die Medaillen werden durch das OK des UVMW überreicht.
+2. **Schweizer Einzelcup** – Durchführung durch den Schweizer Cup-Leiter.
+3. **Schweizer Klubcup** – Durchführung durch den Schweizer Cup-Leiter.
+4. **Schweizerischer Senioren-Wettkampf** – Durchführung durch das organisierende OK.
 
 ### Übergabe des Spendenchecks
 
-- Anstelle des geplanten Tambouren-Auftritts wird zwischen der ersten und der zweiten Hälfte des Absenden einer gemeinnützigen Organisation ein Check über CHF 2'000.– überreicht.
-- **Empfängerorganisation:** Kinderheimat Tabor in Aeschi b. Spiez.
-- **Besuch:** Heimleiter Herr Klingelhöfer besucht das Absenden am 14. November 2026 um 15:00 Uhr.
-- Herr Klingelhöfer wird Prospektmaterial der Kinderheimat Tabor mitbringen.
-- **Symbolischer Spendencheck:** Markus Berwert stellt als Kassier den symbolischen Check bereit.
-- **Zahlung:** Die Spende von CHF 2'000.– wird durch Kassier Markus Berwert bezahlt.
+Die Checkübergabe findet zwischen Block 1 und Block 2 statt. Die Einzelheiten zur Spende und zur Übergabe klärt Markus Berwert direkt mit Herrn Klingelhöfer. Sie müssen deshalb hier nicht weiter ausgeführt werden.
 
-### Zweite Hälfte des Absenden
+### Block 2
 
-Die zweite Hälfte des Absenden wird durch den **Sportleiter der SM 2026** durchgeführt. Sie umfasst folgende Blöcke:
+Block 2 wird durch den Sportleiter der SM 2026 durchgeführt und umfasst:
 
 1. **Kantonewettkampf**
 2. **Einzelwettkampf Damen**
 3. **Einzelwettkampf Herren**
 4. **Babeliköniginnen und Babelikönige**
-   - Kategorie A: Dame und Herr mit der höchsten Anzahl Bsbeli (9er)
-   - Kategorie B: Dame und Herr mit der höchsten Anzahl Bsbeli (9er)
-   - Kategorie C: Dame und Herr mit der höchsten Anzahl Bsbeli (9er)
+   - Kategorie A, B und C, jeweils für Damen und Herren mit der höchsten Anzahl Bsbeli (9er).
 5. **Klubwettkampf**
-
-Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und abgesendet. Die genaue Reihenfolge innerhalb der Blöcke sowie die einzelnen Ehrungen und Preisübergaben werden bei der weiteren Planung ergänzt.
 
 ## Einladungen / Anmeldung / Eingang
 
@@ -92,7 +79,7 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
 - **Wechselgeld:** Der Kassier stellt für sämtliche Kassen und Service-Geldbeutel einen Stock an Wechselgeld bereit.
 - **Kassier:** Markus Berwert ist für die Kassen zuständig.
 - **Auszahlungen:** Sämtliche Auszahlungen erfolgen grundsätzlich durch den Kassier Markus Berwert.
-- **Einnahmen am Abend:** Markus Berwert behändigt am Abend sämtliche Kassen und Service-Geldbeutel mit den darin enthaltenen Einnahmen. Die einzelnen Kassen und Geldbeutel werden dabei nicht kontrolliert.
+- **Einnahmen am Abend:** Markus Berwert behändigt am Abend sämtliche Kassen und Service-Geldbeutel mit den darin enthaltenen Einnahmen. Dass die einzelnen Kassen und Geldbeutel dabei nicht gemeinsam kontrolliert werden, ist bewusst so vorgesehen.
 - **Trinkgelder:** Allfällige Trinkgelder werden vom Servicepersonal während des Anlasses separat gesammelt und von den übrigen Einnahmen getrennt gehalten. Der Kassier teilt die Trinkgelder zwischen Küchenpersonal und Servicepersonal auf und gibt sie unmittelbar am Anlass ab.
 - Für Unklarheiten am Eingang ist eine verantwortliche Person des OK zu bestimmen.
 
@@ -113,8 +100,7 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
 - Bereich für das Grillbuffet und die Getränke vorbereiten.
 - Eingangsbereich und notwendige Beschilderung vorbereiten.
 - Halle vor dem Eintreffen der Gäste kontrollieren und in einen sauberen, betriebsbereiten Zustand versetzen.
-- **Bühne:** Alle Medaillen und Preise für das Absenden bereitstellen.
-  - **Medaillen bereitstellen:** Zwei Tische auf der Bühne für die Medaillen bereitstellen. Die Medaillen werden für jedes Absenden auf Service-Tableaus vorbereitet und auf den Tischen platziert; sie werden nicht aufgehängt.
+- **Bühne:** Mario Schmid ist für die Bereitstellung und korrekte Vorbereitung der Medaillen und Preise verantwortlich. Zwei Tische auf der Bühne für die Medaillen bereitstellen. Die Medaillen werden für jedes Absenden auf Service-Tableaus vorbereitet und auf den Tischen platziert; sie werden nicht aufgehängt.
 - **Tombola vorbereiten:** Preise, Lose, Verkauf und weitere benötigte Materialien vorbereiten.
   - **Preise und Lose abholen:** Preise und Lose vorgängig in Heimberg abholen und zur Einrichtung der Tombola in die Halle mitbringen.
 - **Werbeplakate vorbereiten:** Plakate für den Anlass erstellen und für die vorgesehene Platzierung vorbereiten.
@@ -125,7 +111,7 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
 
 ## Ehrendamen
 
-- **Ehrendamen:** Corinna Trachsel und eine zweite, noch zu bestimmende Ehrendame.
+- **Ehrendamen:** Corinna Trachsel und eine zweite Ehrendame, deren Name noch in den Unterlagen ergänzt werden muss. Die zweite Dame ist bereits angefragt und bekannt.
 - **Aufgaben während der Ansprachen:** Die Ehrendamen flankieren die Redner.
 - **Aufgaben während des Absenden:** Die Ehrendamen flankieren die Geehrten bei den offiziellen Fotos im Foyer.
 - **Entschädigung:** Jede Ehrendame erhält CHF 50.– sowie freies Essen und Getränke.
@@ -141,20 +127,18 @@ Die einzelnen Blöcke werden durch den Sportleiter der SM 2026 aufgerufen und ab
 
 - **Fotografinnen:** Zoe Steiner und Livia Gurtner übernehmen das Fotografieren am Anlass.
 - **Entschädigung:** Beide Fotografinnen erhalten je CHF 50.– sowie freies Essen und Getränke.
-- **Offizielle Fotos der Geehrten:** Im Foyer wird eine eigene Zone für die offiziellen Fotos der Geehrten eingerichtet. Die Fotos werden somit nicht direkt auf der Bühne gemacht, damit das Absenden dort zügig durchgeführt werden kann.
+- **Offizielle Fotos der Geehrten:** Im Foyer wird eine eigene Zone für die offiziellen Fotos der Geehrten eingerichtet. Die Geehrten gehen unmittelbar nach ihrer Ehrung zum Fototermin ins Foyer, damit das Absenden auf der Bühne zügig weitergehen kann.
+- **Beschriftungsblätter für Fotos und Preise:** Mario Schmid bereitet Blätter vor, aus denen die jeweilige Ehrung hervorgeht. Bei der ersten Aufnahme zu einer Ehrung hält eine Ehrendame das entsprechende Blatt gut sichtbar ins Bild, damit die Fotos später zugeordnet werden können. Dieselben Blätter werden auch bei den vorbereiteten Preisen verwendet, um deren Zuordnung zu erleichtern.
 - Vor dem Anlass festlegen, welche wichtigen Momente fotografisch festgehalten werden sollen, insbesondere Begrüssung, Fahnen-Einmarsch, Absenden, Preis- und Medaillenübergaben, Übergabe des Spendenchecks sowie Gruppen- und Bühnenbilder.
-- Für die einzelnen Absende-Blöcke festlegen, wie die Geehrten nach der Ehrung zur Fotozone im Foyer gelangen und wer sie dort koordiniert.
-- Sicherstellen, dass die offiziellen Fotos möglichst unmittelbar nach der jeweiligen Ehrung gemacht werden können.
+- Die Ehrendamen unterstützen den Fotoprozess, indem eine von ihnen beim ersten Bild einer Ehrung das entsprechende Beschriftungsblatt sichtbar hält.
 - Falls Fotos veröffentlicht oder für Berichte und Medien verwendet werden sollen, die erforderlichen Einwilligungen bzw. Hinweise klären.
 - Nach dem Anlass die Fotos zentral sammeln, sichern und für die weitere Verwendung bereitstellen.
 
 ## Pendenzen
 
-- **Lieferung der Medaillen und Preise:** Klären, wie und wann die Preise zu uns geliefert werden.
-- **Musik:** Es soll bereits eine Vereinbarung bestehen. Name der verantwortlichen Person bzw. des Musikpartners sowie die konkreten Abmachungen müssen noch geklärt werden.
-- **Spendencheck vorbereiten:** Check über CHF 2'000.– für die Kinderheimat Tabor in Aeschi b. Spiez bereitstellen und die Übergabe an Heimleiter Herrn Klingelhöfer am 14. November 2026 um 15:00 Uhr organisieren. Er bringt Prospektmaterial mit.
+- **Lieferung der Medaillen und Preise:** Klären, wie und wann die Preise geliefert werden.
 - **Ehrung Sport, Americaine und Kombination:** Es ist zu klären, ob die Siegerinnen und Sieger von Sport, Americaine und Kombination auf der Bühne explizit geehrt werden oder ob die Preise lediglich abgegeben werden.
-- **Fotograf:** Verantwortliche Person bzw. Fotograf für den Anlass bestimmen und Einsatz absprechen.
+- **Zweite Ehrendame:** Den Namen der bereits angefragten und bekannten zweiten Ehrendame in den Unterlagen ergänzen.
 
 ## Weitere Details
 
@@ -164,24 +148,16 @@ Die Organisation und der Ablauf des Anlasses werden schrittweise ergänzt.
 
 ### Verpflegung und Getränke
 
-- Wer meldet Gäxus Metzg die Anzahl der zu verpflegenden Personen?
-
-### Ablauf und Zeitplanung
-
-- Ist der zeitliche Ablauf des gesamten Nachmittags ausreichend detailliert festgelegt?
-- Wie lange ist für die einzelnen Absende-Blöcke ungefähr einzuplanen?
-- Wie viel Zeit ist für Einmarsch, Begrüssungen, Musik und Showblock vorgesehen?
-- Gibt es einen detaillierten Ablaufplan mit Uhrzeiten, der am Anlass für alle Verantwortlichen verfügbar ist?
-- Wer ist für die laufende Zeitkontrolle und die Einhaltung des Ablaufs verantwortlich?
+- Ueli Stucki meldet Gäxus Metzg die definitive Anzahl der Verpflegungspersonen.
 
 ### Bühnenorganisation und Ehrungen
 
 - Wer koordiniert den Ablauf auf der Bühne während des Absenden?
 - Wer ruft die zu ehrenden Personen auf bzw. sorgt dafür, dass sie rechtzeitig bereitstehen?
-- Wer stellt sicher, dass die richtigen Medaillen und Preise zur richtigen Zeit bereitliegen?
-- Wer übergibt Medaillen, Preise und Blumen?
+- Mario Schmid ist für die Bereitstellung und korrekte Vorbereitung der Medaillen und Preise verantwortlich.
+- Bei den Ehrungen übernimmt grundsätzlich der Zentralvorstand die Übergabe; die UVMW-Medaillen überreicht das OK des UVMW.
 - Wie werden Personen behandelt, die in mehreren Kategorien oder Wettbewerben geehrt werden?
-- Wie werden die Ehrendamen eingesetzt und wer koordiniert sie?
+- Die Ehrendamen flankieren während der Ansprachen die Redner und begleiten die offiziellen Fotos im Foyer. Beim ersten Foto zu einer Ehrung hält eine Ehrendame das Beschriftungsblatt sichtbar ins Bild.
 - Sind besondere Geschenke oder Dankespräsente für Funktionäre, Helfer, Ehrengäste oder andere Personen vorgesehen?
 
 ### Ehrungslisten und Unterlagen
