@@ -9,7 +9,7 @@
 
 ## Verpflegung
 
-- **Grillbuffet:** Menu und Preis mit **Gäxus Metzg** sind fixiert. Das Grillbuffet wird durch Gäxus Metzg organisiert und durchgeführt. Ueli Stucki meldet Gäxus Metzg die definitive Anzahl der zu verpflegenden Personen.
+- **Grillbuffet:** Menu und Preis mit **Gäxus Metzg** sind fixiert. Das Grillbuffet wird durch Gäxus Metzg organisiert und durchgeführt. Ueli Stucki meldet Gäxus Metzg die definitive Anzahl der zu verpflegenden Personen **bis spätestens 10. November 2026**.
 - **Entschädigung Caterer:** Die Entschädigung des Caterers wird direkt am Anlass bar gegen Quittung bezahlt. Markus Berwert übernimmt die Zahlung als Kassier.
 - **Hilfspersonal:** Das OK stellt drei Personen für das Schöpfen der Speisen und den Abwasch zur Verfügung.
 - **Buffettische:** Für das Buffet werden vier bis fünf Tische benötigt. Die Bereitstellung und Aufstellung ist durch das OK sicherzustellen.
@@ -158,47 +158,38 @@ Die Organisation und der Ablauf des Anlasses werden schrittweise ergänzt.
 - Sind Namen, Schreibweise, Reihenfolge und Kategorien der Geehrten geprüft?
 - Ist bekannt, welche Personen mehrere Auszeichnungen erhalten?
 - Welche Unterlagen benötigt die Moderation bzw. der Sportleiter für das Absenden?
-- Gibt es für die einzelnen Absende-Blöcke vorbereitete Listen oder Ablaufblätter?
+- Gibt es für die einzelnen Absende-Blöcke Ablaufblätter oder separate Ehrungslisten?
 
 ### Moderation und Technik
 
-- Wer übernimmt die Moderation bzw. die Ansagen zwischen den einzelnen Programmpunkten?
-- Wer bedient Mikrofone, Musik, Präsentationen und weitere Technik?
-- Gibt es eine verantwortliche Person für die Technik während des gesamten Anlasses?
-- Müssen Bilder, Ranglisten oder andere Inhalte auf einem Bildschirm bzw. Beamer gezeigt werden?
-- Ist eine technische Probe vor dem Eintreffen der Gäste vorgesehen?
+- **Durchsage Preistaschen:** Der Moderator gibt während des Absenden bekannt, dass die Preistaschen abholbereit sind und von den jeweiligen Unterverbänden abgeholt werden müssen.
+- Wer übernimmt die Moderation und die Ansagen zwischen den Programmpunkten?
+- Wer bedient Mikrofone, Musik und allfällige Präsentationstechnik?
+- Werden Bilder, Ranglisten oder andere Inhalte auf einem Bildschirm oder Beamer gezeigt?
+- Wann findet der Techniktest statt?
 
-### Ehrendamen und Gäste
+### Gäste und Besucherführung
 
-- Welche Kleidung bzw. Ausstattung ist für die Ehrendamen vorgesehen?
-- Wer empfängt und betreut besondere Ehrengäste und Vertreter der Verbände?
-- Ist für besondere Gäste eine Sitzordnung oder Platzreservation vorgesehen?
-
-### Beschilderung und Besucherführung
-
+- Wer empfängt und betreut Ehrengäste und Vertretungen der Verbände?
+- Sind Sitzplätze für besondere Gäste reserviert?
+- **Garderobe:** Im Foyer steht eine unbetreute Garderobe zur Verfügung.
 - Sind Eingang, Toiletten, Verpflegung, Sitzplätze und weitere Bereiche ausreichend beschildert?
-- Müssen Hinweise für Personen mit eingeschränkter Mobilität berücksichtigt werden?
-- Sind Parkplätze und der Weg zur Halle für die Gäste ausreichend gekennzeichnet?
+- Sind Parkplatz und Zugang zur Halle gut gekennzeichnet und ist die Zugänglichkeit für Personen mit eingeschränkter Mobilität berücksichtigt?
 
-### Personal und Helfer
+### Verpflegung und Getränke
 
-- Wie viele Helferinnen und Helfer werden für Aufbau, Eingang, Service, Abwasch, Technik, Bühne, Tombola und Abbau benötigt?
-- Wer erstellt den Helferplan und teilt die Personen den Aufgaben zu?
-- Wer ist während des Anlasses Ansprechperson für die Helfer?
-- Gibt es für Aufbau und Abbau einen verbindlichen Zeitplan?
+- **Frage:** Wer meldet Gäxus Metzg die Anzahl der zu verpflegenden Personen?
+  **Antwort:** Ueli Stucki meldet die definitive Anzahl **bis spätestens 10. November 2026**.
 
-### Finanzen und Abrechnung
+### Personal, Finanzen und Abschluss
 
+- **Auszahlungen:** Sämtliche Auszahlungen erfolgen grundsätzlich durch den Kassier Markus Berwert.
+- Wer erstellt den Helferplan und ist während des Anlasses Ansprechperson für die Helferinnen und Helfer?
+- Wann erfolgen Aufbau und Abbau, und wer ist jeweils vor Ort verantwortlich?
 - Wer vertritt Markus Berwert als Kassier bei Abwesenheit?
 - Wie werden die Einnahmen aus den einzelnen Verkaufsbereichen nach der Übernahme durch den Kassier weiter abgerechnet?
-- Wer begleicht offene Rechnungen mit Caterer, Lieferanten und weiteren Partnern?
-- Wie werden Sponsoring- und Sachleistungen dokumentiert?
-
-### Sicherheit und Abschluss
-
-- Sind Fluchtwege und Notausgänge frei und gekennzeichnet?
-- Ist geklärt, wer im Notfall verantwortlich handelt?
-- Gibt es einen Erste-Hilfe-Kasten und ist bekannt, wo er sich befindet?
-- Wer kontrolliert am Ende des Anlasses die Halle und übernimmt die Übergabe?
-- Was muss nach dem Anlass gereinigt, zurückgestellt oder zurückgebracht werden?
-- Sind für alle ausgeliehenen Geräte, insbesondere die Kaffeemaschinen und den Werbefernseher, Rückgabe und Transport organisiert?
+- Wer begleicht offene Rechnungen und dokumentiert Sponsoring- und Sachleistungen?
+- Sind Fluchtwege und Notausgänge frei, und ist klar, wer im Notfall handelt?
+- Wo befindet sich der Erste-Hilfe-Kasten?
+- Wer kontrolliert und übergibt die Halle nach dem Anlass?
+- Wer organisiert Reinigung, Rücktransport und Rückgabe der ausgeliehenen Geräte, insbesondere der Kaffeemaschinen und des Werbefernsehers?
