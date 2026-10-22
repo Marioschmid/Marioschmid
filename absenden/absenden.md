@@ -54,7 +54,7 @@ Die Checkübergabe findet zwischen Block 1 und Block 2 statt. Die Einzelheiten z
 
 ### Block 2
 
-Block 2 wird durch den Sportleiter der SM 2026 durchgeführt und umfasst:
+Block 2 wird durch den Sportleiter der SM 2026 durchgeführt. Die Ehrungen von **Sport, Americaine und Kombination** finden ebenfalls in diesem Block statt und sind in der Detailplanung von Ueli Stucki enthalten. Der Block umfasst:
 
 1. **Kantonewettkampf**
 2. **Einzelwettkampf Damen**
@@ -137,7 +137,6 @@ Block 2 wird durch den Sportleiter der SM 2026 durchgeführt und umfasst:
 ## Pendenzen
 
 - **Lieferung der Medaillen und Preise:** Klären, wie und wann die Preise geliefert werden.
-- **Ehrung Sport, Americaine und Kombination:** Es ist zu klären, ob die Siegerinnen und Sieger von Sport, Americaine und Kombination auf der Bühne explizit geehrt werden oder ob die Preise lediglich abgegeben werden.
 
 ## Weitere Details
 
