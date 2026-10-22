@@ -6,7 +6,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 
 ### Programm und Mitwirkende
 - [ ] **Musik:** Bestehende Vereinbarung überprüfen. Verantwortliche Person bzw. Musikpartner, Umfang, Einsätze und Kosten festhalten.
-- [ ] **Spendencheck:** Check über CHF 2'000.– für die Kinderheimat Tabor in Aeschi b. Spiez bereitstellen und die Übergabe an Heimleiter Herrn Klingelhöfer am 14. November 2026 um 15:00 Uhr organisieren. Herr Klingelhöfer bringt Prospektmaterial mit.
+- [ ] **Spendencheck:** Markus Berwert stellt als Kassier den symbolischen Check über CHF 2'000.– für die Kinderheimat Tabor in Aeschi b. Spiez bereit und nimmt die Zahlung der Spende vor. Die Übergabe an Heimleiter Herrn Klingelhöfer am 14. November 2026 um 15:00 Uhr organisieren. Herr Klingelhöfer bringt Prospektmaterial mit.
 - [ ] **Gemeinde Ringgenberg:** Anfragen, ob eine Vertretung des Gemeinderats teilnehmen und eine kurze Begrüssung halten kann.
 - [ ] **Sport, Americaine und Kombination:** Entscheiden, ob die Siegerinnen und Sieger auf der Bühne ausdrücklich geehrt werden oder ob lediglich die Preise abgegeben werden.
 
