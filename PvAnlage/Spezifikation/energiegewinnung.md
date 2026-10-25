@@ -49,7 +49,23 @@ Auf der Ost-Dachfläche befindet sich ein stillgelegter Kamin, der für die Leit
 - Rückbau und Vorbereitung des Kabelschachts sind mit der Planung der PV-Anlage abzustimmen.
 - Die Modulbelegung der Ost-Dachfläche ist unter Berücksichtigung des Kaminrückbaus und der vorgesehenen Leitungsführung festzulegen.
 
-## 6. Noch zu klärende Planungsgrundlagen
+## 6. Spätere Erweiterung der Photovoltaikanlage
+
+Rund um das Gebäude stehen weitere Flächen zur Verfügung, die grundsätzlich für eine spätere Installation zusätzlicher Photovoltaikmodule genutzt werden könnten. Diese Flächen sind nicht Bestandteil der ersten Ausbaustufe.
+
+Die Anlage ist jedoch bereits bei der Erstinstallation so zu planen, dass eine spätere Erweiterung möglichst einfach und wirtschaftlich umgesetzt werden kann. Insbesondere ist der Wechselrichter so auszulegen oder erweiterbar zu gestalten, dass zusätzliche PV-Module auf den weiteren Flächen angeschlossen werden können.
+
+Der Anbieter hat in der Offerte aufzuzeigen, welche Erweiterungsmöglichkeiten bestehen und welche technischen Voraussetzungen dafür bei der Erstinstallation berücksichtigt werden müssen. Dabei sind insbesondere folgende Punkte zu berücksichtigen:
+
+- verfügbare und für die späteren Flächen geeignete MPP-Tracker und String-Anschlüsse;
+- Leistungsreserven und zulässige elektrische Betriebsbereiche des Wechselrichters;
+- Möglichkeit, bei Bedarf einen zusätzlichen Wechselrichter oder weitere geeignete Komponenten zu ergänzen;
+- mögliche Auswirkungen der Erweiterung auf Batteriespeicher, Energiemanagement und Netzanschluss;
+- technische Grenzen und voraussichtlicher Aufwand einer späteren Erweiterung.
+
+Eine ausreichende Leistungsreserve des Wechselrichters allein gilt nicht als Nachweis der Erweiterbarkeit. Die geplante Lösung muss auch hinsichtlich String-Anschlüssen, MPP-Tracking und elektrischer Kompatibilität für die möglichen zusätzlichen Modulflächen geeignet sein. Falls eine spätere Erweiterung mit dem vorgesehenen Wechselrichter nicht sinnvoll möglich ist, sind geeignete Alternativen und deren Vor- und Nachteile in der Offerte darzustellen.
+
+## 7. Noch zu klärende Planungsgrundlagen
 
 Vor der Festlegung der Anlagenleistung und Modulbelegung sind insbesondere folgende Punkte zu klären:
 
@@ -57,4 +73,5 @@ Vor der Festlegung der Anlagenleistung und Modulbelegung sind insbesondere folge
 - mögliche Modulbelegung und daraus resultierende installierbare Leistung in kWp;
 - erwarteter Jahresertrag und saisonale Verteilung;
 - geeignete Wechselrichterauslegung und elektrische Verschaltung der unterschiedlich ausgerichteten bzw. geneigten Dachflächen;
+- mögliche Erweiterungsflächen rund um das Gebäude und die dafür erforderlichen technischen Reserven;
 - Abstimmung mit dem separat spezifizierten Batteriespeicher und dem Energiemanagementsystem.
