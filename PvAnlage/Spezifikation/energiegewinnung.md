@@ -19,7 +19,20 @@ Die Bruttofläche ist nicht mit der nutzbaren Modulfläche gleichzusetzen. Die e
 
 Die Dachflächen A und B weisen eine Neigung von ca. 30° auf. Die untere Westfläche C weist eine flachere Neigung von ca. 15° auf. Die Auswirkungen dieser unterschiedlichen Ausrichtungen und Neigungen auf Ertrag, Verschattung und elektrische Verschaltung sind bei der Anlagenplanung zu prüfen.
 
-## 3. Stillgelegter Kamin auf der Ost-Dachfläche
+## 3. String-Auslegung und MPP-Tracking
+
+Die drei Dachflächen können abhängig von Ausrichtung, Neigung und Verschattung zu unterschiedlichen Tageszeiten und unter unterschiedlichen Einstrahlungsbedingungen ihre maximale Leistung erreichen. Diese Unterschiede sind bei der Auslegung der Modulstrings und der Wechselrichter zu berücksichtigen.
+
+- Für jede Dachfläche ist der erwartete zeitliche Leistungsverlauf zu ermitteln und bei der Anlagenplanung zu berücksichtigen.
+- Module mit unterschiedlichen Ausrichtungen, Neigungen oder wesentlich unterschiedlichen Verschattungsbedingungen dürfen nicht ohne technische Prüfung gemeinsam in einem String verschaltet werden.
+- Der Anbieter hat darzulegen, welche Dachflächen jeweils einem String und einem unabhängigen MPP-Tracker zugeordnet werden.
+- Die Anzahl der benötigten Strings und unabhängigen MPP-Tracker ist anhand der konkreten Modulbelegung, der elektrischen Modulwerte und des gewählten Wechselrichters zu bestimmen. Die beiden Westflächen sind insbesondere darauf zu prüfen, ob sie getrennte Strings und/oder unabhängige MPP-Tracker benötigen.
+- Für alle Strings sind die zulässigen Spannungs- und Strombereiche des Wechselrichters einzuhalten, einschliesslich der Grenzen bei tiefen und hohen Modultemperaturen.
+- Die gewählte Verschaltung ist mit einer nachvollziehbaren technischen Begründung und einer Ertragsabschätzung für die drei Dachflächen in der Offerte auszuweisen.
+
+Die getrennte Führung jeder Dachfläche auf einen eigenen MPP-Tracker ist nicht pauschal vorgeschrieben. Die konkrete Lösung muss technisch geeignet sein und den erwarteten Energieertrag berücksichtigen.
+
+## 4. Stillgelegter Kamin auf der Ost-Dachfläche
 
 Auf der Ost-Dachfläche befindet sich ein stillgelegter Kamin, der für die Leitungsführung der PV-Anlage genutzt werden soll.
 
@@ -30,7 +43,7 @@ Auf der Ost-Dachfläche befindet sich ein stillgelegter Kamin, der für die Leit
 - Rückbau und Vorbereitung des Kabelschachts sind mit der Planung der PV-Anlage abzustimmen.
 - Die Modulbelegung der Ost-Dachfläche ist unter Berücksichtigung des Kaminrückbaus und der vorgesehenen Leitungsführung festzulegen.
 
-## 4. Noch zu klärende Planungsgrundlagen
+## 5. Noch zu klärende Planungsgrundlagen
 
 Vor der Festlegung der Anlagenleistung und Modulbelegung sind insbesondere folgende Punkte zu klären:
 
