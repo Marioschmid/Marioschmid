@@ -104,11 +104,27 @@ Unterhalb dieses SOC soll die Batterie den Hausverbrauch nicht mehr vollständig
 
 Die Höhe der Reserve ist als Anlagenparameter festzulegen und soll später ohne Änderung der grundlegenden Regelungslogik angepasst werden können.
 
-## 9. Betriebsarten
+## 9. Ausbaubarkeit der Batteriekapazität
+
+Die Batterielösung muss so gewählt werden, dass die nutzbare Batteriekapazität zu einem späteren Zeitpunkt erweitert werden kann.
+
+Die anfänglich installierte Batteriekapazität soll deshalb nicht zwingend die endgültig benötigte Kapazität darstellen. Eine spätere Erweiterung muss mit zusätzlichen Batteriemodulen beziehungsweise einer vom Hersteller vorgesehenen Erweiterungslösung möglich sein.
+
+Bei der Auswahl des Systems ist insbesondere darauf zu achten, dass:
+
+- der Wechselrichter beziehungsweise das Batteriesystem für eine spätere Kapazitätserweiterung geeignet ist,
+- zusätzliche Batteriemodule mit dem zunächst installierten System kompatibel sind,
+- die maximale zulässige Batteriekapazität des Systems bekannt ist,
+- die Erweiterung ohne vollständigen Austausch des bestehenden Batteriesystems möglich ist,
+- die technische und wirtschaftliche Erweiterbarkeit für die geplante Lebensdauer berücksichtigt wird.
+
+Die maximal mögliche spätere Batteriekapazität ist in der Offerte anzugeben.
+
+## 10. Betriebsarten
 
 Die Anlage soll mindestens folgende Betriebszustände unterscheiden können:
 
-### 9.1 PV-Überschuss
+### 10.1 PV-Überschuss
 
 PV-Leistung ist grösser als der aktuelle Hausverbrauch.
 
@@ -116,7 +132,7 @@ PV-Leistung ist grösser als der aktuelle Hausverbrauch.
 - Überschuss lädt die Batterie.
 - Nach Erreichen des maximalen SOC wird der verbleibende Überschuss eingespeist.
 
-### 9.2 PV deckt Verbrauch nicht vollständig
+### 10.2 PV deckt Verbrauch nicht vollständig
 
 PV-Leistung ist kleiner als der aktuelle Hausverbrauch.
 
@@ -124,22 +140,22 @@ PV-Leistung ist kleiner als der aktuelle Hausverbrauch.
 - Batterie übernimmt den verbleibenden Verbrauch, soweit SOC und maximale Entladeleistung dies zulassen.
 - Nur der verbleibende Rest wird aus dem Netz bezogen.
 
-### 9.3 Keine ausreichende PV-Leistung
+### 10.3 Keine ausreichende PV-Leistung
 
 PV liefert keine beziehungsweise nicht genügend Leistung.
 
 - Batterie versorgt das Haus, soweit möglich.
 - Wird der minimale SOC erreicht oder reicht die maximale Entladeleistung nicht aus, erfolgt der verbleibende Bezug aus dem öffentlichen Netz.
 
-### 9.4 Batterie voll
+### 10.4 Batterie voll
 
 Ist die Batterie vollständig geladen, wird überschüssige PV-Energie gemäss der vorgesehenen Einspeiseregelung ins öffentliche Netz eingespeist.
 
-### 9.5 Batterie leer beziehungsweise Mindest-SOC erreicht
+### 10.5 Batterie leer beziehungsweise Mindest-SOC erreicht
 
 Bei Erreichen des definierten Mindest-SOC wird die Batterieentladung beendet oder auf die konfigurierte Reserve beschränkt. Der verbleibende Hausverbrauch wird aus dem öffentlichen Netz gedeckt.
 
-## 10. Netzbezug und Netznutzungsentgelt
+## 11. Netzbezug und Netznutzungsentgelt
 
 Für die Planung ist zwischen PV-Energie und Netzenergie zu unterscheiden.
 
@@ -151,7 +167,7 @@ Die Anlage ist deshalb so zu konfigurieren, dass die Batterie im normalen Betrie
 
 Die konkrete Messung, Abrechnung und allfällige zusätzliche Messeinrichtungen sind mit dem zuständigen Netzbetreiber, insbesondere BKW, vor der Installation zu klären.
 
-## 11. Anforderungen an Wechselrichter und Energiemanagement
+## 12. Anforderungen an Wechselrichter und Energiemanagement
 
 Die angebotene Lösung muss mindestens folgende Eigenschaften unterstützen:
 
@@ -168,7 +184,7 @@ Die angebotene Lösung muss mindestens folgende Eigenschaften unterstützen:
 
 Die Kommunikation zwischen Energiezähler, Energiemanagementsystem und Batterie-/PV-Wechselrichter muss für eine ausreichend schnelle Regelung ausgelegt sein.
 
-## 12. Verhalten bei Kommunikations- oder Messfehlern
+## 13. Verhalten bei Kommunikations- oder Messfehlern
 
 Bei Ausfall oder fehlerhaften Werten der Messung am Netzanschlusspunkt muss ein sicherer Betriebszustand gewährleistet sein.
 
@@ -176,7 +192,7 @@ Insbesondere darf ein Mess- oder Kommunikationsfehler nicht dazu führen, dass d
 
 Das konkrete Fehlerverhalten ist Bestandteil der Anlagenplanung und mit dem Hersteller beziehungsweise Installateur festzulegen.
 
-## 13. Anforderungen an die Offerte
+## 14. Anforderungen an die Offerte
 
 Der Installateur soll in der Offerte ausdrücklich bestätigen:
 
@@ -189,10 +205,12 @@ Der Installateur soll in der Offerte ausdrücklich bestätigen:
 7. welcher Mindest-SOC vorgesehen ist,
 8. welche maximale Lade- und Entladeleistung zur Verfügung steht,
 9. welche Regelverzögerung beziehungsweise Regelgenauigkeit am Netzanschlusspunkt erreicht wird,
-10. welche zusätzlichen Zähler oder Messeinrichtungen für BKW erforderlich sind,
-11. wie die Anlage bei Kommunikations- oder Messfehlern reagiert.
+10. welche maximale Batteriekapazität das System unterstützt,
+11. wie die spätere Erweiterung der Batteriekapazität technisch umgesetzt werden kann,
+12. welche zusätzlichen Zähler oder Messeinrichtungen für BKW erforderlich sind,
+13. wie die Anlage bei Kommunikations- oder Messfehlern reagiert.
 
-## 14. Abnahmekriterien
+## 15. Abnahmekriterien
 
 Die Funktion ist nach der Installation anhand realer Betriebszustände zu prüfen.
 
@@ -205,5 +223,6 @@ Mindestens folgende Tests sind durchzuführen:
 - Kein Hausverbrauch bei nicht ausreichender PV-Leistung: Batterie speist nicht gezielt ins öffentliche Netz ein.
 - Batterie darf im normalen Betriebsmodus nicht aus dem öffentlichen Netz geladen werden.
 - Kurzzeitige Lastschwankungen führen nicht zu instabilem Lade-/Entladeverhalten.
+- Die angebotene Batterielösung ermöglicht eine spätere Erweiterung der Kapazität gemäss den Anforderungen dieser Spezifikation.
 
 Die tatsächlich erreichbare Restmenge an Netzbezug ist abhängig von Messgenauigkeit, Regelgeschwindigkeit, Wechselrichterleistung und kurzfristigen Laständerungen. Ein dauerhafter Wert von exakt 0 W Netzbezug ist deshalb nicht als technische Voraussetzung festzulegen; Ziel ist eine möglichst weitgehende Vermeidung des Netzbezugs.
