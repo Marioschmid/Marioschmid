@@ -22,6 +22,10 @@ Dabei gelten folgende Grundsätze:
 - Die Batterie soll den Hausverbrauch bei ungenügender PV-Leistung unterstützen, damit der Netzbezug möglichst gering bleibt.
 - Die Batterie soll im normalen Betriebsmodus nicht aus dem öffentlichen Netz geladen werden und nicht gezielt Batteriestrom ins öffentliche Netz einspeisen.
 - Die bestehende Wärmepumpe und der elektrische Boiler sollen bei der Planung und, soweit technisch sinnvoll möglich, bei der Nutzung von PV-Überschuss berücksichtigt werden.
+- Eine selbst aufgebaute Homeautomation auf Basis von Home Assistant soll Energieflüsse und geeignete Verbraucher koordinieren können. Die PV-Anlage darf dafür keine unnötige Bindung an eine bestimmte Cloud oder proprietäre Steuerungsplattform voraussetzen.
+- Haushaltsgeräte wie Geschirrspüler, Waschmaschine und Wäschetrockner sollen abhängig von der Energiesituation betrieben werden können: teils mit automatischem Start nach ausdrücklicher Freigabe, teils über Startvorschläge.
+- Vorrangiges Optimierungsziel ist, möglichst viel selbst erzeugten PV-Strom direkt im Gebäude zu nutzen. Dabei sollen Komfort, Gerätesicherheit und sinnvolle Nutzung der Batterie berücksichtigt werden.
+- Der bevorstehende Küchenumbau soll genutzt werden, um erforderliche Stromkreise, Anschlüsse, Netzwerkverbindungen und mögliche Steuerungs- oder Messpunkte rechtzeitig vorzubereiten.
 - Die Anlage soll modular aufgebaut sein: Die Erstinstallation bleibt begrenzt, spätere Erweiterungen sollen ohne unnötigen Austausch bereits installierter Komponenten möglich sein.
 - Die Betriebsweise muss stabil, sicher und für den Betreiber nachvollziehbar sein.
 
@@ -56,11 +60,12 @@ Das Gesamtsystem besteht funktional mindestens aus folgenden Komponenten:
 2. **PV-/Batteriewechselrichter und gegebenenfalls weitere Wechselrichter:** Wandeln und steuern die Energieflüsse entsprechend der gewählten Systemarchitektur. Die Eignung für die erste Ausbaustufe und spätere Erweiterungen ist nachzuweisen.
 3. **Energiemessung am Netzanschlusspunkt:** Erfasst Bezug und Einspeisung, damit das Energiemanagement den tatsächlichen Energiefluss des Gebäudes kennt.
 4. **Batteriespeicher:** Nimmt PV-Überschuss auf und versorgt bei Bedarf die Verbraucher des Gebäudes. Die Einzelanforderungen stehen in der Batteriespeicher-Spezifikation.
-5. **Energiemanagementsystem (EMS):** Koordiniert PV-Erzeugung, Batterie, Hausverbrauch sowie – soweit technisch möglich – Wärmepumpe und elektrischen Boiler.
+5. **Energiemanagement und Home Assistant:** Home Assistant ist als geplante zentrale Homeautomation vorgesehen. Es soll Energieinformationen zusammenführen und Automationen für geeignete Verbraucher ermöglichen. Es ist zu klären, welche Funktionen durch das PV-/Batteriesystem selbst und welche durch Home Assistant übernommen werden.
 6. **Bestehende Wärmepumpe und elektrischer Boiler:** Können bei geeigneter technischer Schnittstelle als steuerbare Verbraucher genutzt werden, um PV-Überschüsse sinnvoll einzusetzen.
-7. **Netzanschluss und erforderliche Schutz- und Messeinrichtungen:** Müssen für die gewählte Anlagenleistung, die geltenden Anschlussbedingungen und spätere Ausbaustufen geeignet sein.
+7. **Haushaltsgeräte:** Geschirrspüler, Waschmaschine und Wäschetrockner sind erste Kandidaten für eine energieabhängige Betriebsplanung. Weitere geeignete Geräte können später ergänzt werden.
+8. **Netzanschluss und erforderliche Schutz- und Messeinrichtungen:** Müssen für die gewählte Anlagenleistung, die geltenden Anschlussbedingungen und spätere Ausbaustufen geeignet sein.
 
-Der Anbieter hat die vorgesehene Systemarchitektur in einem übersichtlichen Schema darzustellen und die Kommunikation zwischen Zähler, EMS, Wechselrichter, Batterie und steuerbaren Verbrauchern zu erläutern.
+Der Anbieter hat die vorgesehene Systemarchitektur in einem übersichtlichen Schema darzustellen und die Kommunikation zwischen Zähler, Wechselrichter, Batterie und steuerbaren Verbrauchern zu erläutern. Die geplante Homeautomation mit Home Assistant ist dabei als eigenständige, später umsetzbare Komponente zu berücksichtigen. Verfügbare lokale Schnittstellen, Protokolle, Messwerte und Steuerungsmöglichkeiten sind offenzulegen.
 
 ## 5. Energiemanagement und Energieprioritäten
 
@@ -74,7 +79,9 @@ Als grundlegendes Zielbild gilt:
 4. Der verbleibende Bedarf wird aus dem öffentlichen Netz gedeckt.
 5. Überschüssige PV-Energie, die weder im Haus verbraucht noch gespeichert oder sinnvoll thermisch genutzt werden kann, darf gemäss den geltenden Anschluss- und Einspeiseregeln ins Netz abgegeben werden.
 
-Die konkrete Priorisierung zwischen Batterieladung, Wärmepumpe und Boiler ist im Rahmen der Anlagenplanung festzulegen. Sie soll konfigurierbar sein und die Bedürfnisse des Gebäudes berücksichtigen, statt Verbraucher ohne Rücksicht auf ihren Wärmebedarf einzuschalten.
+Die konkrete Priorisierung zwischen Batterieladung, Wärmepumpe, Boiler und weiteren steuerbaren Verbrauchern ist im Rahmen der Anlagen- und Homeautomation-Planung festzulegen. Das vorrangige Optimierungsziel ist, möglichst viel selbst erzeugten PV-Strom direkt im Gebäude zu nutzen und unnötige Einspeisung zu vermeiden. Dabei ist zu berücksichtigen, dass die Batterie späteren Hausverbrauch abdecken kann; ein Verbraucher soll nicht allein aufgrund eines kurzen Überschusses gestartet werden, wenn dies insgesamt zu einem ungünstigeren Betrieb führt.
+
+Die Steuerungslogik soll mindestens den aktuellen Netzbezug bzw. die Netzeinspeisung, die PV-Leistung, den Batterieladezustand, den übrigen Hausverbrauch sowie bekannte zeitliche Anforderungen der Verbraucher berücksichtigen. Schwellenwerte, Verzögerungen und Prioritäten sollen konfigurierbar sein, damit die Steuerung nicht bei jeder kurzfristigen Leistungsschwankung reagiert.
 
 Die Anforderungen an Batterieentladung, Mindest-SOC, Vermeidung von Netzladung und Vermeidung gezielter Einspeisung von Batteriestrom richten sich nach der [Spezifikation Batteriespeicher](batterieSpeicher.md).
 
@@ -108,7 +115,70 @@ Wenn eine geeignete Steuerung möglich ist, soll das Energiemanagement den Boile
 
 Eine Steuerung des Boilers darf vorhandene Sicherheits- oder Temperaturregelungen nicht umgehen. Falls keine geeignete Schnittstelle vorhanden ist, soll der Anbieter die technisch und wirtschaftlich sinnvollen Alternativen ausweisen.
 
-## 8. Messung, Überwachung und Bedienung
+## 8. Home Assistant und energieabhängiger Betrieb von Haushaltsgeräten
+
+Für die Homeautomation ist ein selbst aufgebautes System auf Basis von Home Assistant vorgesehen. Es soll die Energieinformationen der PV-Anlage, des Batteriespeichers und des Netzanschlusspunkts nutzen und bei geeigneten Geräten energieabhängige Betriebsabläufe ermöglichen. Die genaue Umsetzung wird in einer separaten Spezifikation der Homeautomation festgelegt; diese Systemübersicht definiert die Anforderungen an die Schnittstellen und die Abstimmung mit der Energieanlage.
+
+### 8.1 Vorgesehene Geräte
+
+Als erste Kandidaten sind vorgesehen:
+
+- Geschirrspüler;
+- Waschmaschine;
+- Wäschetrockner.
+
+Weitere geeignete Verbraucher können später ergänzt werden. Auch bei der Küchenplanung sollen mögliche zusätzliche Geräte und Automationen berücksichtigt werden, ohne bereits jetzt eine abschliessende Geräteliste vorauszusetzen.
+
+### 8.2 Kombination aus automatischem Start und Startvorschlägen
+
+Die Steuerung soll zwei Betriebsarten ermöglichen:
+
+- **Automatischer Start:** Ein Gerät darf automatisch gestartet werden, wenn der Betreiber diesen Automatikbetrieb für das Gerät ausdrücklich freigegeben hat, die Geräteschnittstelle den Start zuverlässig unterstützt und die definierten Energie- und Zeitbedingungen erfüllt sind.
+- **Startvorschlag:** Wenn ein sicherer automatischer Start nicht möglich oder nicht freigegeben ist, soll Home Assistant einen geeigneten Startzeitpunkt vorschlagen bzw. den Betreiber informieren, dass genügend selbst erzeugte Energie verfügbar ist.
+
+Ein Gerät darf nicht allein durch das Unterbrechen und Wiederherstellen seiner Stromversorgung gestartet werden, sofern dies nicht ausdrücklich vom Hersteller vorgesehen und für das Gerät sicher ist. Bevorzugt werden dokumentierte Geräteschnittstellen oder vom Hersteller vorgesehene Funktionen verwendet.
+
+### 8.3 Entscheidungsgrundlagen
+
+Die Automatisierung soll – soweit die erforderlichen Messwerte verfügbar sind – berücksichtigen:
+
+- aktuelle PV-Erzeugung und den tatsächlichen Energiefluss am Netzanschlusspunkt;
+- aktuellen Hausverbrauch und laufende grössere Verbraucher, insbesondere Wärmepumpe und Boiler;
+- Batterieladezustand und Lade-/Entladeleistung;
+- erwartete bzw. verfügbare PV-Leistung, sofern eine geeignete Prognose vorhanden ist;
+- manuelle Freigabe, gewünschte Fertigstellungszeit und weitere vom Betreiber gesetzte Zeitvorgaben;
+- Prioritäten zwischen den Geräten sowie die zulässige Gesamtlast.
+
+Die erste Zielsetzung ist, möglichst viel selbst erzeugten PV-Strom direkt zu verbrauchen. Die Steuerung soll aber keine unnötigen Wasch- oder Trocknungsvorgänge auslösen und keine wichtigen Zeitvorgaben oder Sicherheitsbedingungen verletzen. Bei fehlenden oder unplausiblen Messwerten muss die Automatik in einen definierten sicheren Zustand wechseln und darf keine unkontrollierten Starts auslösen.
+
+### 8.4 Koordination und Bedienung
+
+Die Steuerung soll mehrere Geräte koordinieren können. Beispielsweise kann die Waschmaschine zuerst und der Trockner anschliessend betrieben werden, sofern Energieangebot, Zeitvorgaben und Geräteeigenschaften dies zulassen. Gleichzeitige hohe Lasten sollen bei Bedarf vermieden werden.
+
+Der Betreiber muss erkennen können, ob ein Gerät auf Automatik freigegeben ist, auf einen Start wartet, einen Startvorschlag erhalten hat oder gerade läuft. Ein manueller Start muss weiterhin möglich sein; manuelle Eingriffe sollen von der Automatik respektiert werden.
+
+### 8.5 Schnittstellen und Zuständigkeiten
+
+Der PV-Anbieter soll dokumentieren, welche Energie- und Gerätemesswerte lokal über geeignete Schnittstellen verfügbar sind und ob bzw. wie ein externes Energiemanagement darauf zugreifen kann. Die Anlage soll nach Möglichkeit offene, dokumentierte und lokal nutzbare Schnittstellen unterstützen. Eine vollständige Home-Assistant-Installation ist nicht zwingend Bestandteil der PV-Erstinstallation; notwendige Zähler, Kommunikationsschnittstellen und sinnvolle Vorbereitungen sind jedoch in der Offerte auszuweisen.
+
+Die sicherheitsrelevante Regelung von Wärmepumpe, Boiler und Haushaltsgeräten verbleibt bei den jeweiligen Geräten bzw. ihren dafür vorgesehenen Schutz- und Regelungssystemen. Home Assistant darf diese Funktionen nicht umgehen.
+
+## 9. Küchenumbau und bauliche Vorbereitung
+
+Der bevorstehende Küchenumbau soll frühzeitig mit der PV- und Homeautomation-Planung abgestimmt werden. Ziel ist, spätere Automationen und Messungen zu ermöglichen, ohne dafür erneut Wände, Möbel oder Installationen öffnen zu müssen.
+
+Bei der Küchenplanung sind – in Abstimmung mit einer Elektrofachperson – insbesondere zu prüfen:
+
+- passende und ausreichend dimensionierte Stromkreise für Geschirrspüler, Backofen, Kochfeld, Kühlschrank und weitere vorgesehene Geräte;
+- sichere und normgerechte Möglichkeiten zur Messung des Energieverbrauchs einzelner Geräte oder Stromkreise, falls dies für die Automationen erforderlich ist;
+- Netzwerk- und Funkabdeckung am vorgesehenen Standort von Geräten und Steuerungskomponenten;
+- Platz und Zugänglichkeit für zusätzliche Messgeräte, Aktoren oder Kommunikationsmodule;
+- Leitungswege und Reservekapazitäten für spätere Ergänzungen;
+- Beleuchtung, Präsenz- oder Türsensoren sowie weitere gewünschte Homeautomation-Funktionen.
+
+Es sind nicht vorsorglich alle Geräte intelligent zu schalten. Vorbereitungen sollen auf den geplanten Bedarf und auf wirtschaftlich sinnvolle Erweiterungsmöglichkeiten abgestimmt werden. Arbeiten an festen elektrischen Installationen sind durch qualifizierte Fachpersonen auszuführen.
+
+## 10. Messung, Überwachung und Bedienung
 
 Das Gesamtsystem soll die wesentlichen Energieflüsse nachvollziehbar anzeigen. Mindestens folgende Messwerte bzw. Zustände sollen – soweit die jeweilige Komponente sie bereitstellt – verfügbar sein:
 
@@ -122,7 +192,7 @@ Das Gesamtsystem soll die wesentlichen Energieflüsse nachvollziehbar anzeigen. 
 
 Die Offerte soll beschreiben, welche Werte direkt gemessen und welche aus Geräteinformationen übernommen werden. Mess- und Steuerfunktionen dürfen nicht allein aufgrund einer grafischen Anzeige als vorhanden gelten.
 
-## 9. Modularität und spätere Erweiterbarkeit
+## 11. Modularität und spätere Erweiterbarkeit
 
 Das System ist für einen stufenweisen Ausbau vorzusehen. Neben den in der Energiegewinnungs-Spezifikation beschriebenen optionalen PV-Flächen ist auch die Erweiterbarkeit des Batteriespeichers gemäss der Batteriespeicher-Spezifikation zu berücksichtigen.
 
@@ -133,12 +203,14 @@ Der Anbieter soll darstellen, welche Komponenten bei der Erstinstallation bereit
 - Leistungsgrenzen des Netzanschlusses und erforderliche Meldungen oder Bewilligungen;
 - Erweiterbarkeit der Batteriekapazität;
 - verfügbare EMS-Ein- und Ausgänge sowie unterstützte Kommunikationsprotokolle;
-- Schnittstellen zur Wärmepumpe und zum Boiler;
+- lokale Schnittstellen und verfügbare Messwerte für Home Assistant;
+- Schnittstellen zur Wärmepumpe, zum Boiler und zu den vorgesehenen Haushaltsgeräten;
+- erforderliche bauliche und elektrische Vorbereitungen beim Küchenumbau;
 - Kosten für sinnvolle Vorbereitungen bei der Erstinstallation gegenüber nachträglichen Umbauten.
 
 Die Offerte muss die Kosten der ersten Ausbaustufe von optionalen Vorbereitungen und späteren Erweiterungen trennen. Erweiterbarkeit ist anhand konkreter technischer Angaben und nicht nur mit einer allgemeinen Herstellerzusage zu belegen.
 
-## 10. Anforderungen an die Offerte
+## 12. Anforderungen an die Offerte
 
 Der Anbieter soll mindestens folgende Unterlagen und Angaben liefern:
 
@@ -153,8 +225,10 @@ Der Anbieter soll mindestens folgende Unterlagen und Angaben liefern:
 9. Auflistung benötigter zusätzlicher Zähler, Sensoren, Kommunikationsmodule und Steuergeräte.
 10. Getrennte Kosten für die erste Ausbaustufe, sinnvolle vorbereitende Massnahmen und optionale spätere Erweiterungen.
 11. Benennung technischer Einschränkungen, Annahmen und noch offener Abklärungen.
+12. Angaben zu lokal verfügbaren Schnittstellen für Home Assistant, einschliesslich allfälliger Lizenz-, Cloud- oder Zusatzhardware-Anforderungen.
+13. Auflistung der sinnvollen elektrischen, Netzwerk- und Messvorbereitungen, die im Rahmen der PV-Erstinstallation bzw. des Küchenumbaus berücksichtigt werden sollten.
 
-## 11. Inbetriebnahme und Abnahme
+## 13. Inbetriebnahme und Abnahme
 
 Bei der Inbetriebnahme sind die wesentlichen Funktionen des Gesamtsystems zu prüfen und zu dokumentieren. Die Prüfungen ergänzen die spezifischen Abnahmekriterien in den Dokumenten [Energiegewinnung](energiegewinnung.md) und [Batteriespeicher](batterieSpeicher.md).
 
@@ -171,7 +245,7 @@ Mindestens zu prüfen sind:
 
 Die Inbetriebnahme soll mit einer verständlichen Anlagendokumentation und einer Einführung für den Betreiber abgeschlossen werden.
 
-## 12. Noch offene Grundlagen
+## 14. Noch offene Grundlagen
 
 Folgende Angaben sind bei der Detailplanung zu erheben oder zu bestätigen:
 
@@ -181,4 +255,7 @@ Folgende Angaben sind bei der Detailplanung zu erheben oder zu bestätigen:
 - konkrete Modulbelegung, Leistung und Ertragsprognose der ersten PV-Ausbaustufe;
 - anfängliche Batteriekapazität und mögliche spätere Erweiterung;
 - technische Architektur und Betriebsstrategie des Energiemanagements;
+- Schnittstellenstrategie zwischen Home Assistant, PV-/Batteriesystem, Wärmepumpe, Boiler und Haushaltsgeräten;
+- gewünschte Automatikfreigaben, Startvorschläge und Zeitvorgaben für Haushaltsgeräte;
+- Umfang der beim Küchenumbau vorzusehenden elektrischen, Netzwerk- und Messvorbereitungen;
 - Anforderungen des zuständigen Netzbetreibers an Netzanschluss, Messung und Einspeisung.
