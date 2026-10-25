@@ -32,7 +32,13 @@ Die drei Dachflächen können abhängig von Ausrichtung, Neigung und Verschattun
 
 Die getrennte Führung jeder Dachfläche auf einen eigenen MPP-Tracker ist nicht pauschal vorgeschrieben. Die konkrete Lösung muss technisch geeignet sein und den erwarteten Energieertrag berücksichtigen.
 
-## 4. Stillgelegter Kamin auf der Ost-Dachfläche
+## 4. Verschattung
+
+Das Gebäude steht freistehend. Eine relevante Verschattung durch benachbarte Gebäude wird deshalb nicht erwartet.
+
+Mögliche Eigenverschattung durch die Dachgeometrie und Dachaufbauten ist bei der Modulbelegung und String-Auslegung zu berücksichtigen. Der stillgelegte Kamin auf der Ost-Dachfläche soll vor der Montage der PV-Anlage so zurückgebaut werden, dass der verbleibende Kaminzug als Kabelschacht genutzt werden kann.
+
+## 5. Stillgelegter Kamin auf der Ost-Dachfläche
 
 Auf der Ost-Dachfläche befindet sich ein stillgelegter Kamin, der für die Leitungsführung der PV-Anlage genutzt werden soll.
 
@@ -43,11 +49,10 @@ Auf der Ost-Dachfläche befindet sich ein stillgelegter Kamin, der für die Leit
 - Rückbau und Vorbereitung des Kabelschachts sind mit der Planung der PV-Anlage abzustimmen.
 - Die Modulbelegung der Ost-Dachfläche ist unter Berücksichtigung des Kaminrückbaus und der vorgesehenen Leitungsführung festzulegen.
 
-## 5. Noch zu klärende Planungsgrundlagen
+## 6. Noch zu klärende Planungsgrundlagen
 
 Vor der Festlegung der Anlagenleistung und Modulbelegung sind insbesondere folgende Punkte zu klären:
 
-- allfällige Verschattungen auf den drei Dachflächen;
 - effektiv nutzbare Dachfläche und vorhandene Dachhindernisse;
 - mögliche Modulbelegung und daraus resultierende installierbare Leistung in kWp;
 - erwarteter Jahresertrag und saisonale Verteilung;
