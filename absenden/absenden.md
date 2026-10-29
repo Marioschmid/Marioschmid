@@ -105,10 +105,37 @@ Block 2 wird durch den Sportleiter der SM 2026 durchgeführt. Die Ehrungen von *
 - **Tombola vorbereiten:** Preise, Lose, Verkauf und weitere benötigte Materialien vorbereiten.
   - **Preise und Lose abholen:** Preise und Lose vorgängig in Heimberg abholen und zur Einrichtung der Tombola in die Halle mitbringen.
 - **Werbeplakate vorbereiten:** Plakate für den Anlass erstellen und für die vorgesehene Platzierung vorbereiten.
-  - **Werbeplakate und Werbefernseher abholen:** Werbeplakate und Werbefernseher vorgängig in Heimberg abholen und zur Einrichtung der Werbung in die Halle mitbringen.
-  - **Werbefernseher aufstellen:** Fernseher in der Halle aufstellen und anschliessen.
+    - **Werbefernseher aufstellen:** Fernseher in der Halle aufstellen und anschliessen.
     - **Stromversorgung:** Abklären, wo der benötigte Strom für den Werbefernseher bezogen werden kann.
 - **Kaffeeversorgung vorbereiten:** Die beiden gesponserten Kaffeevollautomaten in der Halle aufstellen und für den Anlass bereitstellen. Das mitgelieferte Banner der H&R Gastro AG aufhängen.
+
+## Transport Rössli nach Burgseelihalle
+
+Der Transport der im Kegelzentrum Rössli in Heimberg bereitgestellten Gegenstände zur Burgseelihalle in Ringgenberg sowie der Rücktransport nach dem Anlass erfolgt durch **Ueli Stucki mit seinem Anhänger**.
+
+### Hintransport
+
+Der Hintransport erfolgt am **Freitag, 13. November 2026**, am Vortag des Absenden. Die Gegenstände werden im Kegelzentrum Rössli geladen und anschliessend zur Burgseelihalle transportiert.
+
+**Das Entladen in der Burgseelihalle kann ab 17:00 Uhr beginnen.**
+
+### Vom Rössli zur Burgseelihalle zu transportieren
+
+- **Sieben Harrassen Wein** der SM auf Kommission.
+- **Siegerpodest**.
+- **Tombola-Preise**.
+- **Tombola-Lose und weiteres Tombola-Material**.
+- **Drei SFKV-Blachen** mit Logo.
+- **Zwei SFKV-Tafeln** mit Logo.
+- **SFKV-Fernseher**.
+
+Die Gegenstände sind vor der Abfahrt so zu verladen und zu sichern, dass sie während des Transports nicht beschädigt werden. Insbesondere ist beim Fernseher auf eine geeignete Sicherung zu achten.
+
+### Rücktransport nach dem Anlass
+
+Nach dem Absenden transportiert Ueli Stucki die Gegenstände, die nicht in der Burgseelihalle verbleiben, mit seinem Anhänger zurück ins Kegelzentrum Rössli in Heimberg.
+
+Dazu gehören insbesondere das Siegerpodest, der SFKV-Fernseher, die SFKV-Blachen und -Tafeln, das verbleibende Tombola-Material sowie der verbleibende Weinbestand einschliesslich Leergut. Der genaue Umfang des Rücktransports ist nach dem Anlass zu kontrollieren. Restwein und Leergut sind dem Lieferanten zurückzugeben.
 
 ## Ehrendamen
 
