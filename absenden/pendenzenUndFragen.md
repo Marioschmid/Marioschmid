@@ -14,7 +14,7 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 - [ ] **Hilfspersonal:** Drei Personen für Schöpfen und Abwasch einteilen.
 - [ ] **Buffettische:** Vier bis fünf Tische organisieren und sicherstellen, dass sie rechtzeitig aufgestellt werden.
 - [ ] **Getränke:** Bedarf an Bier und Süssgetränken nach Sortiment und Menge klären und Beschaffung organisieren. Bier und Süssgetränke am Freitag, 13. November 2026, abholen oder liefern lassen und im Kühlraum der Küche lagern.
-- [ ] **Wein:** Sieben Harrassen Wein im Kegelzentrum Rössli in Heimberg abholen. Der Wein wird in Konsignation bewirtschaftet; den Restbestand und das Leergut nach dem Anlass an den Lieferanten zurückgeben.
+- [ ] **Wein:** Sieben Harrassen Wein im Kegelzentrum Rössli in Heimberg bereitstellen. Der Hintransport zur Burgseelihalle erfolgt am Freitag, 13. November 2026, durch Ueli Stucki mit seinem Anhänger. Der Wein wird in Konsignation bewirtschaftet; den Restbestand und das Leergut nach dem Anlass an den Lieferanten zurückgeben.
 - [ ] **Butterzöpfe:** Gäxus Metzg teilt Doris Schmid spätestens am Mittwoch vor dem Anlass die benötigte Anzahl Butterzöpfe mit.
 - [ ] **Dessertbuffet:** Mit der Ändels Bachstuba die Lieferung von drei Patisseriesorten (Cremeschnitte, Vermicelles und Quark) sowie Nussgipfeln bestätigen. Zuständigkeit des OK für Betrieb und Verkauf bestätigen.
 - [ ] **Dessertmengen melden:** Der Ändels Bachstuba die benötigte Anzahl Nussgipfel und Patisseriestücke (Cremeschnitte, Vermicelles und Quark) mitteilen.
@@ -41,14 +41,14 @@ Diese Liste fasst die aus der aktuellen Planung des Absenden vom 14. November 20
 ### Halle, Bühne und Material
 - [ ] **Helferinnen und Helfer:** Genügend Personen für Aufbau, Abbau, Eingang, Service, Abwasch und weitere Aufgaben rekrutieren und einteilen.
 - [ ] **Bühne und Saal:** Bestuhlung, Rednerbereich, Fahnenplatz bzw. Einmarschweg und Dekoration vorbereiten.
-- [ ] **Siegerpodest:** Das Siegerpodest befindet sich im Kegelzentrum Rössli in Heimberg und muss vorgängig abgeholt und zur Burgseelihalle transportiert werden. Die Abholung ist mit dem Wein, dem Tombola-Material und dem SFKV-Werbematerial zu koordinieren.
+- [ ] **Siegerpodest:** Das Siegerpodest befindet sich im Kegelzentrum Rössli in Heimberg und wird am Freitag, 13. November 2026, durch Ueli Stucki mit seinem Anhänger zur Burgseelihalle transportiert. Das Entladen in der Halle kann ab 17:00 Uhr beginnen. Der Rücktransport erfolgt nach dem Anlass ebenfalls durch Ueli Stucki.
 - [ ] **Preistaschen für die Unterverbände:** Für jeden Unterverband wird eine Tasche mit sämtlichen Preisen (Kranzkarten und Kränzen) für Kegler und Klubs des jeweiligen Unterverbands vorbereitet. Ausgenommen sind die Preise, die auf der Bühne überreicht werden. Hans Rufibach und Nelly Zimmermann bereiten die Taschen vorgängig vor. Aufgrund des erheblichen Werts der Preise werden die Taschen erst am Absende-Samstag direkt zur Halle gebracht. In der Halle sind zwei Tische für die Bereitstellung und Abholung der Taschen aufzustellen. Hans Rufibach und Nelly Zimmermann platzieren die Taschen auf diesen Tischen.
 - [ ] **Garderobe:** Im Foyer eine unbetreute Garderobe bereitstellen.
 - [ ] **Technik:** Tonanlage, Mikrofone und Beleuchtung bereitstellen und testen.
 - [ ] **Medaillen und Preise:** Klären, wie und wann die Medaillen und Preise geliefert werden. Mario Schmid ist für die Bereitstellung und korrekte Vorbereitung der Medaillen und Preise verantwortlich.
 - [ ] **Medaillen bereitstellen:** Zwei Tische auf der Bühne für die Medaillen bereitstellen. Die Medaillen werden für jedes Absenden auf Service-Tableaus vorbereitet und auf den Tischen platziert; sie werden nicht aufgehängt.
-- [ ] **Tombola:** Vier Tische für die Tombola bereitstellen. Preise und Lose in Heimberg abholen; Verkauf und benötigtes Material organisieren.
-- [ ] **SFKV-Werbematerial und SFKV-Fernseher:** Drei Blachen und zwei Tafeln mit dem SFKV-Logo sowie den SFKV-Fernseher in Heimberg abholen und zur Burgseelihalle transportieren. Die drei Blachen an der Sprossenwand befestigen und die beiden Tafeln beim Rednerpult auf der Bühne aufstellen. Den Fernseher aufstellen, anschliessen und einen geeigneten Stromanschluss sicherstellen.
+- [ ] **Tombola:** Vier Tische für die Tombola bereitstellen. Preise und Lose in Heimberg abholen und gemeinsam mit dem übrigen Tombola-Material am Freitag, 13. November 2026, durch Ueli Stucki zur Burgseelihalle transportieren; das Entladen kann ab 17:00 Uhr beginnen. Verkauf und benötigtes Material organisieren.
+- [ ] **SFKV-Werbematerial und SFKV-Fernseher:** Drei Blachen und zwei Tafeln mit dem SFKV-Logo sowie den SFKV-Fernseher in Heimberg abholen und gemeinsam mit dem übrigen Rössli-Transport am Freitag, 13. November 2026, durch Ueli Stucki zur Burgseelihalle transportieren. Die drei Blachen an der Sprossenwand befestigen und die beiden Tafeln beim Rednerpult auf der Bühne aufstellen. Den Fernseher aufstellen, anschliessen und einen geeigneten Stromanschluss sicherstellen.
 - [ ] **Getränkeausgabe und Kaffeeversorgung:** Die Getränkeausgabe zwischen Küche und Foyer einrichten. Die beiden Kaffeevollautomaten am gleichen Ort platzieren, aufstellen und betriebsbereit machen.
 
 ### Ehrungen, Blumen und Fotos
